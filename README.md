@@ -44,12 +44,12 @@ The purpose of the story time program is to generate a story and print it to the
 4. Save the file and run your code to see what happens. Notice that the input question is printed to the screen and then your inputted information is stored in the variable 'name' which is then used in the printed statement saying hello.	 
 	![](story2.png)
 	
-5. Can you now create two more variables to store information about what gender the user is, and whay day of the week it is?
+5. Can you now create two more variables to store information about what **gender** the user is, and whay **day of the week** it is? You will need this inforation in your final story.
 
 
 ## Step 2: If, Elif and Else
 
-Having discovered the gender of the user, you can use that information in your story, but as you know from your literacy lessons, nouns are preceeded with 'he and 'she', and not 'girl' or 'boy' which are the values currently stored in the gender variable. It's okay, as we can use computing concept to help us out. 
+Having discovered the gender of the user, you can use that information in your story, but as you know from your literacy lessons, nouns are preceeded with 'he and 'she', and not 'girl' or 'boy' which are the values currently stored in the gender variable. It's okay, as you can use computing concept to help out here called a *conditional*.
 
 1. Underneath the input and print statements type:
 
@@ -57,7 +57,7 @@ Having discovered the gender of the user, you can use that information in your s
 	if gender == "girl":
 	    pronoun = "she"
 	```
-	These two lines of code state that *if* the answer to the question 'Are you a girl or boy?' is 'girl' then set the pronoun to be 'she'. 
+	These two lines of code state that *if* the answer to the question 'Are you a girl or boy?' is 'girl' then set the pronoun to be 'she'. This is a condition. 
 		
 2. Now you need to set the pronoun if the answer to the question is 'boy':
 	
@@ -89,7 +89,7 @@ Lists can be named in much the same way as variables. For example, `number = [1,
 	
 	This is a list of different names. You can change the names between the quotation marks and replace them with names of your friends, or made-up names. 
 	
-2. Create more lists for 'places', 'actions' and 'roles' like this:
+2. Create more lists for **places**, **actions** and **roles** like this:
 
 	```python
 	roles = ["knight", "princess", "prince", "frog", "wizard", "ogre" ]
@@ -133,6 +133,7 @@ Great, you have made it to the fun part. Here is where you get to piece all your
 	```python
 	story = "Once upon a time, there was a " + player_role + " called " + name + ". " + 	pronoun + " and some friends found themselves in the magic land of " + 	random.choice(places) + ". This land was ruled by " + actor_name + " the " + actor_role + 	". All of a sudden a mysterious voice spoke to them from high in the sky and said you must 	" + quest + " " + actor_name + " the " + actor_role + " to lift the curse of not being 	able to use technology...."
 	```
+	
 	*Remember this should be typed all on one line!*
 	
 
