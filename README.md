@@ -56,11 +56,23 @@ Having discovered the gender of the user, you can use that information in your s
 	```python
 	if gender == "girl":
 	    pronoun = "she"
+	```
+	These two lines of code state that *if* the answer to the question 'Are you a girl or boy?' is 'girl' then set the pronoun to be 'she'. 
+		
+2. Now you need to set the pronoun if the answer to the question is 'boy':
+	
+	```python
 	elif gender == "boy":
-	    pronoun = "he"    
+	    pronoun = "he"
+	```
+	*elif* means 'else, if' 
+	
+3. But what if the user doesn't type 'girl' or 'boy'? Well you can cover all bases by typing:	
+	```python        
 	else:
 	    pronoun = "it"
 	```    
+4. Save your work so far by clicking on **File** and **Save**.
 	
 
 ## Step 3: Lists
