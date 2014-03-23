@@ -100,48 +100,37 @@ With lists of actions, places, names, and roles you can write some code that wil
 
 ## Step 5: Story Time!
 
+Great, you have made it to the fun part. Here is where you get to piece all your hard work togather into a story. Here you can be as imaginative and creative as you like bringing it all together.
+
+1. This part of the program will be written all on one line. Begin by creating a variable to store your story in by typing `story =`
+
+2. Then on the same line open a quotation with `"`
+
+3. Next type the start of your story, for example `Once upon a time, there was a`
+
+4. Leave a space and then close your qoutation marks `"` 
+
+5. Now you can add a random plater role by typing `+ player_role +`
+
+6. Then return to typing your story by opening qoutation marks `" called "`
+
+7. And add the users name ` + name +` before writing more of the story.
+
+8. Continue until you have used all your varaibles like this:
+
+	```python
+	story = "Once upon a time, there was a " + player_role + " called " + name + ". " + 	pronoun + " and some friends found themselves in the magic land of " + 	random.choice(places) + ". This land was ruled by " + actor_name + " the " + actor_role + 	". All of a sudden a mysterious voice spoke to them from high in the sky and said you must 	" + quest + " " + actor_name + " the " + actor_role + " to lift the curse of not being 	able to use technology...."
+	```
+	*Remember this should be typed all on one line!*
+	
+
+## Step 6: The final print
+
+There is one last line of code you need to write in order for the final randomly generated story to appear on the screen, and it was the first python code you learned in step 1. The print function!
 
 
-
-```python
-story = "Once upon a time, there was a " + player_role + " called " + name + ". " + pronoun + " and some friends found themselves in the magic land of " + random.choice(places) + ". This land was ruled by " + actor_name + " the " + actor_role + ". All of a sudden a mysterious voice spoke to them from high in the sky and said you must " + quest + " " + actor_name + " the " + actor_role + " to lift the curse of not being able to use technology...."
-```
-
-
-```python
-import random
-
-name = input('What is your name? ')
-print("Your name is, " + name)
-
-gender = input('Are you a boy or a girl? ')
-print("You are a " + gender)
-
-day = input('What day is it? ')
-print("Today is " + day)
-
-
-if gender == "girl":
-    pronoun = "she"
-elif gender == "boy":
-    pronoun = "he"
-else:
-    pronoun = "it"
-
-
-
-roles = ["knight", "princess", "prince", "frog", "wizard", "ogre" ]
-places = ["computopia", "turingville", "programistan", "digitopolis", "bool city"]
-names = ["Alice", "Bob", "Eve", "John", "Jill", "Alan", "Ada", "Grace", "Linus"]
-actions = ["slay", "kiss", "save", "marry", "rescue", "eat", "steal"]
-
-player_role = random.choice(roles)
-actor_role = random.choice(roles)
-actor_name = random.choice(names)
-quest = random.choice(actions)
-
-story = "Once upon a time, there was a " + player_role + " called " + name + ". " + pronoun + " and some friends found themselves in the magic land of " + random.choice(places) + ". This land was ruled by " + actor_name + " the " + actor_role + ". All of a sudden a mysterious voice spoke to them from high in the sky and said you must " + quest + " " + actor_name + " the " + actor_role + " to lift the curse of not being able to use technology...."
-
-
-print(story)
-```
+1. To print your final story type:
+	
+	```python
+	print(story)	
+	```
