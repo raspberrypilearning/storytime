@@ -74,6 +74,8 @@ Having discovered the gender of the user, you can use that information in your s
 	```    
 4. Save your work so far by clicking on **File** and **Save**.
 	
+	
+	![](story3.png)
 
 ## Step 3: Lists
 
@@ -84,7 +86,7 @@ Lists can be named in much the same way as variables. For example, `number = [1,
 1. Underneath the last line of code you have written in your storytime program, leave a line blank and then type:
 
 	```python
-	names = ["Alice", "Bob", "Eve", "John", "Jill", "Alan", "Ada", "Grace", "Linus"]
+	names = ["Ben", "Dave", "Liz", "Alex", "Rachel", "Clive", "Eben"]
 	```
 	
 	This is a list of different names. You can change the names between the quotation marks and replace them with names of your friends, or made-up names. 
@@ -92,8 +94,11 @@ Lists can be named in much the same way as variables. For example, `number = [1,
 2. Create more lists for **places**, **actions** and **roles** like this:
 
 	```python
-	roles = ["knight", "princess", "prince", "frog", "wizard", "ogre" ]
+	roles = ["knight", "princess", "prince", "frog", "wizard", "ogre"]
 	```
+	
+	![](story4.png)
+	
 		
 ## Step 4: Using Random
 
@@ -108,7 +113,7 @@ With lists of actions, places, names, and roles you can write some code that wil
 	actor_name = random.choice(names)
 	```
 	
-
+	![](story7.png)
 
 ## Step 5: Story Time!
 
@@ -134,8 +139,9 @@ Great, you have made it to the fun part. Here is where you get to piece all your
 	story = "Once upon a time, there was a " + player_role + " called " + name + ". " + 	pronoun + " and some friends found themselves in the magic land of " + 	random.choice(places) + ". This land was ruled by " + actor_name + " the " + actor_role + 	". All of a sudden a mysterious voice spoke to them from high in the sky and said you must 	" + quest + " " + actor_name + " the " + actor_role + " to lift the curse of not being 	able to use technology...."
 	```
 	
-	*Remember this should be typed all on one line!*
+	*Remember this should be typed all on one line! Don't forget to use your pronoun variable in your sentence too!*
 	
+	![](story8.png)
 
 ## Step 6: The final print
 
@@ -147,3 +153,5 @@ There is one last line of code you need to write in order for the final randomly
 	```python
 	print(story)	
 	```
+
+	![](story9.png)
