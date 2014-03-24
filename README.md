@@ -6,7 +6,7 @@ This tutorial allows you to tell a story with code. It demonstrates the simple u
 
 ## Step 0: Setting up your Raspberry Pi
 
-You will need to set up your Raspberry Pi to take part in this activity. See the Raspberry Pi Start Guide here to get you up and running.
+You will need to set up your Raspberry Pi to take part in this activity. See the [Raspberry Pi Start Guide here](https://github.com/raspberrypi/documentation/blob/master/setup/README.md) to get you up and running.
 
 ## Step 1: Using a Text Editor
 
@@ -18,6 +18,8 @@ A great way to write your code and test it in intavals is to use a text editor. 
 
 3. Save the file as `storytime.py` by clicking on **File** and **Save As**.
 
+	![](idle3.png)
+	
 ## Step 2: Get user input and print to the screen
 
 The purpose of the story time program is to generate a story and print it to the screen so someone can read it. A good way to start therefore is understanding how to use the Python `print` function.
