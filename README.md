@@ -136,7 +136,7 @@ Great, you have made it to the fun part. Here is where you get to piece all your
 8. Continue until you have used all your varaibles like this:
 
 	```python
-	story = "Once upon a time, there was a " + player_role + " called " + name + ". " + 	pronoun + " and some friends found themselves in the magic land of " + 	random.choice(places) + ". This land was ruled by " + actor_name + " the " + actor_role + 	". All of a sudden a mysterious voice spoke to them from high in the sky and said you must 	" + quest + " " + actor_name + " the " + actor_role + " to lift the curse of not being 	able to use technology...."
+	story = "Once upon a time, there was a " + actor_role + " called " + name + ". " + pronoun 	+ " and some friends found themselves in the magic land of " + magic_place + ". This land 	was ruled by " + actor_name + " the " + actor_role + ". All of a sudden a mysterious voice 	spoke to them from high in the sky and said you must " + quest + " " + actor_name + " the 	" + actor_role + " to lift the curse of not being able to use technology... "
 	```
 	
 	*Remember this should be typed all on one line! Don't forget to use your pronoun variable in your sentence too!*
@@ -155,3 +155,10 @@ There is one last line of code you need to write in order for the final randomly
 	```
 
 	![](story9.png)
+	
+2. You may find that you program does not run first time, most likely due to a typing error. Don't worry, this happens a lot in computer programming. Working out where the error or bug is and fixing it is called *debugging*. 
+
+	When your program does work, you may find that there are psaces missing between the words in the story or that it is not quite displaying correctly. You can see this in the image above, where a space needs to be added between the words "wizard" and "to". You can simply locate the error, fix it, save the file and run it again.
+	
+
+		
