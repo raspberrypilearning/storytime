@@ -8,6 +8,8 @@ This tutorial lets you tell a story with code. It demonstrates the simple use of
 
 You will need to set up your Raspberry Pi to take part in this activity. See the [Raspberry Pi Start Guide here](http://www.raspberrypi.org/help/quick-start-guide/) to get you up and running.
 
+Ensure that you have logged into your raspberry pi and typed `startx` to load the raspbian graphical user interface.
+
 ## Step 1: Using a Text Editor
 
 A great way to write your code and test it in intervals is to use a text editor. You will be writing your code in Python 3, and the Python programming environment **IDLE3** has a text editor that you can use with it. 
