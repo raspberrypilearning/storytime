@@ -6,7 +6,7 @@ This tutorial lets you tell a story with code. It demonstrates the simple use of
 
 ## Step 0: Setting up your Raspberry Pi
 
-You will need to set up your Raspberry Pi to take part in this activity. See the [Raspberry Pi Start Guide here](https://github.com/raspberrypi/documentation/blob/master/setup/README.md) to get you up and running.
+You will need to set up your Raspberry Pi to take part in this activity. See the [Raspberry Pi Start Guide here](http://www.raspberrypi.org/help/quick-start-guide/) to get you up and running.
 
 ## Step 1: Using a Text Editor
 
