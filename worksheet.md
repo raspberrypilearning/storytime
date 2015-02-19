@@ -159,14 +159,13 @@ There is one last line of code you need to write in order for the final randomly
 
 	When your program does work, you may find that there are spaces missing between the words in the story, or that it is not quite displaying correctly. You can see this in the image above, where a space needs to be added between the words "wizard" and "to". You can simply locate the error, fix it, save the file and run it again.
 	
+## What's next?
+- Can you create another story using the same techniques?
+- Can you connect an LCD screen to your Raspberry Pi GPIO pins to display the story?
+- Can you think of a way to add even more randomisation to your story?
+
 ## Community
 
 This activity was based on [ideas and projects](https://github.com/ldnpydojo/teaching-computing) produced by the [London Python Dojo](https://twitter.com/ldnpydojo) during a visit by Carrie Anne. 
 
-## Licence
-Unless otherwise specified, everything in this repository is covered by the following licence:
-
-![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
-***Storytime*** by the [Raspberry Pi Foundation](http://raspberrypi.org) is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 		
