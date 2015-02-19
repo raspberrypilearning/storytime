@@ -14,7 +14,7 @@ A great way to write your code and test it in intervals is to use a text editor.
 
 3. Save the blank file as `storytime.py` by clicking on **File** and **Save As**.
 
-	![](idle3.png)
+	![](images/idle3.png)
 	
 ## Step 2: Get User Input and Print to the Screen
 
@@ -30,7 +30,7 @@ The purpose of the story time program is to generate a story, and print it to th
 
 	*Note that this tutorial uses Python 3 syntax, so you must be using IDLE3 to run your program.*
 
-	![](story1.png)
+	![](images/story1.png)
 
 3. Now that you can print to the screen, let's find out some information from the person using the program and store it in a variable. At the top of your code type:
 
@@ -41,7 +41,7 @@ The purpose of the story time program is to generate a story, and print it to th
 
 4. Save the file and run your code to see what happens. Notice that the input question is printed to the screen and then the information entered by the user is stored in the variable 'name'; this is then used in the printed statement saying "hello".	 
 
-	![](story2.png)
+	![](images/story2.png)
 	
 5. Can you now create two more variables to store information about what **gender** the user is, and what **day of the week** it is? You will need this information in your final story.
 
@@ -74,7 +74,7 @@ Having discovered the gender of the user, you can use that information in your s
 4. Save your work so far by clicking on **File** and **Save**.
 	
 	
-	![](story3.png)
+	![](images/story3.png)
 
 ## Step 4: Lists
 
@@ -96,7 +96,7 @@ Lists can be named in much the same way as variables; for example, `number = [1,
 	roles = ["knight", "princess", "prince", "frog", "wizard", "ogre"]
 	```
 	
-	![](story4.png)
+	![](images/story4.png)
 	
 		
 ## Step 5: Using Random
@@ -112,7 +112,7 @@ With lists of actions, places, names and roles you can write some code that will
 	actor_name = random.choice(names)
 	```
 	
-	![](story7.png)
+	![](images/story7.png)
 
 ## Step 6: Story Time!
 
@@ -140,7 +140,7 @@ Great, you have made it to the fun part. Here is where you get to piece all your
 	
 	*Remember this should be typed all on one line! Don't forget to use your pronoun variable in your sentence too!*
 	
-	![](story8.png)
+	![](images/story8.png)
 
 ## Step 7: The Final Print
 
@@ -153,7 +153,7 @@ There is one last line of code you need to write in order for the final randomly
 	print(story)	
 	```
 
-	![](story9.png)
+	![](images/story9.png)
 	
 2. You may find that your program does not run first time, most likely due to a typing error. Don't worry; this happens a lot in computer programming. Working out where the error or bug is and fixing it is called *debugging*. 
 
