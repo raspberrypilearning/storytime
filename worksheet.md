@@ -2,13 +2,11 @@
 
 A great way to write your code and test it in intervals is to use a text editor. You will be writing your code in Python 3, and the Python programming environment **IDLE3** has a text editor that you can use with it. 
 
-1. Load **IDLE3** by either double-clicking the desktop icon, or by clicking on the **Main Menu** followed by **Programming** and then selecting **IDLE3**.
+1. Load **IDLE3** by either double-clicking the desktop icon, or by clicking on the **Main Menu** followed by **Programming** and then selecting **Python 3**.
 
 2. Once the Python Shell window has loaded, click on **File** and **New Window**. This will open a text editor window in which you can write, save and test your code.
 
 3. Save the blank file as `storytime.py` by clicking on **File** and **Save As**.
-
-	![](images/idle3.png)
 	
 ## Step 2: Get User Input and Print to the Screen
 
