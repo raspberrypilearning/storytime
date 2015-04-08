@@ -2,9 +2,9 @@
 
 Let's write a random interactive story with Python.
 
-## Using a Text Editor
+## Using IDLE
 
-A great way to write your code and test it in intervals is to use a text editor. You will be writing your code in Python 3, and the Python programming environment **IDLE3** has a text editor that you can use with it. 
+A great way to write your code and test it in intervals is to use a IDLE, a development application for Python. You will be writing your code in Python 3.
 
 1. Load **IDLE3** by either double-clicking the desktop icon, or by clicking on the **Main Menu** followed by **Programming** and then selecting **Python 3**.
 
@@ -156,12 +156,7 @@ There is one last line of code you need to write in order for the final randomly
 	When your program does work, you may find that there are spaces missing between the words in the story, or that it is not quite displaying correctly. You can see this in the image above, where a space needs to be added between the words "wizard" and "to". You can simply locate the error, fix it, save the file and run it again.
 	
 ## What's next?
+
 - Can you create another story using the same techniques?
 - Can you connect an LCD screen to your Raspberry Pi GPIO pins to display the story?
 - Can you think of a way to add even more randomisation to your story?
-
-## Community
-
-This activity was based on [ideas and projects](https://github.com/ldnpydojo/teaching-computing) produced by the [London Python Dojo](https://twitter.com/ldnpydojo) during a visit by Carrie Anne. 
-
-		
