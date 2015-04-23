@@ -120,7 +120,7 @@ Great, you have made it to the fun part. Here is where you get to piece all your
 
 3. Next, type the start of your story, for example `Once upon a time, there was a`.
 
-4. Leave a space and then close your qoutation marks `"`. 
+4. Leave a space and then close your quotation marks `"`. 
 
 5. Now you can add a random player role by typing `+ player_role +`.
 
