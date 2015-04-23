@@ -155,7 +155,7 @@ There is one last line of code you need to write in order for the final randomly
 
 	When your program does work, you may find that there are spaces missing between the words in the story, or that it is not quite displaying correctly. You can see this in the image above, where a space needs to be added between the words "wizard" and "to". You can simply locate the error, fix it, save the file and run it again.
 	
-## What's next?
+## What next?
 
 - Can you create another story using the same techniques?
 - Can you connect an LCD screen to your Raspberry Pi GPIO pins to display the story?
