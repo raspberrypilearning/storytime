@@ -4,7 +4,7 @@ Let's write a random interactive story with Python.
 
 ## Using IDLE
 
-A great way to write your code and test it in intervals is to use a IDLE, a development application for Python. You will be writing your code in Python 3.
+A great way to write your code and test it in intervals is to use IDLE, a development application for Python. You will be writing your code in Python 3.
 
 1. Load **IDLE3** by either double-clicking the desktop icon, or by clicking on the **Main Menu** followed by **Programming** and then selecting **Python 3**.
 
