@@ -24,7 +24,7 @@ The purpose of the story time program is to generate a story, and print it to th
 	
 2. Save the file by clicking on **File** and **Save**. Next, run the program to see what happens. To run a program click on **Run** followed by **Run Module**. You should see the words "Hello reader" appear in the Python Shell window. 
 
-	*Note that this tutorial uses Python 3 syntax, so you must be using IDLE3 to run your program.*
+	**Note**: this tutorial uses Python 3 syntax, so you must be using IDLE3 to run your program.
 
 	![](images/story1.png)
 
@@ -35,16 +35,16 @@ The purpose of the story time program is to generate a story, and print it to th
 	print("Hello " + name)
 	```
 
-4. Save the file and run your code to see what happens. Notice that the input question is printed to the screen and then the information entered by the user is stored in the variable 'name'; this is then used in the printed statement saying "hello".	 
+4. Save the file and run your code to see what happens. Notice that the input question is printed to the screen and then the information entered by the user is stored in the variable 'name'; this is then used in the printed statement saying "Hello".	 
 
 	![](images/story2.png)
 	
 5. Can you now create two more variables to store information about what **gender** the user is, and what **day of the week** it is? You will need this information in your final story.
 
 
-## If, Elif and Else
+## If, Elif, and Else
 
-Having discovered the gender of the user, you can use that information in your story. But as you know from your literacy lessons, nouns are preceded with 'he and 'she' and not 'girl' or 'boy', which are the values currently stored in the `gender` variable. You can fix this by using a computing concept to help out here; it's called a *conditional*.
+Having discovered the gender of the user, you can use that information in your story. But as you know from your literacy lessons, nouns are preceded with 'he and 'she' and not 'girl' or 'boy', which are the values currently stored in the `gender` variable. You can fix this by using a computing concept to help out here; it's called a **conditional**.
 
 1. Underneath the `input` and `print` statements type:
 
