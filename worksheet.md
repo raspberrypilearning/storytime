@@ -86,7 +86,7 @@ Lists can be named in much the same way as variables; for example, `number = [1,
 	
 	This is a list of different names. You can change the names between the quotation marks, and replace them with names of your friends or made-up names. 
 	
-2. Create more lists for **places**, **actions** and **roles** like this:
+2. Create more lists for places, actions, and roles like this:
 
 	```python
 	roles = ["knight", "princess", "prince", "frog", "wizard", "ogre"]
@@ -97,7 +97,7 @@ Lists can be named in much the same way as variables; for example, `number = [1,
 		
 ## Using Random
 
-With lists of actions, places, names and roles you can write some code that will randomly pick one item from each list. This will help to generate your story, and should make it quirky!
+With lists of actions, places, names, and roles you can write some code that will randomly pick one item from each list. This will help to generate your story, and should make it quirky!
 
 
 1. Go to the top of your program, above all the lines of code you have already written. At the top type `import random`. This imports the `random` module.
@@ -134,7 +134,7 @@ Great, you have made it to the fun part. Here is where you get to piece all your
 	story = "Once upon a time, there was a " + actor_role + " called " + name + ". " + pronoun + " and some friends found themselves in the magic land of " + magic_place + ". This land was ruled by " + actor_name + " the " + actor_role + ". All of a sudden a mysterious voice spoke to them from high in the sky and said you must " + quest + " " + actor_name + " the " + actor_role + " to lift the curse of not being able to use technology... "
 	```
 	
-	*Remember this should be typed all on one line! Don't forget to use your pronoun variable in your sentence too!*
+	Remember this should be typed all on one line! Don't forget to use your pronoun variable in your sentence too!
 	
 	![](images/story8.png)
 
@@ -151,7 +151,7 @@ There is one last line of code you need to write in order for the final randomly
 
 	![](images/story9.png)
 	
-2. You may find that your program does not run first time, most likely due to a typing error. Don't worry; this happens a lot in computer programming. Working out where the error or bug is and fixing it is called *debugging*. 
+2. You may find that your program does not run first time, most likely due to a typing error. Don't worry; this happens a lot in computer programming. Working out where the error or bug is and fixing it is called **debugging**. 
 
 	When your program does work, you may find that there are spaces missing between the words in the story, or that it is not quite displaying correctly. You can see this in the image above, where a space needs to be added between the words "wizard" and "to". You can simply locate the error, fix it, save the file and run it again.
 	
