@@ -2,7 +2,7 @@
 
 Let's write a random interactive story with Python.
 
-## Using IDLE
+## Using IDLE on Raspberry Pi
 
 A great way to write your code and test it in intervals is to use IDLE, a development application for Python. You will be writing your code in Python 3.
 
@@ -11,6 +11,14 @@ A great way to write your code and test it in intervals is to use IDLE, a develo
 2. Once the Python Shell window has loaded, click on **File** and **New Window**. This will open a text editor window in which you can write, save and test your code.
 
 3. Save the blank file as `storytime.py` by clicking on **File** and **Save As**.
+
+## Using Trinket
+
+If you do not have a Raspberry Pi then you can write your code and test it in intervals using Trinket in a browser window.  
+
+1. Open the blank Python template Trinket: jumpto.cc/python-new.
+1. Follow the instructions in this activity and type your code into the Python template trinket.
+1. To save your work, click the down arrow and then click ‘Link’. This will give you a link that you can save and come back to later. You’ll need to do this every time you make changes, as the link will change!
 	
 ## Get User Input and Print to the Screen
 
