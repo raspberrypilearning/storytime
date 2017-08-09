@@ -1,28 +1,17 @@
-## Story Time!
+## The Final Print
 
-Great, you have made it to the fun part. Here is where you get to piece all your hard work together into a story. Here you can be as imaginative and creative as you like bringing it all together.
+There is one last line of code you need to write in order for the final randomly generated story to appear on the screen. It was the first Python code you learned in step 1: the print function!
 
-- This part of the program will be written all on one line. Begin by creating a variable to store your story in by typing `story =`.
 
-2. Then on the same line, open a quotation with `"`.
-
-3. Next, type the start of your story, for example `Once upon a time, there was a`.
-
-4. Leave a space and then close your quotation marks `"`. 
-
-5. Now you can add a random player role by typing `+ player_role +`.
-
-6. Then return to typing your story, by opening quotation marks `" called "`.
-
-7. Add the user's name ` + name +` before writing more of the story.
-
-8. Continue until you have used all your variables like this:
-
+- To print your final story, type:
+	
 	```python
-	story = "Once upon a time, there was a " + actor_role + " called " + name + ". " + pronoun + " and some friends found themselves in the magic land of " + magic_place + ". This land was ruled by " + actor_name + " the " + actor_role + ". All of a sudden a mysterious voice spoke to them from high in the sky and said you must " + quest + " " + actor_name + " the " + actor_role + " to lift the curse of not being able to use technology... "
+	print(story)	
 	```
-	
-	Remember this should be typed all on one line! Don't forget to use your pronoun variable in your sentence too!
-	
-	![](images/story8.png)
 
+	![](images/story9.png)
+	
+2. You may find that your program does not run first time, most likely due to a typing error. Don't worry; this happens a lot in computer programming. Working out where the error or bug is and fixing it is called **debugging**. 
+
+	When your program does work, you may find that there are spaces missing between the words in the story, or that it is not quite displaying correctly. You can see this in the image above, where a space needs to be added between the words "wizard" and "to". You can simply locate the error, fix it, save the file and run it again.
+	

@@ -1,10 +1,8 @@
-## Using IDLE on Raspberry Pi
+## Using Trinket
 
-A great way to write your code and test it in intervals is to use IDLE, a development application for Python. You will be writing your code in Python 3.
+If you do not have a Raspberry Pi then you can write your code and test it in intervals using Trinket in a browser window.  
 
-- Load **IDLE3** by clicking on the **Main Menu** followed by **Programming** and then selecting **Python 3**.
-
-2. Once the Python Shell window has loaded, click on **File** and **New Window**. This will open a text editor window in which you can write, save and test your code.
-
-3. Save the blank file as `storytime.py` by clicking on **File** and **Save As**.
-
+- Open the blank Python template Trinket: [jumpto.cc/python-new](http://jumpto.cc/python-new).
+- Follow the instructions in this activity and type your code into the Python template trinket.
+- To save your work, click the down arrow and then click ‘Link’. This will give you a link that you can save and come back to later. You’ll need to do this every time you make changes, as the link will change!
+	

@@ -1,30 +1,30 @@
-## Get User Input and Print to the Screen
+## If, Elif, and Else
 
-The purpose of the story time program is to generate a story, and print it to the screen so that someone can read it. A good way to start, therefore, is understanding how to use the Python `print` function.
+Having discovered the gender of the user, you can use that information in your story. But as you know from your literacy lessons, nouns are preceded with 'he and 'she' and not 'girl' or 'boy', which are the values currently stored in the `gender` variable. You can fix this by using a computing concept to help out here; it's called a **conditional**.
 
-- With your `storytime.py` file open in a text editor window, type the following line:
-	
-	```python
-	print("Hello reader")
-	```
-	
-2. Save the file by clicking on **File** and **Save**. Next, run the program to see what happens. To run a program click on **Run** followed by **Run Module**. You should see the words "Hello reader" appear in the Python Shell window. 
-
-	**Note**: this tutorial uses Python 3 syntax, so you must be using IDLE3 to run your program.
-
-	![](images/story1.png)
-
-3. Now that you can print to the screen, let's find out some information from the person using the program and store it in a variable. At the top of your code type:
+- Underneath the `input` and `print` statements type:
 
 	```python
-	name = input("What is your name? ")
-	print("Hello " + name)
+	if gender == "girl":
+	    pronoun = "she"
 	```
-
-4. Save the file and run your code to see what happens. Notice that the input question is printed to the screen and then the information entered by the user is stored in the variable 'name'; this is then used in the printed statement saying "Hello".	 
-
-	![](images/story2.png)
+	These two lines of code state that *if* the answer to the question 'Are you a girl or boy?' is 'girl', then set the pronoun to be 'she'. This is a condition. 
+		
+2. Now you need to set the pronoun if the answer to the question is 'boy':
 	
-5. Can you now create two more variables to store information about what **gender** the user is, and what **day of the week** it is? You will need this information in your final story.
-
+	```python
+	elif gender == "boy":
+	    pronoun = "he"
+	```
+	`elif` means 'else, if'. 
+	
+3. But what if the user doesn't type 'girl' or 'boy'? Well, you can cover this situation by typing:	
+	```python        
+	else:
+	    pronoun = "it"
+	```    
+4. Save your work so far by clicking on **File** and **Save**.
+	
+	
+	![](images/story3.png)
 

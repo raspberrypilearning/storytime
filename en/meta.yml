@@ -15,7 +15,6 @@ site_areas: ''
 steps:
 - title: Introduction
 - title: What you will need
-- title: Storytime
 - title: Using IDLE on Raspberry Pi
 - title: Using Trinket
 - title: Get User Input and Print to the Screen
