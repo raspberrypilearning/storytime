@@ -3,14 +3,14 @@ title: Storytime
 hero_image: images/banner.png
 description: Generate fairy tales and other imaginative stories with basic Python
 original_url: https://raspberrypi.org/learning/storytime
-theme: red
+theme: yellow
 duration: 2
-listed: false
+listed: true
 ingredient: false
 copyedit: true
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ''
-technologies: rpi, physical computing, python
+technologies: python
 site_areas: ''
 steps:
 - title: Introduction
