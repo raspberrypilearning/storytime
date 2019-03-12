@@ -1,9 +1,9 @@
-## Using IDLE on Raspberry Pi
+## अपने Raspberry Pi पर IDLE का उपयोग करना
 
-A great way to write your code and test it in intervals is to use IDLE, a development application for Python. You will be writing your code in Python 3.
+अपना कोड लिखने और अंतरालों पर इसका परीक्षण करने का एक बढ़िया तरीका IDLE का उपयोग करना है, जो Python के लिए एक विकास अनुप्रयोग है। आप अपना कोड Python 3 में लिखेंगे।
 
-- Load **IDLE3** by clicking on the **Main Menu** followed by **Programming** and then selecting **Python 3**.
+- **Main Menu** (मुख्य मेनू) पर क्लिक करके उसके बाद **Programming** (प्रोग्रामिंग) पर क्लिक करें और फिर **Python 3** का चयन करके **IDLE3** को लोड करें।
 
-2. Once the Python Shell window has loaded, click on **File** and **New Window**. This will open a text editor window in which you can write, save and test your code.
+2. Python Shell विंडो लोड हो जाने पर, **File** (फ़ाइल) पर क्लिक करें और फिर **New Window** (नई विंडो) पर। इससे एक टेक्स्ट एडिटर विंडो खुल जाएगी जिसमें आप अपना कोड लिख सकते हैं, सहेज सकते हैं और उसका परीक्षण कर सकते हैं।
 
-3. Save the blank file as `storytime.py` by clicking on **File** and **Save As**.
+3. **File** (फ़ाइल) और **Save As** (इस रूप में सहेजें) पर क्लिक करके रिक्त फ़ाइल को `storytime.py` के रूप में सहेजें।
