@@ -1,8 +1,8 @@
-## The Final Print
+## अंतिम प्रिंट
 
-There is one last line of code you need to write in order for the final randomly generated story to appear on the screen. It was the first Python code you learned in step 1: the print function!
+यादृच्छिक रूप से तैयार की गई अंतिम कहानी स्क्रीन पर दिखाई देने के लिए आपको कोड की एक आखिरी पंक्ति लिखनी है। यह पहला Python (पायथन) कोड था जिसे आपने चरण 1 में सीखा था: प्रिंट फ़ंक्शन!
 
-- To print your final story, type:
+- अपनी अंतिम कहानी प्रिंट करने के लिए, टाइप करें:
     
     ```python
     print(story)    
@@ -10,6 +10,6 @@ There is one last line of code you need to write in order for the final randomly
     
     ![](images/story9.png)
 
-2. You may find that your program does not run first time, most likely due to a typing error. Don't worry; this happens a lot in computer programming. Working out where the error or bug is and fixing it is called **debugging**.
+2. आप देखेंगे कि पहली बार आपका प्रोग्राम नहीं चलता है, संभवतः किसी टाइपिंग त्रुटि के कारण। चिंता न करें; कंप्यूटर प्रोग्रामिंग में ऐसा बहुत बार होता है। त्रुटि या बग कहाँ है इसका पता लगाने और इसे ठीक करने को **debugging** (डीबगिंग) कहते हैं।
     
-    When your program does work, you may find that there are spaces missing between the words in the story, or that it is not quite displaying correctly. You can see this in the image above, where a space needs to be added between the words "wizard" and "to". You can simply locate the error, fix it, save the file and run it again.
+    जब आपका प्रोग्राम काम करता है, तो आप देखेंगे कि कहानी में शब्दों के बीच रिक्त स्थान नहीं हैं, या ये सही ढंग से प्रदर्शित नहीं हो रहे हैं। आप उपर्युक्त छवि में इसे देख सकते हैं, जहाँ "wizard" और "to" शब्दों के बीच एक रिक्त स्थान को जोड़ने की आवश्यकता है। आप इस त्रुटि का पता लगा सकते हैं, इसे ठीक कर सकते हैं, फ़ाइल को सहेज सकते हैं और इसे फिर से चला सकते हैं।
