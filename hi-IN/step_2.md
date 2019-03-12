@@ -1,9 +1,9 @@
-## What you will need
+## आपको किन चीज़ों की आवश्यकता होगी
 
-### Hardware
+### हार्डवेयर
 
-- A computer
+- एक कंप्यूटर
 
-### Software
+### सॉफ्टवेयर
 
 - Python 3
