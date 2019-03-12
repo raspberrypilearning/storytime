@@ -1,27 +1,27 @@
-## Story Time!
+## कहानी का समय!
 
-Great, you have made it to the fun part. Here is where you get to piece all your hard work together into a story. Here you can be as imaginative and creative as you like bringing it all together.
+बढ़िया, आपने इसे मजेदार हिस्सा बना दिया है। यह वह जगह है जहाँ आप अपनी पूरी कड़ी मेहनत को एक कहानी में पिरो देते हैं। यहाँ आप कल्पनाशील और रचनात्मक हो सकते हैं क्योंकि आप इस सब को एक साथ लाना चाहते हैं।
 
-- This part of the program will be written all on one line. Begin by creating a variable to store your story in by typing `story =`.
+- प्रोग्राम का यह पूरा हिस्सा एक पंक्ति पर लिखा जाएगा। `story =` (कहानी) टाइप करके अपनी कहानी को संगृहीत करने के लिए एक वेरिएबल बनाकर शुरू करें।
 
-2. Then on the same line, open a quotation with `"`.
+2. फिर उसी पंक्ति पर, `"` के साथ एक उद्धरण खोलें।
 
-3. Next, type the start of your story, for example `Once upon a time, there was a`.
+3. उसके बाद, अपनी कहानी की आरंभ टाइप करें, उदाहरण के लिए `Once upon a time, there was a` (एक समय की बात है कि एक था।
 
-4. Leave a space and then close your quotation marks `"`.
+4. एक जगह छोड़ दें और फिर अपने उद्धरण चिह्न `"` को बंद कर दें।
 
-5. Now you can add a random player role by typing `+ player_role +`.
+5. अब आप `+ player_role +` टाइप करके एक यादृच्छिक खिलाड़ी की भूमिका जोड़ सकते हैं।
 
-6. Then return to typing your story, by opening quotation marks `" called "`.
+6. फिर उद्धरण चिह्न `" called "` (नामक) खोलकर, अपनी कहानी टाइप करने के लिए वापस आएँ।
 
-7. Add the user's name `+ name +` before writing more of the story.
+7. कहानी को और अधिक लिखने से पहले उपयोगकर्ता का नाम `+ name +` जोड़ें।
 
-8. Continue until you have used all your variables like this:
+8. जब तक आप इस तरह के अपने सभी वेरिएबल का उपयोग नहीं कर लेते हैं तब तक जारी रखें:
     
     ```python
     story = "Once upon a time, there was a " + actor_role + " called " + name + ". " + pronoun + " and some friends found themselves in the magic land of " + magic_place + ". This land was ruled by " + actor_name + " the " + actor_role + ". All of a sudden a mysterious voice spoke to them from high in the sky and said you must " + quest + " " + actor_name + " the " + actor_role + " to lift the curse of not being able to use technology... "
     ```
     
-    Remember this should be typed all on one line! Don't forget to use your pronoun variable in your sentence too!
+    याद रखें कि इस सब को एक पंक्ति पर टाइप किया जाना चाहिए! अपनी वाक्य में भी अपने सर्वनाम वेरिएबल का उपयोग करना न भूलें!
     
     ![](images/story8.png)
