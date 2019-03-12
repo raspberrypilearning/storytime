@@ -1,41 +1,41 @@
 ---
-title: Storytime
+title: कहानी का समय
 hero_image: images/banner.png
-description: Generate fairy tales and other imaginative stories with basic Python
+description: मूल Python के साथ परी कथाएँ और अन्य काल्पनिक कहानियाँ तैयार करें
 original_url: https://raspberrypi.org/learning/storytime
-theme: yellow
+theme: पीला
 duration: 1
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
 interests: ''
-technologies: raspberry-pi, electronic-components, python
-site_areas: projects
-hardware: raspberry-pi, electronic-components
-software: python
+technologies: रास्पबेरी-पीआई, इलेक्ट्रॉनिक-घटक, Python
+site_areas: प्रोजेक्ट
+hardware: रास्पबेरी-पीआई, इलेक्ट्रॉनिक-घटक
+software: python (पायथन)
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: What you will need
+    title: आपको किन चीजों की आवश्यकता होगी
   - 
-    title: Using IDLE on Raspberry Pi
+    title: अपने Raspberry Pi पर IDLE का उपयोग करना
   - 
-    title: Using Trinket
+    title: Trinket का उपयोग करना
   - 
-    title: Get User Input and Print to the Screen
+    title: उपयोगकर्ता इनपुट प्राप्त करें और स्क्रीन पर प्रिंट करें
   - 
-    title: If, Elif, and Else
+    title: If (यदि), Elif (अन्यथा यदि), और Else (अन्यथा)
   - 
-    title: Lists
+    title: सूचियाँ
   - 
-    title: Using Random
+    title: यादृच्छिक का उपयोग करना
   - 
-    title: Story Time!
+    title: कहानी का समय!
   - 
-    title: The Final Print
+    title: अंतिम प्रिंट
   - 
-    title: What next?
+    title: आगे क्या?
