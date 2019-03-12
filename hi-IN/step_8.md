@@ -1,10 +1,10 @@
-## Using Random
+## यादृच्छिक का उपयोग करना
 
-With lists of actions, places, names, and roles you can write some code that will randomly pick one item from each list. This will help to generate your story, and should make it quirky!
+कार्रवाइयों, स्थानों, नामों, और भूमिकाओं की सूचियों के साथ आप कोई कोड लिख सकते हैं जो प्रत्येक सूची से यादृच्छिक रूप से एक आइटम चुन लेगा। इससे आपकी कहानी तैयार करने में मदद मिलेगी, और यह रोचक बन जाएगी!
 
-- Go to the top of your program, above all the lines of code you have already written. At the top type `import random`. This imports the `random` module.
+- आप पहले जो कोड की पंक्तियाँ लिख चुके हैं उन सभी के ऊपर, अपने प्रोग्राम के शीर्ष पर जाएँ। सबसे ऊपर `import random` (यादृच्छिक आयात करें) टाइप करें। यह `random` (यादृच्छिक) मॉड्यूल को आयात करता है।
 
-2. Then go to the bottom of your code, and underneath your lists type:
+2. फिर अपने कोड के सबसे नीचे जाएँ, और अपनी सूचियों के नीचे टाइप करें:
     
     ```python
     actor_name = random.choice(names)
