@@ -1,7 +1,7 @@
-## Using Trinket
+## Trinket का उपयोग करना
 
-If you do not have a Raspberry Pi then you can write your code and test it in intervals using Trinket in a browser window.
+यदि आपके पास Raspberry Pi नहीं है तो आप अपना कोड लिख सकते हैं और ब्राउज़र विंडो में ट्रिंकेट का उपयोग करके अंतरालों में इसका परीक्षण कर सकते हैं।
 
-- Open the blank Python template Trinket: [jumpto.cc/python-new](http://jumpto.cc/python-new).
-- Follow the instructions in this activity and type your code into the Python template trinket.
-- To save your work, click the down arrow and then click ‘Link’. This will give you a link that you can save and come back to later. You’ll need to do this every time you make changes, as the link will change!
+- रिक्त Python टेंपलेट Trinket खोलें: [jumpto.cc/python-new](http://jumpto.cc/python-new).
+- इस गतिविधि में निर्देशों का पालन करें और Python टेंपलेट ट्रिंकेट में अपना कोड टाइप करें।
+- अपने काम को सहेजने के लिए, नीचे के तीर पर क्लिक करें और फिर 'Link' (लिंक) पर क्लिक करें। इससेआपको एक लिंक मिलेगा जिसे आप सहेज सकते हैं और बाद में वापस आ सकते हैं। हर बार जबआप परिवर्तन करेंगे, आपको ऐसा करने की आवश्यकता होगी, क्योंकि लिंक बदल जाएगा!
