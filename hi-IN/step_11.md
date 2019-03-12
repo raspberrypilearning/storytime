@@ -1,5 +1,5 @@
-## What next?
+## आगे क्या?
 
-- Can you create another story using the same techniques?
-- Can you connect an LCD screen to your Raspberry Pi GPIO pins to display the story?
-- Can you think of a way to add even more randomisation to your story?
+- क्या इसी तकनीक का उपयोग करके आप कोई दूसरी कहानी बना सकते हैं?
+- क्या आप कहानी प्रदर्शित करने के लिए अपने Raspberry Pi GPIO (रास्पबेरी पीआई जीपीआईओ) पिनों से एलसीडी स्क्रीन को कनेक्ट कर सकते हैं?
+- क्या आप अपनी कहानी में और भी यादृच्छिकता जोड़ने का कोई तरीका सोच सकते हैं?
