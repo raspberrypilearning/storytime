@@ -1,6 +1,6 @@
 ## What next?
 
-- Can you create another story using the same techniques?
-- Can you connect an LCD screen to your Raspberry Pi GPIO pins to display the story?
-- Can you think of a way to add even more randomisation to your story?
+There are lots of Python projects for you to try. Why not have a go at some of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=python&curriculum%5B%5D=%201){:target="_blank"}.
+
+Or maybe you could try and recreate the story in Scratch, but add some graphics and animation into it.
 
