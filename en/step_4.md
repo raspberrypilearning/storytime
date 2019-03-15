@@ -10,7 +10,32 @@ Underneath the last line of code you have written in your story time program, le
 <iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 --- /task ---
 
-Now you are going to need some more lists. One for *friends*
+Now you are going to need some more lists:
+- one for the names of the dragon's `friends`
+- one for `actions` such as "kiss", "throw", and "steal"
+- one for `places` such as "Middle Earth" and "Narnia"
+
+--- task ---
+Make three more lists using the names `friends`, `actions` and `places`
+
+--- hints --- --- hint ---
+To make the lists, each of them must have a name
+```python
+friends = []
+actions = []
+places  = []
+```
+--- /hint --- --- hint ---
+Add in strings to the lists such as this one for `friends`
+
+```python
+friends = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
+```
+--- /hint --- --- hint ---
+Here is what your completed code should look like
+<iframe src="https://trinket.io/embed/python/5e264dd3e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+--- /hint --- --- /hints ---
+--- /task ---
 
 	
 		
