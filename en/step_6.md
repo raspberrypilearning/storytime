@@ -15,7 +15,3 @@ Write your story using the variables you have created and then print the story o
 
 <iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 --- /task ---
-
-
-
-

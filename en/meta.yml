@@ -23,5 +23,6 @@ steps:
 - title: Lists
 - title: Using Random
 - title: Story Time!
-- title: The Final Print
+- title: "Challenge: more lists"
+  challenge: true
 - title: What next?
