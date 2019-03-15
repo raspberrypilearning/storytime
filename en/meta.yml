@@ -18,8 +18,8 @@ version: 3
 last_tested: 2017-01-01
 steps: 
 - title: Introduction
-- title: Get User Input and Print to the Screen
-- title: If, Elif, and Else
+- title: Input and output
+- title: if or else
 - title: Lists
 - title: Using Random
 - title: Story Time!

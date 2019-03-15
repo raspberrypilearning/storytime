@@ -1,30 +1,38 @@
-## If, Elif, and Else
+## If or else
 
-Having discovered the gender of the user, you can use that information in your story. But as you know from your literacy lessons, nouns are preceded with 'he and 'she' and not 'girl' or 'boy', which are the values currently stored in the `gender` variable. You can fix this by using a computing concept to help out here; it's called a **conditional**.
+Now that you know the dragon's name, it's time to get some more information about the creature.
 
-- Underneath the `input` and `print` statements type:
+--- task ---
+Can you add `input` and `print` functions to find out if the dragon is *big* or *small*, and also find out how old the dragon is?
 
-	```python
-	if gender == "girl":
-	    pronoun = "she"
-	```
-	These two lines of code state that *if* the answer to the question 'Are you a girl or boy?' is 'girl', then set the pronoun to be 'she'. This is a condition. 
-		
-2. Now you need to set the pronoun if the answer to the question is 'boy':
-	
-	```python
-	elif gender == "boy":
-	    pronoun = "he"
-	```
-	`elif` means 'else, if'. 
-	
-3. But what if the user doesn't type 'girl' or 'boy'? Well, you can cover this situation by typing:	
-	```python        
-	else:
-	    pronoun = "it"
-	```    
-4. Save your work so far by clicking on **File** and **Save**.
-	
-	
-	![](images/story3.png)
+--- hints --- --- hint ---
+Use `input` to ask if the dragon is big or small. Then use a `print` function to tell the user the size of the dragon
+--- /hint --- --- hint ---
+Here's some code to ask for the dragon's size and then print it.
+```python
+size = input("Is the dragon big or small? ")
+print("It was a " + size + " dragon")
+```
+Now do the same for the dragon's age.
+--- /hint --- --- hint ---
+Here's the full code that you will need to ask for the dragon's size and age.
+<iframe src="https://trinket.io/embed/python/3f9399e144" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+--- /hint --- --- /hints ---
+--- /task ---
+
+Now that you know the age of the dragon, you can work out whether it's young or old. Dragons live for a long time, so a dragon is only considered truelly old if it's age is greater than 1000 years.
+
+You can use conditional selection to work out whether the dragon is young or old. In Python you can use `if` and `else` statements to make decisions in your program and the *greater than* operator (`>`) to see if a number is larger than another number.
+
+--- task ---
+Add some code to decide if the dragon is young or old. You need to **typecast** the `age` variable so that the computer knows it's a number. In Python there is a big difference between the characters `1` `0` `0` and the number `100`.
+
+<iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+--- /task ---
+
+--- task ---
+Add another `print()` function to tell the user whether the dragon is young or old, and then two more to give a break before the story begins.
+
+<iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+--- /task ---
 
