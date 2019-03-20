@@ -2,7 +2,7 @@
 
 ## What you will make
 
-You are going to use Python to create a program that creates a random story for you, based upon what the user types in.
+You are going to use Python to create a program that creates a random story for you, based on what the user types in.
 
 --- no-print ---
 
@@ -37,9 +37,9 @@ The starter project can be found [here](https://trinket.io/python/a0aaa62eab){:t
 ---
 title: What you will learn
 ---
-- Know how to receive user input in Python
-- Understand the need to type cast strings to integers
-- Use code to select random items from a list
+- How to receive user input in Python
+- The need to type cast strings to integers
+- To use code to select random items from a list
 --- /collapse ---
 
 --- collapse ---
