@@ -9,7 +9,7 @@ Open the  starter project.
 
 If you need to download and install Python, you can find it at [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"}.
 
-In the starter project, you should see a single line of code
+In the starter project, you should see a single line of code:
 
 ```python
 from random import choice
@@ -20,7 +20,7 @@ from random import choice
 The purpose of the story time program is to generate a story, and print it to the screen so that someone can read it. A good way to start, therefore, is understanding how to use the Python `print` function.
 
 --- task ---
-In your `storytime.py` file open type the following on a new line:
+In your `storytime.py` file, type the following on a new line:
 	
 ```python
 print("We are going to hear a story about a dragon!")
@@ -47,7 +47,7 @@ Run your code again, to test if the program asks for input.
 --- /task ---
 
 
-Now that you have stored the name of the dragon, you can use the `name` variable to print the name to the screen. In Python you can use the `+` operator to join together strings.
+Now that you have stored the name of the dragon, you can use the `name` variable to print the name to the screen. In Python, you can use the `+` operator to join together strings.
 
 --- task ---
 Add another line to your code that prints out the name of the dragon. Then run your code.
