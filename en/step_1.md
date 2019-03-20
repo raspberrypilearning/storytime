@@ -37,9 +37,10 @@ The starter project can be found [here](https://trinket.io/python/a0aaa62eab){:t
 ---
 title: What you will learn
 ---
-- How to receive user input in Python
-- The need to type cast strings to integers
-- To use code to select random items from a list
+By creating a story with code, you will:
+- Learn how to receive user input in Python
+- Understand the need to type cast strings to integers
+- Use code to select random items from a list
 --- /collapse ---
 
 --- collapse ---
