@@ -17,10 +17,10 @@ from random import choice
 --- /task ---
 
 
-The purpose of the story time program is to generate a story, and print it to the screen so that you can read it. A good way to start, therefore, is understanding how to use the Python `print` function.
+The purpose of the story time program is to generate a story, and print the story to the screen so that you can read it. A good way to start, therefore, is understanding how to use the Python `print` function.
 
 --- task ---
-In your `storytime.py` file, type the following on a new line:
+In your `storytime.py` file, type the following code on a new line:
 	
 ```python
 print("We are going to hear a story about a dragon!")
@@ -34,7 +34,7 @@ print("We are going to hear a story about a dragon!")
 Run the program to see what happens.
 --- /task ---
 
-Now that you can print to the screen, let's find out how to get input from a user to learn a little more about the dragon.
+Now that you can print to the screen, let's find out how to get input from a user to learn a bit more about the dragon.
 
 --- task ---
 You can create a new variable called `name` and use the `input` function to ask the user for the dragon's name. The name will be stored in your new variable.
@@ -50,7 +50,7 @@ Run your code again, to test if the program asks for input.
 Now that you have stored the name of the dragon, you can use the `name` variable to print the name to the screen. In Python, you can use the `+` operator to join strings together.
 
 --- task ---
-Add another line to your code that prints out the name of the dragon. Then, run your code.
+Add another line of code to your code that prints out the name of the dragon. Then, run your code.
 
 <iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 --- /task ---
