@@ -19,7 +19,7 @@ Now you are going to need some more lists:
 Make three more lists using the names `friends`, `actions` and `places`
 
 --- hints --- --- hint ---
-To make the lists, each of them must have a name
+To make the lists, each of them must have a name.
 ```python
 friends = []
 actions = []
@@ -32,7 +32,7 @@ Add in strings to the lists such as this one for `friends`
 friends = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
 ```
 --- /hint --- --- hint ---
-Here is what your completed code should look like
+Here is what your completed code should look like:
 <iframe src="https://trinket.io/embed/python/5e264dd3e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 --- /hint --- --- /hints ---
 --- /task ---
