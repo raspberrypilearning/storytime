@@ -1,12 +1,12 @@
 ## If or else
 
-Now that you know the dragon's name, it's time to get some more information about the creature.
+Now that you know the dragon's name, it's time to get some more information about it.
 
 --- task ---
-Can you add `input` and `print` functions to find out if the dragon is *big* or *small*, and also find out how old the dragon is?
+Can you add `input` and `print` functions to find out if the dragon is *big* or *small*, and to find out how old the dragon is?
 
 --- hints --- --- hint ---
-Use `input` to ask if the dragon is big or small. Then use a `print` function to tell the user the size of the dragon
+Use `input` to ask if the dragon is big or small. Then, use a `print` function to tell the user the size of the dragon.
 --- /hint --- --- hint ---
 Here's some code to ask for the dragon's size and then print it.
 ```python
