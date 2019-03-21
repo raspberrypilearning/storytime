@@ -47,10 +47,10 @@ Run your code again, to test if the program asks for input.
 --- /task ---
 
 
-Now that you have stored the name of the dragon, you can use the `name` variable to print the name to the screen. In Python, you can use the `+` operator to join together strings.
+Now that you have stored the name of the dragon, you can use the `name` variable to print the name to the screen. In Python, you can use the `+` operator to join strings together.
 
 --- task ---
-Add another line to your code that prints out the name of the dragon. Then run your code.
+Add another line to your code that prints out the name of the dragon. Then, run your code.
 
 <iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 --- /task ---
