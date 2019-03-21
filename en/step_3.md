@@ -31,7 +31,7 @@ Add some code to decide if the dragon is young or old. You need to **typecast** 
 --- /task ---
 
 --- task ---
-Add another `print()` function to tell the user whether the dragon is young or old, and then two more to give a break before the story begins.
+Add another `print()` function to tell the user whether the dragon is young or old, and then two more to create a break before the story begins.
 
 <iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 --- /task ---
