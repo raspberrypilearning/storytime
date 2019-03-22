@@ -1,7 +1,7 @@
 ## Input and output
 
 --- task ---
-Open the  starter project.
+Open the starter project.
 
 **Online**: open the starter project at [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"}.
 
