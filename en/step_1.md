@@ -2,7 +2,7 @@
 
 ## What you will make
 
-You are going to use Python to create a program that generates a random story, based on what the user types in.
+You will use Python to create a program that generates a random story, based on what the user types in.
 
 --- no-print ---
 
