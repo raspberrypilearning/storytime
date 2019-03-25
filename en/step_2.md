@@ -17,7 +17,7 @@ from random import choice
 --- /task ---
 
 
-The purpose of the story time program is to generate a story, and print the story to the screen so that you can read it. So, a good way to start is understanding how to use the Python `print` function.
+The purpose of the story time program is to generate a story, and print the story to the screen so that you can read it. So, start by learning how to use the Python `print` function.
 
 --- task ---
 In your `storytime.py` file, type the following code on a new line:
