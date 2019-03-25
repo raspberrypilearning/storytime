@@ -25,13 +25,13 @@ Now that you know the age of the dragon, you can work out whether it is young or
 You can use conditional selection to work out whether the dragon is young or old. In Python, you can use `if` and `else` statements to make decisions in your program and the *greater than* operator (`>`) to see if a number is larger than another number.
 
 --- task ---
-Add some code to decide if the dragon is young or old. You need to **typecast** the `age` variable so that the computer knows it is a number. In Python, there is a big difference between the characters `1` `0` `0` and the number `100`.
+Add some code to work out if the dragon is young or old. You need to **typecast** the `age` variable so that the computer knows it is a number. In Python, there is a big difference between the characters `1` `0` `0` and the number `100`.
 
 <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 --- /task ---
 
 --- task ---
-Add another `print()` function to tell the user whether the dragon is young or old, and then two more to create a break before the story begins.
+Add another `print` function to tell the user whether the dragon is young or old, and then two more to create a break before the story begins.
 
 <iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 --- /task ---
