@@ -6,7 +6,7 @@ You will use Python to create a program that generates a random story, based on 
 
 --- no-print ---
 
-The story will start with the dragon's name.
+Type in the name of your dragon to begin the story.
 
 <iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
