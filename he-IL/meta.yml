@@ -1,0 +1,41 @@
+---
+title: Storytime
+hero_image: images/banner.png
+description: Generate fairy tales and other imaginative stories with basic Python
+original_url: https://raspberrypi.org/learning/storytime
+theme: צהוב
+duration: 1
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+interests: ''
+technologies: raspberry-pi, electronic-components, python
+site_areas: פרויקטים
+hardware: raspberry-pi, electronic-components
+software: פיתון
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: מבוא
+  - 
+    title: מה תצטרכו
+  - 
+    title: Using IDLE on Raspberry Pi
+  - 
+    title: Using Trinket
+  - 
+    title: Get User Input and Print to the Screen
+  - 
+    title: If, Elif, and Else
+  - 
+    title: Lists
+  - 
+    title: Using Random
+  - 
+    title: Story Time!
+  - 
+    title: The Final Print
+  - 
+    title: מה הלאה?

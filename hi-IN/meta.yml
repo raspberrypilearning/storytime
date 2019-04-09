@@ -1,0 +1,41 @@
+---
+title: कहानी का समय
+hero_image: images/banner.png
+description: मूल Python के साथ परी कथाएँ और अन्य काल्पनिक कहानियाँ तैयार करें
+original_url: https://raspberrypi.org/learning/storytime
+theme: yellow
+duration: 1
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+interests: ''
+technologies: रास्पबेरी-पीआई, इलेक्ट्रॉनिक-घटक, Python
+site_areas: प्रोजेक्ट
+hardware: रास्पबेरी-पीआई, इलेक्ट्रॉनिक-घटक
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: भूमिका
+  - 
+    title: आपको किसकी ज़रूरत होगी
+  - 
+    title: अपने Raspberry Pi पर IDLE का उपयोग करना
+  - 
+    title: Trinket का उपयोग करना
+  - 
+    title: उपयोगकर्ता इनपुट प्राप्त करें और स्क्रीन पर प्रिंट करें
+  - 
+    title: If (यदि), Elif (अन्यथा यदि), और Else (अन्यथा)
+  - 
+    title: सूचियाँ
+  - 
+    title: यादृच्छिक का उपयोग करना
+  - 
+    title: कहानी का समय!
+  - 
+    title: अंतिम प्रिंट
+  - 
+    title: 'चुनौती: निर्देश स्क्रीन'
