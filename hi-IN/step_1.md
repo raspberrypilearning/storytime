@@ -13,6 +13,6 @@
 - सूची में से वस्तुओं का चयन करने के लिए `random` (यादृच्छिक) मॉड्यूल का उपयोग करना
 - किसी कहानी में जानकारी का भंडारण करने और उसे प्राप्त करने के लिए वेरिएबल का उपयोग करना
 
-इस संसाधन में [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/) (रास्पबेरी पीआई डिजिटल मेकिंग पाठ्यक्रम) के निम्नलिखित तत्वों के पहलू शामिल हैं:
+इस संसाधन में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](https://www.raspberrypi.org/curriculum/) के निम्नलिखित तत्वों के पहलू शामिल हैं:
 
 - [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें](https://www.raspberrypi.org/curriculum/programming/creator)
