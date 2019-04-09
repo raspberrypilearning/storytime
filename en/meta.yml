@@ -1,7 +1,7 @@
 ---
 title: Story time
 hero_image: images/banner.png
-description: Generate fairy tales and other imaginative stories with basic Python
+description: Create interactive fairy tales and other stories with basic Python
 original_url: https://raspberrypi.org/learning/storytime
 theme: yellow
 duration: 1
@@ -18,11 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps: 
 - title: Introduction
-- title: Input and output
-- title: If or else
-- title: Lists
-- title: Using Random
-- title: Story Time!
-- title: "Challenge: more lists"
+- title: Make your story interactive
+- title: Big or small, old or young
+- title: Lists of details
+- title: Choose your story details
+- title: Tell your story
+- title: "Challenge: add more details"
   challenge: true
 - title: What next?

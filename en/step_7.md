@@ -1,7 +1,7 @@
-## Challenge: more lists
+## Challenge: add more details
 
-You can make your story even more interesting by adding in some more lists, from which random items can be picked.
+Make your story even more interesting by adding some more lists with items that your program can pick from.
 
-Why not create a list of `enemies` or `heroes`? Perhaps you could give the dragon a little more detail by creating a list called `colours` that decides what colour skin it has, or `breath` to see whether it breathes fire, steam or frost.
+For example, you could create a list of `enemies` or `heroes`. Or give the dragon more detail: you could create a list called `colours` that decides what colour skin the dragon's scales are, or a list called `breath` that determines whether the dragon breathes fire, steam, or frost.
 
-Your story can be as long as you like, and the only limits are your imagination.
+Your story can be as long as you like, and the only limit is your imagination!
