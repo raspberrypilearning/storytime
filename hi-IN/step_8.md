@@ -1,13 +1,5 @@
-## यादृच्छिक का उपयोग करना
+## What next?
 
-कार्रवाइयों, स्थानों, नामों, और भूमिकाओं की सूचियों के साथ आप कोई कोड लिख सकते हैं जो प्रत्येक सूची से यादृच्छिक रूप से एक आइटम चुन लेगा। इससे आपकी कहानी तैयार करने में मदद मिलेगी, और यह रोचक बन जाएगी!
+We have lots of Python projects for you to try. Go choose one of [these Python projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=python&curriculum%5B%5D=%201){:target="_blank"} now!
 
-- आप पहले जो कोड की पंक्तियाँ लिख चुके हैं उन सभी के ऊपर, अपने प्रोग्राम के शीर्ष पर जाएँ। सबसे ऊपर `import random` (यादृच्छिक आयात करें) टाइप करें। यह `random` (यादृच्छिक) मॉड्यूल को आयात करता है।
-
-2. फिर अपने कोड के सबसे नीचे जाएँ, और अपनी सूचियों के नीचे टाइप करें:
-    
-    ```python
-    actor_name = random.choice(names)
-    ```
-    
-    ![](images/story7.png)
+You could also recreate your story in Scratch, and add some graphics and animations to it.
