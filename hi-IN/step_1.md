@@ -1,18 +1,61 @@
-## आप क्या बनाएँगे
+## Introduction
 
-इस ट्यूटोरियल सेआप कोड से एक कहानी बता सकते हैं। यह उपयोगकर्ता इनपुट का मूल्यांकन करने और प्यारी परी कथा तैयार करने के लिए if/else (यदि/अन्यथा) कथनों के सरल उपयोग को दर्शाता है। यह Python प्रोग्रामिंग के साथ शुरू करने का एक मजेदार तरीका है जिससे आप वास्तव में अपनी कल्पना और कहानी कहने की क्षमताओं का उपयोग कर सकते हैं!
+## What you will make
 
-## आप क्या सीखेंगे
+You will use Python to create a program that generates a random story, based on what the user types in.
 
-अपने Raspberry Pi पर कोड के साथ कोई कहानी तैयार करके आप सीखेंगे:
+\--- no-print \---
 
-- Python पायथन विकास अनुप्रयोग IDLE का उपयोग कैसे करें
-- उपयोगकर्ता को टेक्स्ट इनपुट करने और स्क्रीन पर प्रिंट करने के लिए तैयार करना
-- मुख्य चरित्र का लिंग सेट करने के लिए `if` (यदि), `elif` (यदि अन्यथा) और `else` (अन्यथा) शर्तों का उपयोग करना।
-- अपनी कहानी में चरित्रों या स्थानों के नामों को संगृहीत करने के लिए सूचियों का उपयोग करना
-- सूची में से वस्तुओं का चयन करने के लिए `random` (यादृच्छिक) मॉड्यूल का उपयोग करना
-- किसी कहानी में जानकारी का भंडारण करने और उसे प्राप्त करने के लिए वेरिएबल का उपयोग करना
+Type in the name of your dragon to begin the story. <iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-इस संसाधन में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](https://www.raspberrypi.org/curriculum/) के निम्नलिखित तत्वों के पहलू शामिल हैं:
+\--- /no-print \---
 
-- [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें](https://www.raspberrypi.org/curriculum/programming/creator)
+\--- print-only \---
+
+![complete project](images/storytime-final.png)
+
+\--- /print-only \---
+
+## \--- collapse \---
+
+## title: What you will need
+
+### Hardware
+
+- A computer that is connected to the internet
+
+OR
+
+- A computer that runs Python 3
+
+### Software
+
+- [Python 3](https://www.python.org/downloads/){:target="_blank"}, or [Trinket online](https://trinket.io/){:target="_blank"}
+
+### Downloads
+
+Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_blank"}.
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: What you will learn
+
+- How to receive user input in Python
+- Why and when you need to convert strings to integers
+- How to use Python code to select random items from a list \--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
+\--- no-print \---
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"}.
+
+\--- /no-print \---
+
+You can [find the solution for this project here](http://rpf.io/p/en/storytime){:target="_blank"}.
+
+\--- /collapse \---
