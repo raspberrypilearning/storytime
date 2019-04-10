@@ -1,30 +1,18 @@
-## If, Elif, and Else
+## Tell your story
 
-Having discovered the gender of the user, you can use that information in your story. But as you know from your literacy lessons, nouns are preceded with 'he and 'she' and not 'girl' or 'boy', which are the values currently stored in the `gender` variable. You can fix this by using a computing concept to help out here; it's called a **conditional**.
+Now you can have some fun with creating your story! Be as imaginative and creative as you like.
 
-- Underneath the `input` and `print` statements type:
+Write this part of the program all on one line.
 
-	```python
-	if gender == "girl":
-	    pronoun = "she"
-	```
-	These two lines of code state that *if* the answer to the question 'Are you a girl or boy?' is 'girl', then set the pronoun to be 'she'. This is a condition. 
-		
-2. Now you need to set the pronoun if the answer to the question is 'boy':
-	
-	```python
-	elif gender == "boy":
-	    pronoun = "he"
-	```
-	`elif` means 'else, if'. 
-	
-3. But what if the user doesn't type 'girl' or 'boy'? Well, you can cover this situation by typing:	
-	```python        
-	else:
-	    pronoun = "it"
-	```    
-4. Save your work so far by clicking on **File** and **Save**.
-	
-	
-	![](images/story3.png)
+--- task ---
+First, type `story =` to create a variable to store your story in.
 
+--- /task ---
+
+Now use all the variables you have to make an imaginative story of your own. There is an example provided below, but you can make any story you like.
+
+--- task ---
+Write your story putting the variables together. Then on the last line of your program, print the story to the screen.
+
+<iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+--- /task ---
