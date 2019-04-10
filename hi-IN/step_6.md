@@ -1,32 +1,15 @@
-## If (यदि), Elif (अन्यथा यदि), और Else (अन्यथा)
+## Tell your story
 
-उपयोगकर्ता के लिंग का पता चलने के बाद, आप उस जानकारी का उपयोग अपनी कहानी में कर सकते हैं। But as you know from your literacy lessons, nouns are preceded with 'he and 'she' and not 'girl' or 'boy', which are the values currently stored in the `gender` variable. आप यहाँ मदद करने के लिए एक कंप्यूटिंग अवधारणा का उपयोग कर इसे ठीक कर सकते हैं; इसे **सशर्त कहा जाता है**।
+Now you can have some fun with creating your story! Be as imaginative and creative as you like.
 
-- `input` (इनपुट) और `print` (प्रिंट) कथनों के नीचे टाइप करें:
-    
-    ```python
-    if gender == "girl":
-        pronoun = "she"
-    ```
-    
-    कोड की ये दो पंक्तियां बताती हैं कि *यदि* 'आप लड़की हैं या लड़का?' प्रश्न का उत्तर 'लड़की' है, तो सर्वनाम को 'she' (वह) के लिए सेट करें। यह एक शर्त है।
+Write this part of the program all on one line.
 
-2. यदि प्रश्न का उत्तर 'लड़का' है तो अब आपको सर्वनाम सेट करने की आवश्यकता है:
-    
-    ```python
-    elif gender == "boy":
-        pronoun = "he"
-    ```
-    
-    `elif` का अर्थ है 'अन्यथा, यदि'.
+\--- task \--- First, type `story =` to create a variable to store your story in.
 
-3. लेकिन यदि उपयोगकर्ता 'लड़की' या 'लड़का' टाइप नहीं करता है तो क्या होगा? खैर, आप इस स्थिति को यह टाइप करके संभाल सकते हैं:
-    
-    ```python
-    अन्यथा:
-        pronoun = "it"
-    ```
+\--- /task \---
 
-4. अपने काम को **फ़ाइल** और**सहेजें** पर क्लिक करके सहेजें।
-    
-    ![](images/story3.png)
+Now use all the variables you have to make an imaginative story of your own. There is an example provided below, but you can make any story you like.
+
+\--- task \--- Write your story putting the variables together. Then on the last line of your program, print the story to the screen. <iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+
+\--- /task \---
