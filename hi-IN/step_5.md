@@ -1,28 +1,15 @@
-## उपयोगकर्ता इनपुट प्राप्त करें और स्क्रीन पर प्रिंट करें
+## Choose your story details
 
-स्टोरी टाइम कार्यक्रम का उद्देश्य एक कहानी तैयार करना, और इसे स्क्रीन पर प्रिंट करना है ताकि कोई इसे पढ़ सके। इसलिए शुरू करने का एक अच्छा तरीका यह समझना है कि Python `print` (प्रिंट) फंक्शन का उपयोग कैसे करें </0>।
+Now that you have lists of actions, places, things, and friends, write some code that randomly picks one item from each list. This will help generate your story, and should make it quirky!
 
-- टेक्स्ट एडिटर विंडो में अपनी `storytime.py` फ़ाइल को खोलकर, निम्नलिखित पंक्ति टाइप करें:
-    
-    ```python
-    print("Hello reader") (हैलो रीडर)
-    ```
+\--- task \--- Add in another line of code to create a variable called `friend`. Then assign the new variable a random item from the `friends` list. <iframe src="https://trinket.io/embed/python/b3668ceb66" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-2. **File** (फ़ाइल) और **Save** (सहेजें) पर क्लिक करके फ़ाइल को सहेजें। इसके बाद, यह देखने के लिए प्रोग्राम चलाएँ कि क्या होता है। प्रोग्राम चलाने के लिए **Run** (चलाएं) पर क्लिक करें और उसके बाद **Run Module** (मॉड्यूल चलाएँ) पर। आपको Python शेल विंडो में "हैलो रीडर" शब्द दिखाई देने चाहिए।
-    
-    **ध्यान दें**: यह ट्यूटोरियल Python 3 सिंटैक्स का उपयोग करता है, इसलिए आपको अपना प्रोग्राम चलाने के लिए IDLE3 का उपयोग करना होगा।
-    
-    ![](images/story1.png)
+\--- /task \---
 
-3. अब जब आप स्क्रीन पर प्रिंट कर सकते हैं, तो आइए हम इस प्रोग्राम का उपयोग करने वाले व्यक्ति से कुछ जानकारी प्राप्त करें और इसे एक वेरिएबल में संगृहीत करें। अपने कोड के शीर्ष पर टाइप करें:
-    
-    ```python
-    name = input("What is your name? ")
-    print("Hello " + name)
-    ```
+\--- task \--- Now use the `friend` variable in a `print` function. Each time you run the code, the variable should be randomly assigned a new item from the `friends` list. <iframe src="https://trinket.io/embed/python/cf0dfd81da" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-4. क्या होता है यह देखने के लिए अपनी फ़ाइल सहेजें और अपना कोड चलाएँ। ध्यान दें कि इनपुट प्रश्न स्क्रीन पर मुद्रित होता है और फिर उपयोगकर्ता द्वारा दर्ज की गई जानकारी वेरिएबल 'note' (नाम) में संगृहीत होती है; इसके बाद इसका उपयोग "Hello" (हैलो) कहने वाले मुद्रित कथन में किया जाता है।
-    
-    ![](images/story2.png)
+\--- /task \---
 
-5. क्या अब आप उपयोगकर्ता का **लिंग** क्या है, और यह **सप्ताह का कौन सा दिन** है के बारे में जानकारी संगृहीत करने के लिए दो और वेरिएबल बना सकते हैं? आपको अपनी अंतिम कहानी में इस जानकारी की आवश्यकता होगी।
+\--- task \--- Create three more variables called `action`, `place`, and `thing`. Assign them random items from the `actions`, `places`, and `things` lists. <iframe src="https://trinket.io/embed/python/e6410121dd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+
+\--- /task \---
