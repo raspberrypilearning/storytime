@@ -22,6 +22,7 @@ Type in the name of your dragon to begin the story.
 ---
 title: What you will need
 ---
+
 ### Hardware
 
 - A computer that is connected to the internet
@@ -44,9 +45,11 @@ Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_
 ---
 title: What you will learn
 ---
+
 - How to receive user input in Python
 - Why and when you need to convert strings to integers
 - How to use Python code to select random items from a list
+
 --- /collapse ---
 
 --- collapse ---
