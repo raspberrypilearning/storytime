@@ -44,7 +44,9 @@ Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_
 
 - How to receive user input in Python
 - Why and when you need to convert strings to integers
-- How to use Python code to select random items from a list \--- /collapse \---
+- How to use Python code to select random items from a list
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
