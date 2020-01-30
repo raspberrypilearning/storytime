@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Введение
+    title: Introduction
   - 
     title: Make your story interactive
   - 
