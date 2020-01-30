@@ -8,17 +8,17 @@ duration: 1
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 2, disseny-0, programació-2, phys-comp-0, fabricació-0, comunitat-0
+curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
 interests: ''
 technologies: raspberry-pi, electronic-components, python
-site_areas: projectes
+site_areas: projects
 hardware: raspberry-pi, electronic-components
 software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introducció
+    title: Introduction
   - 
     title: Make your story interactive
   - 
