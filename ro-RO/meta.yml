@@ -3,7 +3,7 @@ title: Story time
 hero_image: images/banner.png
 description: Create interactive fairy tales and other stories with basic Python
 original_url: https://raspberrypi.org/learning/storytime
-theme: galben
+theme: yellow
 duration: 1
 listed: true
 ingredient: false
@@ -11,14 +11,14 @@ copyedit: true
 curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
 interests: ''
 technologies: raspberry-pi, electronic-components, python
-site_areas: proiecte
+site_areas: projects
 hardware: raspberry-pi, electronic-components
 software: python
 version: 3
-last_tested: 01-01-2017
+last_tested: 2017-01-01
 steps:
   - 
-    title: Introducere
+    title: Introduction
   - 
     title: Make your story interactive
   - 
