@@ -10,15 +10,15 @@ ingredient: false
 copyedit: true
 curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
 interests: ''
-technologies: रास्पबेरी-पीआई, इलेक्ट्रॉनिक-घटक, Python
-site_areas: प्रोजेक्ट
-hardware: रास्पबेरी-पीआई, इलेक्ट्रॉनिक-घटक
+technologies: raspberry-pi, electronic-components, python
+site_areas: projects
+hardware: raspberry-pi, electronic-components
 software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: भूमिका
+    title: Introduction
   - 
     title: Make your story interactive
   - 
