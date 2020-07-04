@@ -36,12 +36,12 @@ print ("यह ड्रैगन आकार में "+ size +" था")
 
 \--- task \---
 
-यह जानने के लिए कि ड्रैगन युवा है या बूढ़ा कोड जोड़ें। आपको ` age ` वेरिएबल को **टाइप कास्ट (type cast)** करना होगा </strong>ताकि कंप्यूटर जान सके कि यह एक ** संख्या ** है और ना की **वर्णमाला स्ट्रिंग </0> । This is important because for the Python language, there is a big difference between the **characters** `1` `0` `0` and the **number** `100`.</p> <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+यह जानने के लिए कि ड्रैगन युवा है या बूढ़ा कोड जोड़ें। आपको ` age ` वेरिएबल को **टाइप कास्ट (type cast)** करना होगा </strong>ताकि कंप्यूटर जान सके कि यह एक ** संख्या ** है और ना की **वर्णमाला स्ट्रिंग </0> । यह महत्वपूर्ण है क्योंकि Python भाषा के लिए, `1` `0` `0` **वर्णों** और `100` **संख्या** के बीच अंतर है।</p> <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Add another `print` statement to tell the user whether the dragon is young or old. Then add two more `print` statements to create a break before the story begins. <iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+एक और `print` जोड़े उपयोगकर्ता को यह बताने के लिए कि ड्रैगन जवान है या बूढ़ा। फिर दो और ` print `जोड़ें कहानी शुरू होने से पहले एक ब्रेक बनाने के लिए। <iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
