@@ -1,16 +1,16 @@
-## Make your story interactive
+## अपनी कहानी को संवादात्मक बनाएं
 
 \--- task \---
 
-Open the starter project.
+प्रारम्भिक प्रोजेक्ट खोलें ।
 
-**Online**: open the Trinket starter project at [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"}.
+**ऑनलाइन**: आप इस Trinket प्रारंभक परियोजना को [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"} में खोल सकते हैं।
 
-**Offline**: download the [starter project](http://rpf.io/p/en/storytime-go){:target="_blank"} and open it in a text editor
+**ऑफ़लाइन**: [प्रारंभक परियोजना](http://rpf.io/p/en/storytime-go){:target="_blank"} को डाउनलोड करके टेक्स्ट एडिटर में खोलिये।
 
-If you need to download and install Python, download it from [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"}.
+यदि आपको Python डाउनलोड करने और स्थापित करने की आवश्यकता है, तो यहाँ [rpf.io/pythonoff](http://rpf.io/pythonoff) {:target="_blank"} से डाउनलोड करें ।
 
-In the starter project, you should see a single line of code:
+प्रारंभक परियोजना में, आपको कोड की यह पंक्ति दिखनी चाहिए:
 
 ```python
 from random import choice
@@ -18,42 +18,42 @@ from random import choice
 
 \--- /task \---
 
-The purpose of the story time program is to generate a story, and print the story to the screen so that you can read it. So first, learn how to use the Python `print` function.
+स्टोरी टाइम कार्यक्रम का उद्देश्य एक कहानी तैयार करना है, और इसे स्क्रीन पर प्रिंट करना है ताकि आप इसे पढ़ सके। तो पहले, जानें कि Python `print` फंक्शन का उपयोग कैसे करते है।
 
 \--- task \---
 
-In your `storytime.py` file, type the following code on a new line:
+आपके `storytime.py` फ़ाइल में, एक नई लाइन पर निम्न कोड टाइप करें:
 
 ```python
-print("We are going to hear a story about a dragon!")
+print("हम एक ड्रैगन के बारे में एक कहानी सुनने जा रहे हैं!")
 ``` <iframe src="https://trinket.io/embed/python/3b593eb9e4" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Run the program to see what happens. You should see the words “We are going to hear a story about a dragon!” appear in the output display.
+कोड चलाएँ और देखें कि क्या होता है। आपको यह शब्द आउटपुट में दिखने चाहिए: "हम एक ड्रैगन के बारे में कहानी सुनने जा रहे हैं!"
 
 \--- /task \---
 
-Now that you can print to the screen, you're ready to ask the user for input, to learn more about the dragon.
+अब जब आप स्क्रीन पर प्रिंट कर सकते हैं, तो आप उपयोगकर्ता से इनपुट लेने के लिए और ड्रैगन के बारे में और जानने के लिए तैयार हैं।
 
 \--- task \---
 
-Create a new variable called `name`. Use the `input` function to ask the user for the dragon's name. Store the input name in the new `name` variable. <iframe src="https://trinket.io/embed/python/0de60dee6d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+एक नया वेरिएबल बनाएँ और इसका नाम `name` रखें। `input` फ़ंक्शन का उपयोग करें उपयोगकर्ता से ड्रैगन का नाम पूछने के लिए। इनपुट नाम को नए `name` वेरिएबल में स्टोर करें। <iframe src="https://trinket.io/embed/python/0de60dee6d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Run your code again to test whether the program asks for input.
+प्रोग्राम इनपुट के लिए पूछता है या नहीं, यह जांचने के लिए अपना कोड फिर से चलाएँ।
 
 \--- /task \---
 
-Now that you have the name of the dragon, use the `name` variable to print the name to the screen. In Python, you can use the `+` operator to join strings together.
+अब जब आपके पास ड्रैगन का नाम है, तो `name` वेरिएबल का उपयोग कर स्क्रीन पर नाम प्रिंट करे। Python में, आप ` + ` ऑपरेटर का उपयोग कर सकते हैं आपस में दो स्ट्रिंग जोड़ने के लिए ।
 
 \--- task \---
 
-Add another line of code to print the name of the dragon to the screen. Then run your code. <iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ड्रैगन के नाम को स्क्रीन पर प्रिंट करने के लिए कोड की एक और लाइन प्रिंट करें। फिर अपना कोड रन करें। <iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
