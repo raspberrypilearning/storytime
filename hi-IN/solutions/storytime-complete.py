@@ -26,6 +26,6 @@ thing = choice(things)
 action = choice(actions)
 place = choice(places)
 
-story = "एक बार की बात है, " + name + " नामक एक ड्रैगन था। ड्रैगन एक बहुत "+ description +" प्राणी था, और यह बहुत "+ size +" था। इसे "+ action +" "+ thing +" से बेहतर कुछ भी नहीं लगता था। अफसोस की बात है कि ड्रैगन इस पर इतना महान था कि उसके पास "+ thing +" से "+ action +" से "+ place +" खतम हो गया था। ड्रैगन बहुत बोर हो गया। सौभाग्य से ड्रैगन का एक दोस्त था जिसका नाम "+ friend +" था। " + friend + " knew where the dragon could find lots of " + thing + " and the two of them travelled far away from " + place + " and found a land filled with lots of lovely " + thing + " to " + action + ". " + name + " and " + friend + " lived happily ever, with all the " + thing + " they wanted."
+story = "एक बार की बात है, " + name + " नामक एक ड्रैगन था। ड्रैगन एक बहुत "+ description +" प्राणी था, और यह बहुत "+ size +" था। इसे "+ action +" "+ thing +" से बेहतर कुछ भी नहीं लगता था। अफसोस की बात है कि ड्रैगन इस पर इतना महान था कि उसके पास "+ thing +" से "+ action +" से "+ place +" खतम हो गया था। ड्रैगन बहुत बोर हो गया। सौभाग्य से ड्रैगन का एक दोस्त था जिसका नाम "+ friend +" था। " + friend + " जानता था कि ड्रैगन को "+ thing +" कहां बहुत सारे मिल सकते हैं और उन दोनों ने "+ place +" से बहुत दूर की यात्रा की और बहुत सारी प्यारी "+ thing +" से भरपूर एक भूमि को " + action + " में पाया। " + name +" और "+ friend +" सभी "+ thing +" के साथ खुशी से रहते थे। "
 
 print(story)
