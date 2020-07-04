@@ -1,4 +1,4 @@
-## Lists of details
+## विवरण की सूची
 
 Your story time program will generate a lot of the story at random. That's part of the fun! You need to create some lists to store different and funny words that the final program can choose random items from for the story.
 
