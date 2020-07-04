@@ -1,63 +1,63 @@
 ## Introduction
 
-## What you will make
+## आप क्या बनाएँगे
 
-You will use Python to create a program that generates a random story, based on what the user types in.
+आप एक ऐसा प्रोग्राम बनाने के लिए Python का उपयोग करेंगे जो उपयोगकर्ता के प्रकारों के आधार पर एक यादृच्छिक कहानी उत्पन्न करता है।
 
 \--- no-print \---
 
-Type in the name of your dragon to begin the story. <iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+कहानी शुरू करने के लिए अपने ड्रेगन का नाम टाइप करें। <iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![complete project](images/storytime-final.png)
+![पूरा प्रोजेक्ट](images/storytime-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: आपको किन चीज़ों की आवश्यकता होगी
 
-### Hardware
+### हार्डवेयर
 
-- A computer that is connected to the internet
+- एक कंप्यूटर जो इंटरनेट से जुड़ा हुआ है
 
-OR
+या
 
-- A computer that runs Python 3
+- कोई भी कंप्यूटर जो Python 3 चला सकता है
 
-### Software
+### सॉफ्टवेयर
 
-- [Python 3](https://www.python.org/downloads/){:target="_blank"}, or [Trinket online](https://trinket.io/){:target="_blank"}
+- [Python 3](https://www.python.org/downloads/){:target="_blank"}, या [Trinket online](https://trinket.io/){:target="_blank"}
 
-### Downloads
+### डाउनलोड
 
-Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_blank"}.
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- How to receive user input in Python
-- Why and when you need to convert strings to integers
-- How to use Python code to select random items from a list
+आप [ प्रारंभक परियोजना यहां से प्राप्त कर सकते हैं ](https://trinket.io/python/a0aaa62eab) {: target = "_ blank"}।
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: आप क्या सीखेंगे
+
+- Python में उपयोगकर्ता का इनपुट कैसे प्राप्त करें
+- क्यों और कब आपको स्ट्रिंग्स को पूर्णांक में बदलने की आवश्यकता है
+- सूची से यादृच्छिक आइटम का चयन करने के लिए Python कोड का उपयोग कैसे करें
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: शिक्षकों के लिए अतिरिक्त जानकारी
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"}.
+अगर आपको इस परियोजना को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/storytime/print){: target = "_ blank"} का उपयोग करें।
 
 \--- /no-print \---
 
-You can [find the solution for this project here](http://rpf.io/p/en/storytime){:target="_blank"}.
+आप [इस प्रोजेक्ट के लिए समाधान यहाँ खोज सकते हैं](http://rpf.io/p/en/storytime){:target="_blank"}।
 
 \--- /collapse \---
