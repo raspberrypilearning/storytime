@@ -1,5 +1,5 @@
-## What next?
+## आगे क्या?
 
-We have lots of Python projects for you to try. Go choose one of [these Python projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=python&curriculum%5B%5D=%201){:target="_blank"} now!
+आपके प्रयास करने के लिए हमारे पास बहुत सारे Python परियोजन हैं। अब [इन Python परियोजनाओं](https://projects.raspberrypi.org/en/projects?software%5B%5D=python&curriculum%5B%5D=%201){ target="_blank"} में से एक चुनें!
 
-You could also recreate your story in Scratch, and add some graphics and animations to it.
+आप Scratch में अपनी कहानी को फिर से बना सकते हैं, और इसमें कुछ ग्राफिक्स और एनिमेशन जोड़ सकते हैं।
