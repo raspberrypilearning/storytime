@@ -1,21 +1,21 @@
-## Choose your story details
+## अपनी कहानी का विवरण चुनें
 
-Now that you have lists of actions, places, things, and friends, write some code that randomly picks one item from each list. This will help generate your story, and should make it quirky!
+अब जब आपके पास कार्यों, स्थानों, चीजों और दोस्तों की सूची है, तो कुछ कोड लिखें जो प्रत्येक सूची में से एक आइटम को यादृच्छिक रूप से चुनता है। इससे आपकी कहानी तैयार करने में मदद मिलेगी, और यह रोचक बन जाएगी!
 
 \--- task \---
 
-Add in another line of code to create a variable called `friend`. Then assign the new variable a random item from the `friends` list. <iframe src="https://trinket.io/embed/python/b3668ceb66" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+`friend` नामक एक वेरियबल बनाने के लिए कोड की पंक्ति जोड़ें। फिर नए वेरिएबल को `friends` सूची से यादृच्छिक आइटम असाइन करें। <iframe src="https://trinket.io/embed/python/b3668ceb66" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Now use the `friend` variable in a `print` function. Each time you run the code, the variable should be randomly assigned a new item from the `friends` list. <iframe src="https://trinket.io/embed/python/cf0dfd81da" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+अब `friend` वेरिएबल का उपयोग करें `print` फंक्शन में। हर बार जब आप कोड चलाते हैं, तो वेरिएबल को `friends` सूची से यादृच्छिक रूप से एक नया आइटम सौंपा जाना चाहिए। <iframe src="https://trinket.io/embed/python/cf0dfd81da" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Create three more variables called `action`, `place`, and `thing`. Assign them random items from the `actions`, `places`, and `things` lists. <iframe src="https://trinket.io/embed/python/e6410121dd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+तीन और वेरिएबल बनाएं जिनके नाम हों `action`, `place`, और `thing`। `actions`, `places`, और `things` सूचियों से उन्हें यादृच्छिक आइटम असाइन करें। <iframe src="https://trinket.io/embed/python/e6410121dd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
