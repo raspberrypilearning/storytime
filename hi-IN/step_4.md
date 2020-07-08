@@ -18,11 +18,11 @@
 
 \--- task \---
 
-Make three more lists that have the names `friends`, `actions`, and `places`.
+तीन और सूचियाँ बनाएं जिनके नाम `friends`, `actions`, और `places` हों।
 
 \--- hints \--- \--- hint \---
 
-To make the lists, you need to give each list a name.
+सूचियाँ बनाने के लिए, आपको प्रत्येक सूची को एक नाम देना होगा।
 
 ```python
 friends = []
@@ -32,14 +32,14 @@ places  = []
 
 \--- /hint \--- \--- hint \---
 
-Add strings as list items to all the lists, such as these strings for `friends`.
+सभी सूचियों में आइटम के रूप में स्ट्रिंग्स जोड़ें, जैसे कि `friends` के लिए ये स्ट्रिंग्स।
 
 ```python
-friends = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
+friends = ["लीला", "नाओमी", "नोएल", "इदरीस", "जोनाह", "अरी"]
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here is what your completed code should look like: <iframe src="https://trinket.io/embed/python/5e264dd3e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+आपका पूरा कोड ऐसा दिखना चाहिए: <iframe src="https://trinket.io/embed/python/5e264dd3e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
