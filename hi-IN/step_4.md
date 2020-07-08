@@ -2,19 +2,19 @@
 
 आपका story time प्रोग्राम कहानी का बहुत भाग यादृच्छिक पर उत्पन्न करेगा। यह आनंद का हिस्सा है! आपको कुछ सूचियाँ बनाने की आवश्यकता है अलग और मजेदार शब्दों को संग्रहीत करने के लिए जिनमें से अंतिम प्रोग्राम कहानी के लिए यादृच्छिक आइटम चुन सकता है।
 
-Lists can be named in the same way as variables. For example, to create a list called `numbers` with four items in it, you could use the line `numbers = ["zero", "one", "two", "three"]`.
+सूचियों के नाम उसी तरह रखे जा सकते हैं जैसे वेरिएबल के। उदाहरण के लिए, `numbers` नामक एक सूची बनाने के लिए जिसमे चार आइटम हों, आप इस पंक्ति का उपयोग कर सकते हैं `numbers = ["zero", "one", "two", "three"]`।
 
 \--- task \---
 
-Underneath the last line of code in your program, leave a line blank and then create a list of things that the dragon can interact with. Either use the same list that is shown here, or add different items to the list. <iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+अपने प्रोग्राम में कोड की अंतिम पंक्ति के नीचे, एक लाइन को खाली छोड़ दें और फिर उन चीजों की एक सूची बनाएं, जिनसे ड्रैगन बातचीत कर सकता है। या तो उसी सूची का उपयोग करें जो यहां दिखाई गई है, या सूची में अलग-अलग आइटम जोड़ें। <iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
-Now you need some more lists:
+अब आपको कुछ और सूचियों की आवश्यकता है:
 
-- A list for the names of the dragon's `friends`
-- A list for `actions` such as "kiss", "throw", and "steal"
-- A list for `places` such as "Middle Earth" and "Narnia"
+- ड्रैगन के `friends` के नामों की एक सूची
+- `actions` के लिए एक सूची जैसे "चुंबन", "फेंक", और "चोरी"
+- `places` के लिए एक सूची जैसे "मध्य पृथ्वी" और "नार्निया"
 
 \--- task \---
 
