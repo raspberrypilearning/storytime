@@ -1,6 +1,6 @@
 ## विवरण की सूची
 
-Your story time program will generate a lot of the story at random. That's part of the fun! You need to create some lists to store different and funny words that the final program can choose random items from for the story.
+आपका story time प्रोग्राम कहानी का बहुत भाग यादृच्छिक पर उत्पन्न करेगा। यह आनंद का हिस्सा है! आपको कुछ सूचियाँ बनाने की आवश्यकता है अलग और मजेदार शब्दों को संग्रहीत करने के लिए जिनमें से अंतिम प्रोग्राम कहानी के लिए यादृच्छिक आइटम चुन सकता है।
 
 Lists can be named in the same way as variables. For example, to create a list called `numbers` with four items in it, you could use the line `numbers = ["zero", "one", "two", "three"]`.
 
