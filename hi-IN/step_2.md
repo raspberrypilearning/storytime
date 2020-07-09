@@ -25,7 +25,7 @@ from random import choice
 आपके `storytime.py` फ़ाइल में, एक नई लाइन पर निम्न कोड टाइप करें:
 
 ```python
-print("हम एक ड्रैगन के बारे में एक कहानी सुनने जा रहे हैं!")
+print("We are going to hear a story about a dragon!")
 ``` <iframe src="https://trinket.io/embed/python/3b593eb9e4" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
