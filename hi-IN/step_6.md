@@ -14,6 +14,8 @@
 
 --- task ---
 
-वेरिएबल को एक साथ रखकर अपनी कहानी लिखें। फिर अपने प्रोग्राम की अंतिम पंक्ति में, कहानी को स्क्रीन पर प्रिंट करें। <iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+वेरिएबल को एक साथ रखकर अपनी कहानी लिखें। फिर अपने प्रोग्राम की अंतिम पंक्ति में, कहानी को स्क्रीन पर प्रिंट करें। 
+
+<iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---

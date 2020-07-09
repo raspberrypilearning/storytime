@@ -6,7 +6,9 @@
 
 --- task ---
 
-अपने प्रोग्राम में कोड की अंतिम पंक्ति के नीचे, एक लाइन को खाली छोड़ दें और फिर उन चीजों की एक सूची बनाएं, जिनसे ड्रैगन बातचीत कर सकता है। या तो उसी सूची का उपयोग करें जो यहां दिखाई गई है, या सूची में अलग-अलग आइटम जोड़ें। <iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+अपने प्रोग्राम में कोड की अंतिम पंक्ति के नीचे, एक लाइन को खाली छोड़ दें और फिर उन चीजों की एक सूची बनाएं, जिनसे ड्रैगन बातचीत कर सकता है। या तो उसी सूची का उपयोग करें जो यहां दिखाई गई है, या सूची में अलग-अलग आइटम जोड़ें। 
+
+<iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
 
@@ -42,7 +44,9 @@ friends = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
 --- /hint --- 
 --- hint ---
 
-आपका पूरा कोड ऐसा दिखना चाहिए: <iframe src="https://trinket.io/embed/python/5e264dd3e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+आपका पूरा कोड ऐसा दिखना चाहिए: 
+
+<iframe src="https://trinket.io/embed/python/5e264dd3e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /hint ---
 --- /hints --- 
