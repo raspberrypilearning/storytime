@@ -1,31 +1,31 @@
 from random import choice
 
-print("हम एक ड्रैगन के बारे में एक कहानी सुनने जा रहे हैं!")
-name = input("ड्रैगन का नाम क्या है? ")
-print("उत्कृष्ट, ड्रैगन का नाम है " + name)
-size = input("ड्रैगन बड़ा है या छोटा? ")
-print ("यह ड्रैगन आकार में "+ size +" था")
-age = input("ड्रैगन की उमर कितनी है? ")
-print("ड्रैगन की उम्र " + age + " वर्ष है")
+print("We are going to hear a story about a dragon!")
+name = input("What is the name of the dragon? ")
+print("Excellent, the dragon is called " + name)
+size = input("Is the dragon big or small? ")
+print("It was a " + size + " dragon")
+age = input("How old is the dragon? ")
+print("The dragon is " + age + " years old")
 
 print("")
 print("")
 
 if int(age) > 1000:
-    description = "बूढ़ा"
+    description = "old"
 else:
-    description = "जवान"
+    description = "young"
 
-things = ["हत्या", "केक", "चॉकलेट", "चट्टानें", "बिल्ली के बच्चे"]
-friends = ["लीला", "नाओमी", "नोएल", "इदरीस", "जोनाह", "अरी"]
-actions = ["हत्या", "चुंबन", "बचाने", "शादी", "बचाव", "खाने"]
-places = ["मध्य पृथ्वी", "नार्निया", "हॉगवर्ट्स", "एल्डरान"]
+things = ["slay", "cakes", "chocolate", "rocks", "kittens"]
+friends = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
+actions = ["slay", "kiss", "save", "marry", "rescue", "eat"]
+places = ["Middle Earth", "Narnia", "Hogwarts", "Alderaan"]
 
 friend = choice(friends)
 thing = choice(things)
 action = choice(actions)
 place = choice(places)
 
-story = "एक बार की बात है, " + name + " नामक एक ड्रैगन था। ड्रैगन एक बहुत "+ description +" प्राणी था, और यह बहुत "+ size +" था। इसे "+ action +" "+ thing +" से बेहतर कुछ भी नहीं लगता था। अफसोस की बात है कि ड्रैगन इस पर इतना महान था कि उसके पास "+ thing +" से "+ action +" से "+ place +" खतम हो गया था। ड्रैगन बहुत बोर हो गया। सौभाग्य से ड्रैगन का एक दोस्त था जिसका नाम "+ friend +" था। " + friend + " जानता था कि ड्रैगन को "+ thing +" कहां बहुत सारे मिल सकते हैं और उन दोनों ने "+ place +" से बहुत दूर की यात्रा की और बहुत सारी प्यारी "+ thing +" से भरपूर एक भूमि को " + action + " में पाया। " + name +" और "+ friend +" सभी "+ thing +" के साथ खुशी से रहते थे। "
+story = "Once upon a time, there was a dragon called " + name + ". The dragon was a very " + description + " creature, and it was very " + size + ". It liked nothing better than to " +  action + " " + thing + ". Sadly, the dragon was so great at this that it ran out of " + thing + " to " + action + " in " + place + ". The dragon became very bored. Luckily the dragon had a friend called " + friend + ". " + friend + " knew where the dragon could find lots of " + thing + " and the two of them travelled far away from " + place + " and found a land filled with lots of lovely " + thing + " to " + action + ". " + name + " and " + friend + " lived happily ever, with all the " + thing + " they wanted."
 
 print(story)
