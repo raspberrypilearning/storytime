@@ -1,7 +1,7 @@
 ---
 title: कहानी का समय
 hero_image: images/banner.png
-description: मूल Python के साथ परी कथाएँ और अन्य काल्पनिक कहानियाँ तैयार करें
+description: बुनियादी Python के साथ संवादात्मक परियों की कहानियां और अन्य कहानियां बनाएं
 original_url: https://raspberrypi.org/learning/storytime
 theme: yellow
 duration: 1
@@ -17,14 +17,12 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: परिचय
-  - title: आपको किन चीजों की आवश्यकता होगी
-  - title: अपने Raspberry Pi पर IDLE का उपयोग करना
-  - title: Trinket का उपयोग करना
-  - title: उपयोगकर्ता इनपुट प्राप्त करें और स्क्रीन पर प्रिंट करें
-  - title: If (यदि), Elif (अन्यथा यदि), और Else (अन्यथा)
-  - title: सूचियाँ
-  - title: यादृच्छिक का उपयोग करना
-  - title: कहानी का समय!
-  - title: अंतिम प्रिंट
+  - title: भूमिका
+  - title: अपनी कहानी को संवादात्मक बनाएं
+  - title: बड़ा या छोटा, बूढ़ा या जवान
+  - title: विवरण की सूची
+  - title: अपनी कहानी का विवरण चुनें
+  - title: अपनी कहानी सुनाएं
+  - title: "चुनौती: अधिक विवरण जोड़ें"
+    challenge: true
   - title: आगे क्या?
