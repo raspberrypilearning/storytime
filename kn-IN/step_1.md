@@ -1,12 +1,12 @@
-## Introduction
+## ಪರಿಚಯ
 
-## What you will make
+## ನೀವು ಏನು ಮಾಡುತ್ತೀರಿ
 
 ನೀವು Python ಅನ್ನು ಬಳಕೆ ಮಾಡಿ ಪ್ರೋಗ್ರಾಮನ್ನು ರಚಿಸುತ್ತೀರಿ, ಆ ಪ್ರೋಗ್ರಾಂ ಯೂಸರ್ ಏನು ಟೈಪ್ ಮಾಡುತ್ತಾರೋ ಅದರ ಆಧಾರದ ಮೇಲೆ ರಾಂಡಮ್ ಆಗಿ ಕಥೆಯನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ.
 
 \--- no-print \---
 
-Type in the name of your dragon to begin the story. <iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ಕಥೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು ನಿಮ್ಮ ಡ್ರ್ಯಾಗನ್ನಿನ ಹೆಸರನ್ನು ಟೈಪ್ ಮಾಡಿ. <iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /no-print \---
 
