@@ -1,6 +1,6 @@
-## Choose your story details
+## ನಿಮ್ಮ ಕಥೆಯ ವಿವರಗಳನ್ನು ಆರಿಸಿ
 
-Now that you have lists of actions, places, things, and friends, write some code that randomly picks one item from each list. This will help generate your story, and should make it quirky!
+ಈಗ ನೀವು actions, places, things, ಮತ್ತು friends ಪಟ್ಟಿಗಳನ್ನು ಹೊಂದಿದ್ದೀರಿ, ಪ್ರತಿ ಪಟ್ಟಿಯಿಂದ ರಾಂಡಮ್ ಆಗಿ ಒಂದು ಐಟಂ ಅನ್ನು ಆಯ್ಕೆಮಾಡುವ ಕೋಡ್ ಬರೆಯಿರಿ. ಇದು ನಿಮ್ಮ ಕಥೆಯನ್ನು ರಚಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ ಮತ್ತು ಅದನ್ನು ಚಮತ್ಕಾರಿ ಮಾಡುತ್ತದೆ!
 
 \--- task \---
 
