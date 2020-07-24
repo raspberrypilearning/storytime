@@ -1,47 +1,47 @@
-## Big or small, old or young
+## ದೊಡ್ಡ ಅಥವಾ ಸಣ್ಣ, ಹಳೆಯ ಅಥವಾ ಯುವ
 
-It's time to get some more information about the dragon.
+ಡ್ರ್ಯಾಗನ್ ಬಗ್ಗೆ ಹೆಚ್ಚಿನ ಮಾಹಿತಿ ಪಡೆಯುವ ಸಮಯ.
 
 \--- task \---
 
-Add `input` and `print` functions to find out:
+ಸೇರಿಸಿ` input ` ಮತ್ತು ` print `ಕಾರ್ಯಗಳು ಕಂಡುಹಿಡಿಯಲು:
 
-1. Whether the dragon is **big** or **small**
-2. How old the dragon is
+1. ಡ್ರ್ಯಾಗನ್ ** ದೊಡ್ಡದಾಗಿದೆ ** ಅಥವಾ ** ಸಣ್ಣ **
+2. ಡ್ರ್ಯಾಗನ್ ವಯಸ್ಸು ಎಷ್ಟು
 
 \--- hints \--- \--- hint \---
 
-Use `input` to ask if the dragon is big or small. Then, use a `print` function to tell the user the size of the dragon.
+ಉಪಯೋಗಿಸು` input ` ಡ್ರ್ಯಾಗನ್ ದೊಡ್ಡದೋ ಅಥವಾ ಸಣ್ಣ ಎಂದು ಕೇಳಲು. ನಂತರ, ಡ್ರ್ಯಾಗನ್ ಗಾತ್ರವನ್ನು ಹೇಳಲು ` print ` ಬಳಸಿ.
 
 \--- /hint \--- \--- hint \---
 
-Here is some code that asks for the dragon's size and then print it.
+ಡ್ರ್ಯಾಗನ್‌ನ ಗಾತ್ರವನ್ನು ಕೇಳಿ print ಮಾಡುವಾ ಕೋಡ್ ಇಲ್ಲಿದೆ.
 
 ```python
 size = input("Is the dragon big or small? ")
 print("It was a " + size + " dragon")
 ```
 
-Now do the same for the dragon's age.
+ಈಗ ಡ್ರ್ಯಾಗನ್ ವಯಸ್ಸಿಗೆ ಅದೇ ರೀತಿ ಮಾಡಿ.
 
 \--- /hint \--- \--- hint \---
 
-Here's the full code that you need to ask for the dragon's size and age. <iframe src="https://trinket.io/embed/python/3f9399e144" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ಡ್ರ್ಯಾಗನ್‌ನ ಗಾತ್ರ ಮತ್ತು ವಯಸ್ಸನ್ನು ಕೇಳಲು ಬೇಕಾದ ಪೂರ್ಣ ಕೋಡ್ ಇಲ್ಲಿದೆ. <iframe src="https://trinket.io/embed/python/3f9399e144" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
 
-Now that you know the age of the dragon, you can work out whether it is young or old. Dragons live for a long time, so they are only considered old if they are older than 1000.
+ಈಗ ನೀವು ಡ್ರ್ಯಾಗನ್‌ನ ವಯಸ್ಸನ್ನು ತಿಳಿದಿದ್ದೀರಿ, ಅದು ಯುವಕ ಅಥವಾ ವಯಸ್ಸಾದವನಾಗಲಿ ಎಂದು ನೀವು ತಿಳಿಯಬಹುದು. ಡ್ರ್ಯಾಗನ್ಗಳು ದೀರ್ಘಕಾಲ ಬದುಕುತ್ತವೆ, ಆದ್ದರಿಂದ ಅವುಗಳನ್ನು 1000 ಕ್ಕಿಂತ ಹಳೆಯದಾದರೆ ಮಾತ್ರ ಹಳೆಯದು ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.
 
-You can use **conditional selection** to work out whether the dragon is young or old. With the`if` and `else` statements, you can make decisions in your Python program. With the **greater than** operator (`>`), you can test whether a number is larger than another number.
+ನೀವು ** ಷರತ್ತುಬದ್ಧ ಆಯ್ಕೆಯನ್ನು ಬಳಸಬಹುದು ** ಡ್ರ್ಯಾಗನ್ ಯುವಕ ಅಥವಾ ವಯಸ್ಸಾದವನೇ ಎಂದು ತಿಳಿಯಬಹುದು. ` if` ಮತ್ತು ` else ` ಹೇಳಿಕೆಗಳು ಬಳಸಿ, ನಿಮ್ಮ Python ಪ್ರೋಗ್ರಾಂನಲ್ಲಿ ನೀವು ನಿರ್ಧಾರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಬಹುದು. ** ಗಿಂತ ಹೆಚ್ಚಿನದಾಗಿದೆ ** ಆಪರೇಟರ್ (`>`), ಒಂದು ಸಂಖ್ಯೆ ಮತ್ತೊಂದು ಸಂಖ್ಯೆಗಿಂತ ದೊಡ್ಡದಾಗಿದೆ ಎಂದು ನೀವು ಪರೀಕ್ಷಿಸಬಹುದು.
 
 \--- task \---
 
-Add some code to work out whether the dragon is young or old. You need to **type cast** the `age` variable so that the computer knows it is a **number** and not a **character string**. This is important because for the Python language, there is a big difference between the **characters** `1` `0` `0` and the **number** `100`. <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ಡ್ರ್ಯಾಗನ್ ಯುವಕ ಅಥವಾ ವಯಸ್ಸಾದವ ಎಂದು ತಿಳಿದುಕೊಳ್ಳಲು ಕೆಲವು ಕೋಡ್ ಸೇರಿಸಿ. ನೀವು ` ವಯಸ್ಸು `ವೇರಿಯೇಬಲ್** ಟೈಪ್ cast ** ಮಾಡಬೇಕಾದ ಅಗತ್ಯವಿದೆ ಆದ್ದರಿಂದ ಕಂಪ್ಯೂಟರ್ ಇದು ** ಸಂಖ್ಯೆ ಎಂದು ತಿಳಿಯುತ್ತದೆ ** ಮತ್ತು ** ಅಕ್ಷರ ಸ್ಟ್ರಿಂಗ್ ಅಲ್ಲ **. ಇದು ಮುಖ್ಯವಾಗಿದೆ ಏಕೆಂದರೆ Python ಭಾಷೆಗೆ, ** ಅಕ್ಷರಗಳ ನಡುವೆ ದೊಡ್ಡ ವ್ಯತ್ಯಾಸವಿದೆ ** ` 1 ` ` 0 ` ` 0 ` ಮತ್ತು ** ಸಂಖ್ಯೆ ** ` 100 `. <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Add another `print` statement to tell the user whether the dragon is young or old. Then add two more `print` statements to create a break before the story begins. <iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ಮತ್ತೊಂದು ` print `ಹೇಳಿಕೆ ಸೇರಿಸಿ ಡ್ರ್ಯಾಗನ್ ಯುವಕ ಅಥವಾ ವಯಸ್ಸಾದವ ಎಂದು ಬಳಕೆದಾರರಿಗೆ ಹೇಳುವುದು. ನಂತರ ಇನ್ನೂ ಎರಡು ` print `ಮುದ್ರಣವನ್ನು ಸೇರಿಸಿ ಕಥೆ ಪ್ರಾರಂಭವಾಗುವ ಮೊದಲು ವಿರಾಮವನ್ನು ಶೃಸ್ಟಿಸುವುದು. <iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
