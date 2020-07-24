@@ -1,19 +1,19 @@
-## Tell your story
+## ನಿಮ್ಮ ಕಥೆಯನ್ನು ಹೇಳಿ
 
-Now you can have some fun with creating your story! Be as imaginative and creative as you like.
+ಈಗ ನೀವು ಕಥೆಯನ್ನು ರಚಿಸುತ್ತಾ ಆನಂದ ಪಡೆಯಬಹುದು! ನೀವು ಇಷ್ಟಪಡುವಷ್ಟು ಕಾಲ್ಪನಿಕ ಮತ್ತು ಸೃಜನಶೀಲರಾಗಿರಿ.
 
-Write this part of the program all on one line.
+ಪ್ರೋಗ್ರಾಮಿನ ಈ ಭಾಗವನ್ನು ಒಂದೇ ಸಾಲಿನಲ್ಲಿ ಬರೆಯಿರಿ.
 
 \--- task \---
 
-First, type `story =` to create a variable to store your story in.
+ಮೊದಲು, ವೇರಿಯಬಲ್ ಕ್ರಿಯೇಟ್ ಮಾಡಲು` story =`ಎಂದು ಟೈಪ್ ಮಾಡಿ, ಈ ವೇರಿಯಬಲ್ ನಲ್ಲಿ ನಿಮ್ಮ ಕಥೆಯನ್ನು ಸಂಗ್ರಹಿಸಬಹುದು.
 
 \--- /task \---
 
-Now use all the variables you have to make an imaginative story of your own. There is an example provided below, but you can make any story you like.
+ಈಗ ನಿಮ್ಮ ಕಾಲ್ಪನಿಕ ಕಥೆಯನ್ನು ರಚಿಸಲು ಬೇಕಾದ ಎಲ್ಲಾ ವೇರಿಯಬಲ್(variables) ಅನ್ನು ಉಪಯೋಗಿಸಿ. ಕೆಳಗೆ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೀಡಲಾಗಿದೆ, ಆದರೆ ನೀವು ನಿಮ್ಮದೇ ಆದ ಕತೆಯನ್ನು ರಚಿಸಬಹುದು.
 
 \--- task \---
 
-Write your story putting the variables together. Then on the last line of your program, print the story to the screen. <iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ವೇರಿಯಬಲ್(variables) ಅನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ ನಿಮ್ಮ ಕಥೆಯನ್ನು ಬರೆಯಿರಿ. ನಂತರ ಪ್ರೋಗ್ರಾಮಿನ ಕೊನೆಯ ಸಾಲಿನಲ್ಲಿ, ನಿಮ್ಮ ಕಥೆಯನ್ನು ಸ್ಕ್ರೀನ್ ಮೇಲೆ ಮುದ್ರಿಸಿ. <iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
