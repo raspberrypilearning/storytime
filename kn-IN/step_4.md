@@ -1,28 +1,28 @@
-## Lists of details
+## ವಿವರಗಳ ಪಟ್ಟಿಗಳು
 
-Your story time program will generate a lot of the story at random. That's part of the fun! You need to create some lists to store different and funny words that the final program can choose random items from for the story.
+ನಿಮ್ಮ ಸ್ಟೋರಿ ಟೈಮ್ ಪ್ರೊಗ್ರಾಂ ಅದಕ್ಕಾಗಿ ಅದೇ ರಾಂಡಮ್ ಆಗಿ ಬಹಳ ಕಥೆಗಳನ್ನು ರಚಿಸುತ್ತದೆ. ಅದು ಮೋಜಿನ ಭಾಗವಾಗಿದೆ! ನೀವು ಕೆಲವು ಲಿಸ್ಟ್ ಗಳನ್ನು ವಿಭಿನ್ನ ಹಾಗೂ ತಮಾಷೆ ಪದಗಳನ್ನು ಸಂಗ್ರಹಿಸಲು ರಚಿಸಬೇಕು ಅಂತಿಮವಾಗಿ ಪ್ರೋಗ್ರಾಮ್ ರಾಂಡಮ್ ಐಟಮ್ಸ್ ಅನ್ನು ಕಥೆಯಿಂದ ಆಯ್ಕೆ ಮಾಡಬಹುದು.
 
-Lists can be named in the same way as variables. For example, to create a list called `numbers` with four items in it, you could use the line `numbers = ["zero", "one", "two", "three"]`.
+ಲಿಸ್ಟ್ ಗಳು ವೇರಬಲ್ ನಂತೆ ಹೆಸರಿಸಬಹುದು. ಉದಾಹರಣೆಗೆ, ` numbers`ಎಂಬ ಪಟ್ಟಿಯನ್ನು ರಚಿಸಲು ಅದರಲ್ಲಿ ನಾಲ್ಕು ಐಟಂಗಳೊಂದಿಗೆ, ನೀವು ` numbers = ["zero", "one", "two", "three"]` ಎಂಬ ಸಾಲನ್ನು ಬಳಸಬಹುದು.
 
 \--- task \---
 
-Underneath the last line of code in your program, leave a line blank and then create a list of things that the dragon can interact with. Either use the same list that is shown here, or add different items to the list. <iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂನಲ್ಲಿನ ಕೊನೆಯ ಸಾಲಿನ ಕೋಡ್ ಕೆಳಗೆ, ಒಂದು ಸಾಲನ್ನು ಖಾಲಿ ಬಿಡಿ ಮತ್ತು ನಂತರ ಡ್ರ್ಯಾಗನ್ ಸಂವಹನ ಮಾಡಬಹುದಾದ ವಸ್ತುಗಳ ಪಟ್ಟಿಯನ್ನು ರಚಿಸಿ. ಇಲ್ಲಿ ತೋರಿಸಿರುವ ಒಂದೇ ಪಟ್ಟಿಯನ್ನು ಬಳಸಿ, ಅಥವಾ ಪಟ್ಟಿಗೆ ವಿಭಿನ್ನ ವಸ್ತುಗಳನ್ನು ಸೇರಿಸಿ. <iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
-Now you need some more lists:
+ಈಗ ನಿಮಗೆ ಇನ್ನೂ ಕೆಲವು ಪಟ್ಟಿಗಳು ಬೇಕಾಗುತ್ತವೆ:
 
-- A list for the names of the dragon's `friends`
-- A list for `actions` such as "kiss", "throw", and "steal"
-- A list for `places` such as "Middle Earth" and "Narnia"
+- ಡ್ರ್ಯಾಗನ್‌ನ ` friends`ಹೆಸರುಗಳಿಗಾಗಿ ಒಂದು ಪಟ್ಟಿ
+- ` actions ` ಎಂಬ ಒಂದು ಪಟ್ಟಿ ಉದಾಹರಣೆಗೆ "ಕಿಸ್", "ಎಸೆಯಿರಿ" ಮತ್ತು "ಕದಿಯಿರಿ"
+- ` places ` ಎಂಬ ಒಂದು ಪಟ್ಟಿ ಉದಾಹರಣೆಗೆ "ಮಿಡಲ್ ಅರ್ಥ್" ಮತ್ತು "ನಾರ್ನಿಯಾ"
 
 \--- task \---
 
-Make three more lists that have the names `friends`, `actions`, and `places`.
+` friends`, ` actions `, ಮತ್ತು ` places `ಹೆಸರನ್ನು ಹೊಂದಿರುವ ಇನ್ನೂ ಮೂರು ಪಟ್ಟಿಗಳನ್ನು ಮಾಡಿ.
 
 \--- hints \--- \--- hint \---
 
-To make the lists, you need to give each list a name.
+ಪಟ್ಟಿಗಳನ್ನು ಮಾಡಲು, ನೀವು ಪ್ರತಿ ಪಟ್ಟಿಗೆ ಹೆಸರನ್ನು ನೀಡಬೇಕಾಗುತ್ತದೆ.
 
 ```python
 friends = []
@@ -32,7 +32,7 @@ places  = []
 
 \--- /hint \--- \--- hint \---
 
-Add strings as list items to all the lists, such as these strings for `friends`.
+` friends` ಈ ಸ್ಟ್ರಿಂಗ್ಗಳಂತಹ ಎಲ್ಲಾ ಪಟ್ಟಿಗಳಿಗೆ ಸ್ಟ್ರಿಂಗ್ಗಳನ್ನು ಪಟ್ಟಿ ಐಟಂಗಳಾಗಿ ಸೇರಿಸಿ.
 
 ```python
 friends = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
@@ -40,6 +40,6 @@ friends = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
 
 \--- /hint \--- \--- hint \---
 
-Here is what your completed code should look like: <iframe src="https://trinket.io/embed/python/5e264dd3e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ನಿಮ್ಮ ಪೂರ್ಣಗೊಂಡ ಕೋಡ್ ಹೇಗಿರಬೇಕು ಎಂಬುದು ಇಲ್ಲಿದೆ: <iframe src="https://trinket.io/embed/python/5e264dd3e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
