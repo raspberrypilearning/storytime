@@ -1,14 +1,14 @@
 ---
-title: Story time
-hero_image: images/banner.png
-description: Create interactive fairy tales and other stories with basic Python
+title: ಕಥೆಯ ಸಮಯ
+hero_image: images / banner.png
+description: ಮೂಲ Python ‌ನೊಂದಿಗೆ ಸಂವಾದಾತ್ಮಕ ಕಾಲ್ಪನಿಕ ಕಥೆಗಳು ಮತ್ತು ಇತರ ಕಥೆಗಳನ್ನು ರಚಿಸಿ
 original_url: https://raspberrypi.org/learning/storytime
 theme: yellow
 duration: 1
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+curriculum: 2, ವಿನ್ಯಾಸ -0, ಪ್ರೋಗ್ರಾಮಿಂಗ್ -2, ಭೌತಿಕ-ಕಂಪ್ -0, ಉತ್ಪಾದನೆ -0, ಸಮುದಾಯ -0
 interests: ''
 technologies: raspberry-pi, electronic-components, python
 site_areas: projects
@@ -18,19 +18,19 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: ಪರಿಚಯ
   - 
-    title: Make your story interactive
+    title: ನಿಮ್ಮ ಕಥೆಯನ್ನು ಸಂವಾದಾತ್ಮಕಗೊಳಿಸಿ
   - 
-    title: Big or small, old or young
+    title: ದೊಡ್ಡ ಅಥವಾ ಸಣ್ಣ, ಹಳೆಯ ಅಥವಾ ಯುವ
   - 
-    title: Lists of details
+    title: ವಿವರಗಳ ಪಟ್ಟಿಗಳು
   - 
-    title: Choose your story details
+    title: ನಿಮ್ಮ ಕಥೆಯ ವಿವರಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ
   - 
-    title: Tell your story
+    title: ನಿಮ್ಮ ಕಥೆಯನ್ನು ಹೇಳಿ
   - 
-    title: "Challenge: add more details"
+    title: "ಸವಾಲು: ಹೆಚ್ಚಿನ ವಿವರಗಳನ್ನು ಸೇರಿಸಿ"
     challenge: true
   - 
-    title: What next?
+    title: ಮುಂದೆ ಏನು?
