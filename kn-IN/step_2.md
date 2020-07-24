@@ -54,6 +54,6 @@ print("We are going to hear a story about a dragon!")
 
 \--- task \---
 
-ಡ್ರ್ಯಾಗನ್ನಿನ ಹೆಸರನ್ನು ಸ್ಕ್ರೀನಿನ ಮೇಲೆ ಪ್ರಿಂಟ್ ಮಾಡಲು ಇನ್ನೊಂದು ಸಾಲಿನ ಕೋಡ್ ಅನ್ನು ಸೇರಿಸಿ. Then run your code. <iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ಡ್ರ್ಯಾಗನ್ನಿನ ಹೆಸರನ್ನು ಸ್ಕ್ರೀನಿನ ಮೇಲೆ ಪ್ರಿಂಟ್ ಮಾಡಲು ಇನ್ನೊಂದು ಸಾಲಿನ ಕೋಡ್ ಅನ್ನು ಸೇರಿಸಿ. ನಂತರ ಕೋಡನ್ನು ರನ್ ಮಾಡಿ. <iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
