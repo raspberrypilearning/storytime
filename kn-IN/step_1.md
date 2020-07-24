@@ -2,7 +2,7 @@
 
 ## What you will make
 
-You will use Python to create a program that generates a random story, based on what the user types in.
+ನೀವು Python ಅನ್ನು ಬಳಕೆ ಮಾಡಿ ಪ್ರೋಗ್ರಾಮನ್ನು ರಚಿಸುತ್ತೀರಿ, ಆ ಪ್ರೋಗ್ರಾಂ ಯೂಸರ್ ಏನು ಟೈಪ್ ಮಾಡುತ್ತಾರೋ ಅದರ ಆಧಾರದ ಮೇಲೆ ರಾಂಡಮ್ ಆಗಿ ಕಥೆಯನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ.
 
 \--- no-print \---
 
@@ -12,52 +12,52 @@ Type in the name of your dragon to begin the story. <iframe src="https://trinket
 
 \--- print-only \---
 
-![complete project](images/storytime-final.png)
+![ಸಂಪೂರ್ಣ ಪ್ರಾಜೆಕ್ಟ್](images/storytime-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## ಶೀರ್ಷಿಕೆ: ನಿಮಗೆ ಬೇಕಾದುದು
 
-### Hardware
+### ಯಂತ್ರಾಂಶ
 
-- A computer that is connected to the internet
+- ಇಂಟರ್ನೆಟ್ನೊಂದಿಗೆ ಸಂಪರ್ಕ ಹೊಂದಿರುವ ಕಂಪ್ಯೂಟರ್
 
-OR
+ಅಥವಾ
 
-- A computer that runs Python 3
+- Python 3 ಹೊಂದಿರುವ ಕಂಪ್ಯೂಟರ್
 
-### Software
+### ಸಾಫ್ಟ್ವೇರ್
 
-- [Python 3](https://www.python.org/downloads/){:target="_blank"}, or [Trinket online](https://trinket.io/){:target="_blank"}
+- [Python 3](https://www.python.org/downloads/){:target="_blank"}, ಅಥವಾ [Trinket online](https://trinket.io/){:target="_blank"}
 
-### Downloads
+### ಡೌನ್‌ಲೋಡ್‌ಗಳು
 
-Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_blank"}.
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- How to receive user input in Python
-- Why and when you need to convert strings to integers
-- How to use Python code to select random items from a list
+ಇಲ್ಲಿ[ಸ್ಟಾರ್ಟರ್ ಪ್ರಾಜೆಕ್ಟನ್ನು ](https://trinket.io/python/a0aaa62eab){:target="_blank"} ಪಡೆಯಬಹುದು.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## ಶೀರ್ಷಿಕೆ: ನೀವು ಏನು ಕಲಿಯುವಿರಿ
+
+- Pythonನಲ್ಲಿ ಯೂಸರ್ ಇನ್ಪುಟ್ ಪಡೆಯುವುದು ಹೇಗೆ
+- ಯಾಕೆ ಮತ್ತು ಯಾವಾಗ ನೀವು ಸ್ಟ್ರಿಂಗ್ ಅನ್ನು ಪೂರ್ಣಾಂಕಗಳಗಿ ಪರಿವರ್ತಿಸುತ್ತೀರಿ
+- Python ಕೋಡನ್ನು ಬಳಸಿ ರಾಂಡಮ್ ಐಟಂಗಳನ್ನು ಲಿಸ್ಟಿನಿಂದ ಹೇಗೆ ಆಯ್ಕೆ ಮಾಡುತ್ತೀರಿ
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## ಶೀರ್ಷಿಕೆ: ಶಿಕ್ಷಣತಜ್ಞರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"}.
+ಈ ಪ್ರಾಜೆಕ್ಟನ್ನು ಪ್ರಿಂಟ್ ಮಾಡಲು,ದಯವಿಟ್ಟು ಇದನ್ನು ಬಳಸಿ [ಪ್ರಿಂಟರ್ ಫ್ರೆಂಡ್ಲಿ ವರ್ಷನ್](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can [find the solution for this project here](http://rpf.io/p/en/storytime){:target="_blank"}.
+ನೀವು [ ಯೋಜನೆಯ ಪರಿಹಾರವನ್ನು ಇಲ್ಲಿ ಪಡೆಯ ಬಹುದು](http://rpf.io/p/en/storytime){:target="_blank"}.
 
 \--- /collapse \---
