@@ -4,18 +4,18 @@
 
 \--- task \---
 
-Add in another line of code to create a variable called `friend`. Then assign the new variable a random item from the `friends` list. <iframe src="https://trinket.io/embed/python/b3668ceb66" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+` friend` ಎಂಬ ವೇರಿಯೇಬಲ್ ರಚಿಸಲು ಕೋಡ್‌ನ ಇನ್ನೊಂದು ಸಾಲಿನಲ್ಲಿ ಸೇರಿಸಿ. ನಂತರ ಹೊಸ ವೇರಿಯಬಲ್ ಅನ್ನು ರಾಂಡಮ್ ಆಗಿ`friends` ಪಟ್ಟಿಯಿಂದ ಐಟಂ ಅನ್ನು ನಿಯೋಜಿಸಿ. <iframe src="https://trinket.io/embed/python/b3668ceb66" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Now use the `friend` variable in a `print` function. Each time you run the code, the variable should be randomly assigned a new item from the `friends` list. <iframe src="https://trinket.io/embed/python/cf0dfd81da" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ಈಗ ಪ್ರಿಂಟ್ ಫಂಕ್ಷನಲ್ಲಿ ಫ್ರೆಂಡ್ ವೇರಿಯಬಲ್ ಉಪಯೋಗಿಸಿ. ಪ್ರತಿ ಬಾರಿ ನೀವು ಕೋಡನ್ನು ರನ್ ಮಾಡಿದಾಗ ವೇರಿಯಬಲ್ ಗೆ `friends` ಪಟ್ಟಿಯಿಂದ ರಾಂಡಮ್ ಆಗಿ ಹೊಸ ಐಟಂ ನಿಯೋಜಿಸಲಾದ ಬೇಕು. <iframe src="https://trinket.io/embed/python/cf0dfd81da" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Create three more variables called `action`, `place`, and `thing`. Assign them random items from the `actions`, `places`, and `things` lists. <iframe src="https://trinket.io/embed/python/e6410121dd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ಇನ್ನ ಮೂರು ವೇರಿಯಬಲ್ `action`, `place`, ಮತ್ತು `thing` ರಚಿಸಿ. ಈ ಮೂರು ವೇರಿಯಬಲ್ ಗೆ ರಾಂಡಮ್ ಆಗಿ `actions`, `places`, ಮತ್ತು `things` ಲಿಸ್ಟು ಗಳಿಂದ ಐಟಮ್ಸ್ ನಿಯೋಜಿಸಿ. <iframe src="https://trinket.io/embed/python/e6410121dd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
