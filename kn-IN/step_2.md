@@ -4,9 +4,9 @@
 
 ಸ್ಟಾರ್ಟರ್ ಪ್ರಾಜೆಕ್ಟ್ ತೆರೆಯಿರಿ.
 
-** ಆನ್‌ಲೈನ್ **:Trinket ಸ್ಟಾರ್ಟರ್ ಪ್ರಾಜೆಕ್ಟ್ ತೆರೆಯಲು [ rpf.io/storytimeon ](http://rpf.io/storytimeon) {: ಗುರಿ = "_ ಖಾಲಿ"} ಬಲಸಿ.
+** ಆನ್‌ಲೈನ್ **:Trinket ಸ್ಟಾರ್ಟರ್ ಪ್ರಾಜೆಕ್ಟ್ ತೆರೆಯಲು [ rpf.io/storytimeon ](http://rpf.io/storytimeon){:target="_blank"} ಬಳಸಿ.
 
-** ಆಫ್‌ಲೈನ್ **:[ಸ್ಟಾರ್ಟರ್ ಪ್ರಾಜೆಕ್ಟ್](http://rpf.io/p/en/storytime-go) {: target = "_ blank"} ಡೌನ್ಲೋಡ್ ಮಾಡಿ ನಂತರ ಅದನ್ನು ಟೆಕ್ಸ್ಟ್ ಎಡಿಟರ್ ನಲ್ಲಿ ತೆರೆಯಿರಿ
+** ಆಫ್‌ಲೈನ್ **:[ಸ್ಟಾರ್ಟರ್ ಪ್ರಾಜೆಕ್ಟ್](http://rpf.io/p/en/storytime-go) {: target="_blank"} ಡೌನ್ಲೋಡ್ ಮಾಡಿ ನಂತರ ಅದನ್ನು ಟೆಕ್ಸ್ಟ್ ಎಡಿಟರ್ ನಲ್ಲಿ ತೆರೆಯಿರಿ
 
 [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"},ಇದರಿಂದ ನೀವು Python ಡೌನ್ಲೋಡ್ ಮತ್ತು ಇನ್ಸ್ಟಾಲ್ ಮಾಡಬಹುದು.
 
@@ -18,11 +18,11 @@ from random import choice
 
 \--- /task \---
 
-ಸ್ಟೋರಿ ಟೈಮ್ ಪ್ರೋಗ್ರಾಮಿನ ಉದ್ದೇಶ ಏನೆಂದರೆ ನೀವು ನಿಮ್ಮ ಕಥೆಯನ್ನು ರಚಿಸಿ, ಅದನ್ನು ಕಂಪ್ಯೂಟರ್ ಸ್ಕ್ರೀನಿನ ಮೇಲೆ ಪ್ರಿಂಟ್ ಮಾಡಿ ಓದಬಹುದು. ಮೊದಲು ನೀವು Python `print` ಫಂಕ್ಷನ್ ಹೇಗೆ ಉಪಯೋಗಿಸುವುದು ಎಂದು ಕರೆಯಬೇಕು.
+ಸ್ಟೋರಿ ಟೈಮ್ ಪ್ರೋಗ್ರಾಮಿನ ಉದ್ದೇಶ ಏನೆಂದರೆ ನೀವು ನಿಮ್ಮ ಕಥೆಯನ್ನು ರಚಿಸಿ, ಅದನ್ನು ಕಂಪ್ಯೂಟರ್ ಸ್ಕ್ರೀನಿನ ಮೇಲೆ ಪ್ರಿಂಟ್ ಮಾಡಿ ಓದಬಹುದು. ಮೊದಲು ನೀವು Python `print` ಫಂಕ್ಷನ್ ಹೇಗೆ ಉಪಯೋಗಿಸುವುದು ಎಂದು ಕಲಿಯಬೇಕು.
 
 \--- task \---
 
-ನಿಮ್ಮ `storytime.py` ಫೈಲಿನಲ್ಲಿ,ಈ ಕೋಡನ್ನು ಹೊಸ ಸಾಲಿನಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ:
+ನಿಮ್ಮ `storytime.py` ಫೈಲಿನಲ್ಲಿ, ಈ ಕೋಡನ್ನು ಹೊಸ ಸಾಲಿನಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ:
 
 ```python
 print("We are going to hear a story about a dragon!")
@@ -32,7 +32,7 @@ print("We are going to hear a story about a dragon!")
 
 \--- task \---
 
-ಈಗ ಪ್ರೋಗ್ರಾಮನ್ನು ರನ್ ಮಾಡಿ ಏನಾಗುತ್ತೋ ನೋಡಿ. ನೀವು ಔಟ್ಪುಟ್ ಸ್ಕ್ರೀನಿನ ಮೇಲೆ “We are going to hear a story about a dragon!” ಎಂದು ಕಾಣಬಹುದು.
+ಈಗ ಪ್ರೋಗ್ರಾಮನ್ನು ರನ್ ಮಾಡಿ, ಏನಾಗುತ್ತೋ ನೋಡಿ. ನೀವು ಔಟ್ಪುಟ್ ಸ್ಕ್ರೀನಿನ ಮೇಲೆ “We are going to hear a story about a dragon!” ಎಂದು ಕಾಣಬಹುದು.
 
 \--- /task \---
 
@@ -40,7 +40,7 @@ print("We are going to hear a story about a dragon!")
 
 \--- task \---
 
-ಹೊಸ ವೇರಬಲ್(variable) `name` ರಚಿಸಿ. ಡ್ರ್ಯಾಗನ್ ಹೆಸರನ್ನು ಯೂಸರ್ ಇಂದ ಪಡೆಯಲು `input` ಫಂಕ್ಷನ್ ಉಪಯೋಗಿಸಿ. ಯೂಸರ್ ಇಂದ ಪಡೆದಿರುವ ಹೆಸರನ್ನು,`name` ವೇರಿಯಬಲ್ ಅಲ್ಲಿ ಸಂಗ್ರಹಿಸಿ. <iframe src="https://trinket.io/embed/python/0de60dee6d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ಹೊಸ ವೇರಿಯೇಬಲ್(variable) `name` ರಚಿಸಿ. ಡ್ರ್ಯಾಗನ್ ಹೆಸರನ್ನು ಯೂಸರ್ ಇಂದ ಪಡೆಯಲು `input` ಫಂಕ್ಷನ್ ಉಪಯೋಗಿಸಿ. ಯೂಸರ್ ಇಂದ ಪಡೆದಿರುವ ಹೆಸರನ್ನು, `name` ವೇರಿಯಬಲ್ ಅಲ್ಲಿ ಸಂಗ್ರಹಿಸಿ. <iframe src="https://trinket.io/embed/python/0de60dee6d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
