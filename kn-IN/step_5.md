@@ -4,7 +4,7 @@
 
 \--- task \---
 
-` friend` ಎಂಬ ವೇರಿಯೇಬಲ್ ರಚಿಸಲು ಕೋಡ್‌ನ ಇನ್ನೊಂದು ಸಾಲಿನಲ್ಲಿ ಸೇರಿಸಿ. ನಂತರ ಹೊಸ ವೇರಿಯಬಲ್ ಅನ್ನು ರಾಂಡಮ್ ಆಗಿ`friends` ಪಟ್ಟಿಯಿಂದ ಐಟಂ ಅನ್ನು ನಿಯೋಜಿಸಿ. <iframe src="https://trinket.io/embed/python/b3668ceb66" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+` friend` ಎಂಬ ವೇರಿಯೇಬಲ್ ರಚಿಸಲು ಕೋಡ್‌ನ ಇನ್ನೊಂದು ಸಾಲಿನಲ್ಲಿ ಸೇರಿಸಿ. ನಂತರ ಹೊಸ ವೇರಿಯಬಲ್ ಅನ್ನು ರಾಂಡಮ್ ಆಗಿ `friends` ಪಟ್ಟಿಯಿಂದ ಐಟಂ ಅನ್ನು ನಿಯೋಜಿಸಿ. <iframe src="https://trinket.io/embed/python/b3668ceb66" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
@@ -16,6 +16,6 @@
 
 \--- task \---
 
-ಇನ್ನ ಮೂರು ವೇರಿಯಬಲ್ `action`, `place`, ಮತ್ತು `thing` ರಚಿಸಿ. ಈ ಮೂರು ವೇರಿಯಬಲ್ ಗೆ ರಾಂಡಮ್ ಆಗಿ `actions`, `places`, ಮತ್ತು `things` ಲಿಸ್ಟು ಗಳಿಂದ ಐಟಮ್ಸ್ ನಿಯೋಜಿಸಿ. <iframe src="https://trinket.io/embed/python/e6410121dd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ಇನ್ನು ಮೂರು ವೇರಿಯಬಲ್ `action`, `place`, ಮತ್ತು `thing` ರಚಿಸಿ. ಈ ಮೂರು ವೇರಿಯಬಲ್ ಗೆ ರಾಂಡಮ್ ಆಗಿ `actions`, `places`, ಮತ್ತು `things` ಲಿಸ್ಟ್ ಗಳಿಂದ ಐಟಮ್ಸ್ ನಿಯೋಜಿಸಿ. <iframe src="https://trinket.io/embed/python/e6410121dd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
