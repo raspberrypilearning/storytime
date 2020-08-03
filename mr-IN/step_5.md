@@ -1,21 +1,21 @@
-## Choose your story details
+## आपल्या कथेचा तपशील निवडा
 
-Now that you have lists of actions, places, things, and friends, write some code that randomly picks one item from each list. This will help generate your story, and should make it quirky!
+आता आपल्याकडे क्रियांच्या, ठिकाणे, गोष्टी आणि मित्रांच्या याद्या आहेत, असा काही कोड लिहा जो प्रत्येक सूचीमधून यादृच्छिकपणे एक आयटम निवडतो. हे आपली कथा व्युत्पन्न करण्यात मदत करेल आणि ती विचित्र बनवेल!
 
 \--- task \---
 
-Add in another line of code to create a variable called `friend`. Then assign the new variable a random item from the `friends` list. <iframe src="https://trinket.io/embed/python/b3668ceb66" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+`friend` नावाचे व्हेरिएबल तयार करण्यासाठी कोडच्या दुसर्‍या ओळीत जोडा. नंतर `friends` यादी मधून नवीन व्हेरिएबलला यादृच्छिक वस्तू नियुक्त करा. <iframe src="https://trinket.io/embed/python/b3668ceb66" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Now use the `friend` variable in a `print` function. Each time you run the code, the variable should be randomly assigned a new item from the `friends` list. <iframe src="https://trinket.io/embed/python/cf0dfd81da" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+आता `print` फंक्शन मध्ये < `friend` व्हेरीएबल वापरा. प्रत्येक वेळी आपण कोड चालविता तेव्हा व्हेरिएबल `friends` यादी कडून यादृच्छिकपणे नवीन आयटम नियुक्त केला जावा. <iframe src="https://trinket.io/embed/python/cf0dfd81da" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Create three more variables called `action`, `place`, and `thing`. Assign them random items from the `actions`, `places`, and `things` lists. <iframe src="https://trinket.io/embed/python/e6410121dd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+`action`, `place`, आणि `thing` नावाचे आणखी तीन व्हेरिएबल्स तयार करा. `actions`, `places`, and `things` याद्यानां मधून त्यांना यादृच्छिक वस्तू नियुक्त करा. <iframe src="https://trinket.io/embed/python/e6410121dd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
