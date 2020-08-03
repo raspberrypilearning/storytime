@@ -1,7 +1,7 @@
-## Challenge: add more details
+## Challenge: अधिक तपशील जोडा
 
-Make your story even more interesting by adding some more lists with items that your program can pick from.
+आपला प्रोग्राम निवडू शकेल त्या आयटमसह आणखी काही सूची जोडून आपली कथा आणखी मनोरंजक बनवा.
 
-For example, you could create a list of `enemies` or `heroes`. Or give the dragon more detail: you could create a list called `colours` that decides what colour skin the dragon's scales are, or a list called `breath` that determines whether the dragon breathes fire, steam, or frost.
+उदाहरणार्थ, आपण `enemies`किंवा `heroes` ची यादी बनवू शकता. किंवा ड्रॅगनला अधिक तपशील द्या: आपण `colours` नावाची एक सूची तयार करू शकता जे ड्रॅगनचे स्केल्स कोणत्या रंगाची त्वचा किंवा`breath` नावाची सूची जे निश्चित करते की ड्रॅगनने अग्नी, स्टीम किंवा दंव श्वास घेतला की नाही.
 
-Your story can be as long as you like, and the only limit is your imagination!
+आपली कथा आपल्याला आवडीनुसार किती ही लांब असू शकते आणि केवळ आपली कल्पनाशक्ती याची मर्यादा आहे!
