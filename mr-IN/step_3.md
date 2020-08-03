@@ -1,6 +1,6 @@
-## Big or small, old or young
+## मोठे किंवा लहान, म्हातारे किंवा तरूण
 
-It's time to get some more information about the dragon.
+ड्रॅगन बद्दल अधिक माहिती मिळविण्याची वेळ आली आहे.
 
 \--- task \---
 
