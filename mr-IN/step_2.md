@@ -1,10 +1,10 @@
-## Make your story interactive
+## आपली कथा संवादी करा
 
 \--- task \---
 
-Open the starter project.
+प्रारंभिक प्रोजेक्ट उघडा.
 
-**Online**: open the Trinket starter project at [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"}.
+**Online**: [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"} वर Trinket प्रारंभिक प्रोजेक्ट उघडा.
 
 **Offline**: download the [starter project](http://rpf.io/p/en/storytime-go){:target="_blank"} and open it in a text editor
 
@@ -18,11 +18,11 @@ from random import choice
 
 \--- /task \---
 
-The purpose of the story time program is to generate a story, and print the story to the screen so that you can read it. So first, learn how to use the Python `print` function.
+स्टोरी टाइम प्रोग्रामचा हेतू एक कथा तयार करणे आणि कथा स्क्रीनवर प्रिंट करणे आहे जेणेकरून आपण ते वाचू शकाल. So first, learn how to use the Python `print` function.
 
 \--- task \---
 
-In your `storytime.py` file, type the following code on a new line:
+आपल्या `storytime.py` फाइल मधे, नवीन लाइनवर खालील कोड टाइप करा:
 
 ```python
 print("We are going to hear a story about a dragon!")
