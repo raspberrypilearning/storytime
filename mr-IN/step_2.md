@@ -6,11 +6,11 @@
 
 **Online**: [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"} वर Trinket प्रारंभिक प्रोजेक्ट उघडा.
 
-**Offline**: download the [starter project](http://rpf.io/p/en/storytime-go){:target="_blank"} and open it in a text editor
+**Offline**: download the [starter project](http://rpf.io/p/en/storytime-go){:target="_blank"} डाउनलोड करा आणि टेक्स एडिटर मधे उघडा
 
-If you need to download and install Python, download it from [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"}.
+जर आपल्याला Python डाउनलोड आणि स्थापित करायचा असेल तर [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"} वरून डाउनलोड करा.
 
-In the starter project, you should see a single line of code:
+प्रारंभिक प्रोजेक्ट मध्ये, आपल्याला कोडची ही ओळ दिसायला पाहिजे:
 
 ```python
 from random import choice
@@ -18,7 +18,7 @@ from random import choice
 
 \--- /task \---
 
-स्टोरी टाइम प्रोग्रामचा हेतू एक कथा तयार करणे आणि कथा स्क्रीनवर प्रिंट करणे आहे जेणेकरून आपण ते वाचू शकाल. So first, learn how to use the Python `print` function.
+स्टोरी टाइम प्रोग्रामचा हेतू एक कथा तयार करणे आणि कथा स्क्रीनवर प्रिंट करणे आहे जेणेकरून आपण ते वाचू शकाल. तर प्रथम, Python `print` फंकशन कसे वापरायचे ते शिका.
 
 \--- task \---
 
@@ -32,11 +32,11 @@ print("We are going to hear a story about a dragon!")
 
 \--- task \---
 
-प्रोग्राम Run करून काय होतं ते पहा. You should see the words “We are going to hear a story about a dragon!” appear in the output display.
+प्रोग्राम Run करून काय होतं ते पहा. आपल्याला आउटपुट डिस्प्लेमध्ये “We are going to hear a story about a dragon!” हे शब्द दिसायला हवे.
 
 \--- /task \---
 
-Now that you can print to the screen, you're ready to ask the user for input, to learn more about the dragon.
+आता आपण स्क्रीनवर प्रिंट करू शकता, आपण ड्रॅगनबद्दल अधिक जाणून घेण्या साठी वापरकर्ता कडून इनपुट घेण्यास तयार आहात.
 
 \--- task \---
 
@@ -50,10 +50,10 @@ Now that you can print to the screen, you're ready to ask the user for input, to
 
 \--- /task \---
 
-आता आपल्याकडे ड्रॅगनचे नाव असल्यास, `name` व्हेरिएबलच्या सहाय्याने स्क्रीनवर नाव प्रिंट करा. In Python, you can use the `+` operator to join strings together.
+आता आपल्याकडे ड्रॅगनचे नाव असल्यास, `name` व्हेरिएबलच्या सहाय्याने स्क्रीनवर नाव प्रिंट करा. Python मध्ये, आपण स्ट्रिंगला एकत्र जोडण्यासाठी `+` ऑपरेटर वापरू शकता.
 
 \--- task \---
 
-Add another line of code to print the name of the dragon to the screen. मग आपला कोड रन करा. <iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+स्क्रीनवर ड्रॅगनचे नाव प्रिंट करण्यासाठी कोडची आणखी एक ओळ जोडा. मग आपला कोड रन करा. <iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
