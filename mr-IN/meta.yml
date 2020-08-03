@@ -1,7 +1,7 @@
 ---
-title: Story time
+title: कथे ची वेळ
 hero_image: images/banner.png
-description: Create interactive fairy tales and other stories with basic Python
+description: मूलभूत Python सह परस्पर कथा आणि इतर कथा तयार करा
 original_url: https://raspberrypi.org/learning/storytime
 theme: yellow
 duration: 1
@@ -18,19 +18,19 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: Make your story interactive
+    title: आपली कथा संवादी करा
   - 
-    title: Big or small, old or young
+    title: मोठे किंवा लहान, म्हातारे किंवा तरूण
   - 
-    title: Lists of details
+    title: तपशीच्या याद्या
   - 
-    title: Choose your story details
+    title: आपल्या कथेचा तपशील निवडा
   - 
     title: Tell your story
   - 
     title: "Challenge: add more details"
     challenge: true
   - 
-    title: What next?
+    title: पुढे काय?
