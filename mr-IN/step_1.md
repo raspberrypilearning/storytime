@@ -22,7 +22,7 @@
 
 ### हार्डवेअर
 
-- A computer that is connected to the internet
+- इंटरनेटशी जुड़लेला एक कंप्यूटर
 
 किंवा
 
@@ -54,10 +54,10 @@ Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"}.
+तुम्हाला हा प्रोजेक्ट प्रिंट करायचा असल्यास, कृपया <[printer-friendly version](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"} वापरा.
 
 \--- /no-print \---
 
-You can [find the solution for this project here](http://rpf.io/p/en/storytime){:target="_blank"}.
+तुम्हाला [find the solution for this project here](http://rpf.io/p/en/storytime){:target="_blank"}.
 
 \--- /collapse \---
