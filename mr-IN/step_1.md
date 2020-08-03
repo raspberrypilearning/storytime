@@ -1,12 +1,12 @@
-## Introduction
+## परिचय
 
-## What you will make
+## आपण काय तयार करणार आहोत
 
-You will use Python to create a program that generates a random story, based on what the user types in.
+आपण एखादा प्रोग्राम तयार करण्यासाठी pythonचा वापर करु जो वापरकर्ता टाइप करतो त्या आधारे यादृच्छिक कथा निर्माण करेल,.
 
 \--- no-print \---
 
-Type in the name of your dragon to begin the story. <iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+कथा सुरू करण्यासाठी आपल्या ड्रॅगनचे नाव टाइप करा. <iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /no-print \---
 
@@ -18,21 +18,21 @@ Type in the name of your dragon to begin the story. <iframe src="https://trinket
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: तुम्हाला काय हव असेल
 
-### Hardware
+### हार्डवेअर
 
 - A computer that is connected to the internet
 
-OR
+किंवा
 
-- A computer that runs Python 3
+- एक कंप्यूटर जो Python 3 चालवितो
 
-### Software
+### सॉफ्टवेअर
 
-- [Python 3](https://www.python.org/downloads/){:target="_blank"}, or [Trinket online](https://trinket.io/){:target="_blank"}
+- [Python 3](https://www.python.org/downloads/){:target="_blank"}, अथवा [Trinket online](https://trinket.io/){:target="_blank"}
 
-### Downloads
+### डाउनलोड्स
 
 Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_blank"}.
 
@@ -40,10 +40,10 @@ Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: तुम्ही काय शिकणार
 
-- How to receive user input in Python
-- Why and when you need to convert strings to integers
+- Python मध्ये यूजर इनपुट कसे प्राप्त करावे
+- आपल्याला strings ना integers मधे रूपांतरित करणे का आणि कधी आवश्यक आहे
 - How to use Python code to select random items from a list
 
 \--- /collapse \---
