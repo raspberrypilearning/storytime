@@ -4,18 +4,18 @@
 
 \--- task \---
 
-Add `input` and `print` functions to find out:
+शोधण्यासाठी `input` आणि`print` फंकशन जोडा:
 
-1. Whether the dragon is **big** or **small**
-2. How old the dragon is
+1. ड्रॅगन**big** किंवा**small** आहे
+2. ड्रॅगनचे वय काय आहे
 
 \--- hints \--- \--- hint \---
 
-Use `input` to ask if the dragon is big or small. Then, use a `print` function to tell the user the size of the dragon.
+ड्रॅगन मोठा आहे की लहाण हे विचारण्यासाठी `input` वापरा. त्यानंतर वापरकर्त्यास ड्रॅगनचा आकार सांगण्यासाठी `print` फंकशन वापरा.
 
 \--- /hint \--- \--- hint \---
 
-Here is some code that asks for the dragon's size and then print it.
+खाली ड्रॅगनचा आकार विचारणारा आणि नंतर त्याचे प्रिंट करणार कोड आहे.
 
 ```python
 size = input("Is the dragon big or small? ")
@@ -32,16 +32,16 @@ print("It was a " + size + " dragon")
 
 आता आपल्याला ड्रॅगनचे वय माहित आहे, आपण ते तरुण की म्हातारे आहे ते शोधू शकता. ड्रॅगन जास्त काळ जगतात, म्हणूनच जर ते 1000 वर्षांपेक्षा जास्त जुने असतील तर त्यांना वृद्ध मानले जातील.
 
-You can use **conditional selection** to work out whether the dragon is young or old. With the`if` and `else` statements, you can make decisions in your Python program. With the **greater than** operator (`>`), you can test whether a number is larger than another number.
+ड्रॅगन तरुण आहे की वृद्ध आहे हे जाणून घेण्यासाठी आपण **conditional selection** वापरु शकता. `if` आणि `else` तपशीलांसह आपण आपल्या Python प्रोग्राम मध्ये निर्णय घेऊ शकता. **greater than** operator (`>`) च्या मदतीने आपण एक संख्या दुसर्‍यापेक्षा मोठी आहे की नाही याची चाचणी घेऊ शकता.
 
 \--- task \---
 
-ड्रॅगन तरुण आहे की म्हातारा आहे हे शोधण्यासाठी कोड जोडा. You need to **type cast** the `age` variable so that the computer knows it is a **number** and not a **character string**. This is important because for the Python language, there is a big difference between the **characters** `1` `0` `0` and the **number** `100`. <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ड्रॅगन तरुण आहे की म्हातारा आहे हे शोधण्यासाठी कोड जोडा. आपल्याला `age` व्हेरिएबल **type cast** करणे आवश्यक आहे जेणेकरून संगणकाला हे ठाऊक असेल की ही हा एक **number**आहे आणि **character string**नव्हे. हे महत्वाचे आहे कारण Python भाषेसाठी, `1` `0` `0` **वर्ण** आणि `100` **संख्या ** यांच्यात मोठा फरक आहे. <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Add another `print` statement to tell the user whether the dragon is young or old. Then add two more `print` statements to create a break before the story begins. <iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ड्रॅगन तरुण आहे की म्हातारा आहे हे सांगण्यासाठी आणखी एक `print` जोडा. नंतर कथा सुरू होण्यापूर्वी ब्रेक करण्यासाठी आणखी दोन `print` स्टेटमेन्ट जोडा. <iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
