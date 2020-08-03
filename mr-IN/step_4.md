@@ -1,28 +1,28 @@
-## Lists of details
+## तपशीच्या याद्या
 
-Your story time program will generate a lot of the story at random. That's part of the fun! You need to create some lists to store different and funny words that the final program can choose random items from for the story.
+आपला स्टोरी टाइम प्रोग्राम यादृच्छिकपणे बर्‍याच कथा तयार करेल. तो मजेशीर भाग आहे! आपल्याला भिन्न आणि मजेदार शब्द संग्रहित करण्यासाठी काही सूची तयार करण्याची आवश्यकता आहे जी अंतिम प्रोग्राम कथेसाठी यादृच्छिक आयटम निवडू शकेल.
 
-Lists can be named in the same way as variables. For example, to create a list called `numbers` with four items in it, you could use the line `numbers = ["zero", "one", "two", "three"]`.
+याद्या व्हेरिएबल्स प्रमाणेच नावाच्या असू शकतात. उदाहरणार्थ, `numbers` त्यातील चार आयटमसह, आपण`numbers = ["zero", "one", "two", "three"]`ओळ वापरू शकता].
 
 \--- task \---
 
-Underneath the last line of code in your program, leave a line blank and then create a list of things that the dragon can interact with. Either use the same list that is shown here, or add different items to the list. <iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+आपल्या प्रोग्राममधील शेवटच्या कोडच्या खाली, एक रिकामी ओळ सोडा आणि नंतर ड्रॅगन ज्यावर संवाद साधू शकेल अशा गोष्टींची सूची तयार करा. एकतर येथे दर्शविलेली सूचीच वापरा किंवा सूचीमध्ये भिन्न आयटम जोडा. <iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
-Now you need some more lists:
+आता आपल्याला आणखी काही याद्या आवश्यक आहेतः:
 
-- A list for the names of the dragon's `friends`
-- A list for `actions` such as "kiss", "throw", and "steal"
-- A list for `places` such as "Middle Earth" and "Narnia"
+- ड्रॅगनच्या `friends`च्या नावा साठी यादी
+- `actions` जसे की "चुंबन", "फेकणे" आणि "चोरी"
+- `places` जसे की "मध्यम पृथ्वी" आणि "नार्निया"
 
 \--- task \---
 
-Make three more lists that have the names `friends`, `actions`, and `places`.
+`friends` नावे असलेल्या आणखी तीन याद्या तयार करा `actions`, आणि `places`.
 
 \--- hints \--- \--- hint \---
 
-To make the lists, you need to give each list a name.
+याद्या तयार करण्यासाठी आपल्याला प्रत्येक यादीला नाव देणे आवश्यक आहे.
 
 ```python
 friends = []
@@ -32,7 +32,7 @@ places  = []
 
 \--- /hint \--- \--- hint \---
 
-Add strings as list items to all the lists, such as these strings for `friends`.
+सर्व याद्यामध्ये सूची आयटम म्हणून स्ट्रींग्स जोडा, जसे `friends`.
 
 ```python
 friends = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
@@ -40,6 +40,6 @@ friends = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
 
 \--- /hint \--- \--- hint \---
 
-Here is what your completed code should look like: <iframe src="https://trinket.io/embed/python/5e264dd3e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+आपला पूर्ण झालेला कोड कसा दिसला पाहिजे ते येथे आहे: <iframe src="https://trinket.io/embed/python/5e264dd3e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
