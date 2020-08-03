@@ -1,19 +1,19 @@
-## Tell your story
+## आपली कथा सांगा
 
-Now you can have some fun with creating your story! Be as imaginative and creative as you like.
+आता आपण आपली कथा तयार करण्यात थोडी मजा करू शकता! आपल्या पसंतीनुसार काल्पनिक आणि सर्जनशील व्हा.
 
-Write this part of the program all on one line.
+प्रोग्रामचा हा भाग सर्व एका ओळीवर लिहा.
 
 \--- task \---
 
-First, type `story =` to create a variable to store your story in.
+आपल्या कथे मध्ये व्हेरिएबल स्टोअर तयार करण्या साठी प्रथम `story =` टाइप करणे.
 
 \--- /task \---
 
-Now use all the variables you have to make an imaginative story of your own. There is an example provided below, but you can make any story you like.
+आता आपल्याला स्वतःची एक कल्पनारम्य कथा बनविण्यासाठी सर्व च व्हेरीएबल्स वापरा. खाली एक उदाहरण दिले आहे, परंतु आपण आपल्या आवडीनुसार कोणतीही कथा तयार करू शकता.
 
 \--- task \---
 
-Write your story putting the variables together. Then on the last line of your program, print the story to the screen. <iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+व्हेरीएबल्स एकत्र ठेवून आपली कथा लिहा. मग आपल्या प्रोग्रामच्या शेवटच्या ओळीवर, कथा स्क्रीनवर प्रिंट करा. <iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
