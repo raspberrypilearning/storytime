@@ -12,7 +12,7 @@
 
 \--- print-only \---
 
-![complete project](images/storytime-final.png)
+![प्रोजेक्ट पूर्ण करा](images/storytime-final.png)
 
 \--- /print-only \---
 
@@ -44,13 +44,13 @@ Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_
 
 - Python मध्ये यूजर इनपुट कसे प्राप्त करावे
 - आपल्याला strings ना integers मधे रूपांतरित करणे का आणि कधी आवश्यक आहे
-- How to use Python code to select random items from a list
+- सूचीमधून यादृच्छिक वस्तू निवडण्यासाठी Python कोड कसा वापरावा
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: शिक्षकांसाठी अतिरिक्त माहिती
 
 \--- no-print \---
 
