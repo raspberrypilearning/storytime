@@ -4,13 +4,13 @@
 
 \--- task \---
 
-` friend` ಎಂಬ ವೇರಿಯೇಬಲ್ ರಚಿಸಲು ಕೋಡ್‌ನ ಇನ್ನೊಂದು ಸಾಲಿನಲ್ಲಿ ಸೇರಿಸಿ. ನಂತರ ಹೊಸ ವೇರಿಯಬಲ್ ಅನ್ನು ರಾಂಡಮ್ ಆಗಿ `friends` ಪಟ್ಟಿಯಿಂದ ಐಟಂ ಅನ್ನು ನಿಯೋಜಿಸಿ. <iframe src="https://trinket.io/embed/python/b3668ceb66" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+`friend` ಎಂಬ ವೇರಿಯೇಬಲ್ ರಚಿಸಲು ಕೋಡ್‌ನ ಇನ್ನೊಂದು ಸಾಲಿನಲ್ಲಿ ಸೇರಿಸಿ. ನಂತರ ಹೊಸ ವೇರಿಯಬಲ್ ಅನ್ನು ರಾಂಡಮ್ ಆಗಿ `friends` ಪಟ್ಟಿಯಿಂದ ಐಟಂ ಅನ್ನು ನಿಯೋಜಿಸಿ. <iframe src="https://trinket.io/embed/python/b3668ceb66" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-ಈಗ ಪ್ರಿಂಟ್ ಫಂಕ್ಷನಲ್ಲಿ ಫ್ರೆಂಡ್ ವೇರಿಯಬಲ್ ಉಪಯೋಗಿಸಿ. ಪ್ರತಿ ಬಾರಿ ನೀವು ಕೋಡನ್ನು ರನ್ ಮಾಡಿದಾಗ ವೇರಿಯಬಲ್ ಗೆ `friends` ಪಟ್ಟಿಯಿಂದ ರಾಂಡಮ್ ಆಗಿ ಹೊಸ ಐಟಂ ನಿಯೋಜಿಸಲಾದ ಬೇಕು. <iframe src="https://trinket.io/embed/python/cf0dfd81da" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ಈಗ `print` ಫಂಕ್ಷನಲ್ಲಿ `friend` ವೇರಿಯಬಲ್ ಉಪಯೋಗಿಸಿ. ಪ್ರತಿ ಬಾರಿ ನೀವು ಕೋಡನ್ನು ರನ್ ಮಾಡಿದಾಗ ವೇರಿಯಬಲ್ ಗೆ `friends` ಪಟ್ಟಿಯಿಂದ ರಾಂಡಮ್ ಆಗಿ ಹೊಸ ಐಟಂ ನಿಯೋಜಿಸಲಾದ ಬೇಕು. <iframe src="https://trinket.io/embed/python/cf0dfd81da" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
