@@ -10,7 +10,7 @@
 
 \--- task \---
 
-आता `print` फंक्शन मध्ये < `friend` व्हेरीएबल वापरा. प्रत्येक वेळी आपण कोड चालविता तेव्हा व्हेरिएबल `friends` यादी कडून यादृच्छिकपणे नवीन आयटम नियुक्त केला जावा. <iframe src="https://trinket.io/embed/python/cf0dfd81da" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+आता `print` फंक्शन मध्ये `friend` व्हेरीएबल वापरा. प्रत्येक वेळी आपण कोड चालविता तेव्हा व्हेरिएबल `friends` यादी कडून यादृच्छिकपणे नवीन आयटम नियुक्त केला जावा. <iframe src="https://trinket.io/embed/python/cf0dfd81da" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
