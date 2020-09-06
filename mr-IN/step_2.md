@@ -40,7 +40,7 @@ print("We are going to hear a story about a dragon!")
 
 \--- task \---
 
-`name` नावाने नवीन व्हेरिएबल तयार करा. वापरकर्त्याला ड्रॅगनचे नाव विचारण्यासाठी इनपुट फंक्शन वापरा. इनपुट नाव नवीन `name` व्हेरिएबल मध्ये संचयित करा. <iframe src="https://trinket.io/embed/python/0de60dee6d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+`name` नावाने नवीन व्हेरिएबल तयार करा. वापरकर्त्याला ड्रॅगनचे नाव विचारण्यासाठी `input` फंक्शन वापरा. इनपुट नाव नवीन `name` व्हेरिएबल मध्ये संचयित करा. <iframe src="https://trinket.io/embed/python/0de60dee6d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
