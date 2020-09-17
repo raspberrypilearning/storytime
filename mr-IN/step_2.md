@@ -6,7 +6,7 @@
 
 **ऑनलाइन**: [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"} वर Trinket प्रारंभिक प्रोजेक्ट उघडा.
 
-**Offline**: download the [starter project](http://rpf.io/p/en/storytime-go){:target="_blank"} डाउनलोड करा आणि टेक्स एडिटर मधे उघडा
+**ऑफलाइन**: [प्रारंभिक प्रोजेक्ट](http://rpf.io/p/en/storytime-go){:target="_blank"} डाउनलोड करा आणि तेक्स्ट एडिटर मधे उघडा
 
 जर आपल्याला Python डाउनलोड आणि स्थापित करायचा असेल तर [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"} वरून डाउनलोड करा.
 
