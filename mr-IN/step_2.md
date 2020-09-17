@@ -4,7 +4,7 @@
 
 प्रारंभिक प्रोजेक्ट उघडा.
 
-**Online**: [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"} वर Trinket प्रारंभिक प्रोजेक्ट उघडा.
+**ऑनलाइन**: [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"} वर Trinket प्रारंभिक प्रोजेक्ट उघडा.
 
 **Offline**: download the [starter project](http://rpf.io/p/en/storytime-go){:target="_blank"} डाउनलोड करा आणि टेक्स एडिटर मधे उघडा
 
