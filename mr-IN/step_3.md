@@ -36,7 +36,7 @@ print("It was a " + size + " dragon")
 
 \--- task \---
 
-ड्रॅगन तरुण आहे की म्हातारा आहे हे शोधण्यासाठी कोड जोडा. आपल्याला `age` व्हेरिएबल **type cast** करणे आवश्यक आहे जेणेकरून संगणकाला हे ठाऊक असेल की ही हा एक **number**आहे आणि **character string**नव्हे. हे महत्वाचे आहे कारण Python भाषेसाठी, `1` `0` `0` **वर्ण** आणि `100` **संख्या ** यांच्यात मोठा फरक आहे. <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+ड्रॅगन तरुण आहे की म्हातारा आहे हे शोधण्यासाठी कोड जोडा. आपल्याला `age` व्हेरिएबल **type cast** करणे आवश्यक आहे जेणेकरून संगणकाला हे ठाऊक असेल की ही हा एक **संख्या**आहे आणि **वर्णमाला**नव्हे. हे महत्वाचे आहे कारण Python भाषेसाठी, `1` `0` `0` **वर्ण** आणि `100` **संख्या ** यांच्यात मोठा फरक आहे. <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
