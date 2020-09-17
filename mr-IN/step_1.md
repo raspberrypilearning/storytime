@@ -34,7 +34,7 @@
 
 ### डाउनलोड्स
 
-Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_blank"}.
+आपण [ पूर्ण केलेला प्राजेक्ट येथे](https://trinket.io/python/a0aaa62eab){:target="_blank"} शोधू शकता.
 
 \--- /collapse \---
 
@@ -54,10 +54,10 @@ Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_
 
 \--- no-print \---
 
-तुम्हाला हा प्रोजेक्ट प्रिंट करायचा असल्यास, कृपया <[printer-friendly version](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"} वापरा.
+तुम्हाला हा प्रोजेक्ट प्रिंट करणे आवश्यक असल्यास, कृपया [प्रिंटर अनुकूल आवृत्ती](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"} वापरा.
 
 \--- /no-print \---
 
-तुम्हाला [find the solution for this project here](http://rpf.io/p/en/storytime){:target="_blank"}.
+तुम्हाला [येथे प्रोजेक्ट चे उपाय मिळतील](http://rpf.io/p/en/storytime){:target="_blank"}.
 
 \--- /collapse \---
