@@ -1,0 +1,28 @@
+---
+title: कथे ची वेळ
+hero_image: images/banner.png
+description: मूलभूत Python सह परस्पर कथा आणि इतर कथा तयार करा
+original_url: https://raspberrypi.org/learning/storytime
+theme: yellow
+duration: 1
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+interests: ''
+technologies: raspberry-pi, electronic-components, python
+site_areas: projects
+hardware: raspberry-pi, electronic-components
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: परिचय
+  - title: आपली कथा संवादी करा
+  - title: मोठे किंवा लहान, म्हातारे किंवा तरूण
+  - title: तपशीच्या याद्या
+  - title: आपल्या कथेचा तपशील निवडा
+  - title: आपली कथा सांगा
+  - title: "आव्हान: अधिक तपशील जोडा"
+    challenge: true
+  - title: पुढे काय?
