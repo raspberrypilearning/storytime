@@ -1,0 +1,28 @@
+---
+title: ಕಥೆಯ ಸಮಯ
+hero_image: images/banner.png
+description: ಮೂಲ Python ‌ನೊಂದಿಗೆ ಸಂವಾದಾತ್ಮಕ ಕಾಲ್ಪನಿಕ ಕಥೆಗಳು ಮತ್ತು ಇತರ ಕಥೆಗಳನ್ನು ರಚಿಸಿ
+original_url: https://raspberrypi.org/learning/storytime
+theme: yellow
+duration: 1
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+interests: ''
+technologies: raspberry-pi, electronic-components, python
+site_areas: projects
+hardware: raspberry-pi, electronic-components
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: ಪರಿಚಯ
+  - title: ನಿಮ್ಮ ಕಥೆಯನ್ನು ಸಂವಾದಾತ್ಮಕಗೊಳಿಸಿ
+  - title: ದೊಡ್ಡ ಅಥವಾ ಸಣ್ಣ, ಹಳೆಯ ಅಥವಾ ಯುವ
+  - title: ವಿವರಗಳ ಪಟ್ಟಿಗಳು
+  - title: ನಿಮ್ಮ ಕಥೆಯ ವಿವರಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ
+  - title: ನಿಮ್ಮ ಕಥೆಯನ್ನು ಹೇಳಿ
+  - title: "ಸವಾಲು: ಹೆಚ್ಚಿನ ವಿವರಗಳನ್ನು ಸೇರಿಸಿ"
+    challenge: true
+  - title: ಮುಂದೆ ಏನು?
