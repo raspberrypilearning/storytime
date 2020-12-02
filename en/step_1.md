@@ -63,6 +63,6 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 --- /no-print ---
 
-You can [find the solution for this project here](http://rpf.io/p/en/storytime){:target="_blank"}.
+You can [find the solution for this project here](https://rpf.io/p/en/storytime){:target="_blank"}.
 
 --- /collapse ---

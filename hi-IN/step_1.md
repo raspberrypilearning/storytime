@@ -63,6 +63,6 @@ title: शिक्षकों के लिए अतिरिक्त जा
 
 --- /no-print ---
 
-आप [इस प्रोजेक्ट के लिए समाधान यहाँ खोज सकते हैं](http://rpf.io/p/hi-IN/storytime){:target="_blank"}।
+आप [इस प्रोजेक्ट के लिए समाधान यहाँ खोज सकते हैं](https://rpf.io/p/hi-IN/storytime){:target="_blank"}।
 
 --- /collapse ---
