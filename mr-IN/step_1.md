@@ -58,6 +58,6 @@
 
 \--- /no-print \---
 
-तुम्हाला [येथे प्रोजेक्ट चे उपाय मिळतील](http://rpf.io/p/en/storytime){:target="_blank"}.
+You can [find the solution for this project here](https://rpf.io/p/en/storytime){:target="_blank"}.
 
 \--- /collapse \---
