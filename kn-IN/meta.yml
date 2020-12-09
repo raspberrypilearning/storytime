@@ -3,12 +3,12 @@ title: ಕಥೆಯ ಸಮಯ
 hero_image: images / banner.png
 description: ಮೂಲ Python ‌ನೊಂದಿಗೆ ಸಂವಾದಾತ್ಮಕ ಕಾಲ್ಪನಿಕ ಕಥೆಗಳು ಮತ್ತು ಇತರ ಕಥೆಗಳನ್ನು ರಚಿಸಿ
 original_url: https://raspberrypi.org/learning/storytime
-theme: ಹಳದಿ
+theme: yellow
 duration: 1
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 2, ವಿನ್ಯಾಸ -0, ಪ್ರೋಗ್ರಾಮಿಂಗ್ -2, ಭೌತಿಕ-ಕಂಪ್ -0, ಉತ್ಪಾದನೆ -0, ಸಮುದಾಯ -0
+curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
 interests: ''
 technologies: raspberry-pi, electronic-components, python
 site_areas: projects
