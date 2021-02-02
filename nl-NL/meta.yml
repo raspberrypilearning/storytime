@@ -1,7 +1,7 @@
 ---
-title: Story time
+title: Verhaaltijd
 hero_image: images/banner.png
-description: Create interactive fairy tales and other stories with basic Python
+description: Maak interactieve sprookjes en andere verhalen met eenvoudig Python
 original_url: https://raspberrypi.org/learning/storytime
 theme: yellow
 duration: 1
@@ -18,19 +18,19 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: Make your story interactive
+    title: Maak je verhaal interactief
   - 
-    title: Big or small, old or young
+    title: Groot of klein, oud of jong
   - 
-    title: Lists of details
+    title: Lijst met details
   - 
-    title: Choose your story details
+    title: Kies je verhaaldetails
   - 
-    title: Tell your story
+    title: Vertel je verhaal
   - 
-    title: "Challenge: add more details"
+    title: "Uitdaging: voeg meer details toe"
     challenge: true
   - 
-    title: What next?
+    title: Wat kun je verder nog doen?
