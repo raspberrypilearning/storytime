@@ -1,19 +1,19 @@
-## Tell your story
+## Vertel je verhaal
 
-Now you can have some fun with creating your story! Be as imaginative and creative as you like.
+Nu kun je wat plezier hebben met het maken van je verhaal! Wees zo fantasierijk en creatief als je wilt.
 
-Write this part of the program all on one line.
+Schrijf dit deel van het programma allemaal op één regel.
 
 \--- task \---
 
-First, type `story =` to create a variable to store your story in.
+Typ eerst `verhaal =` om een variabele te maken om je verhaal in op te slaan.
 
 \--- /task \---
 
-Now use all the variables you have to make an imaginative story of your own. There is an example provided below, but you can make any story you like.
+Gebruik nu alle variabelen die je hebt om zelf een fantasierijk verhaal te maken. Hieronder staat een voorbeeld, maar je kunt elk verhaal maken dat je leuk vindt.
 
 \--- task \---
 
-Write your story putting the variables together. Then on the last line of your program, print the story to the screen. <iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+Schrijf je verhaal door de variabelen samen te gebruiken. Druk vervolgens op de laatste regel van je programma het verhaal af op het scherm. <iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
