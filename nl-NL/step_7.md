@@ -1,7 +1,7 @@
-## Challenge: add more details
+## Uitdaging: voeg meer details toe
 
-Make your story even more interesting by adding some more lists with items that your program can pick from.
+Maak je verhaal nog interessanter door nog wat meer lijsten toe te voegen met items waaruit je programma kan kiezen.
 
-For example, you could create a list of `enemies` or `heroes`. Or give the dragon more detail: you could create a list called `colours` that decides what colour skin the dragon's scales are, or a list called `breath` that determines whether the dragon breathes fire, steam, or frost.
+Je kunt bijvoorbeeld een lijst maken met `vijanden` of `helden`. Of geef de draak meer details: je zou een lijst kunnen maken met de naam `kleuren` die bepaalt welke huidskleur de schubben van de draak hebben, of een lijst met de naam `adem` die bepaalt of de draak vuur, stoom of rijp ademt.
 
-Your story can be as long as you like, and the only limit is your imagination!
+Je verhaal mag zo lang zijn als je wilt, en de enige beperking is je fantasie!
