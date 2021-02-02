@@ -46,6 +46,6 @@ Voeg wat code toe om erachter te komen of de draak jong of oud is. Je moet het *
 --- task ---
 
 Voeg nog een `print` instructie toe om de gebruiker te vertellen of de draak jong of oud is. Voeg vervolgens twee `print` instructies toe om wat lege regels te maken voordat het verhaal begint. 
-<iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/4bd03bf591" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /task ---
