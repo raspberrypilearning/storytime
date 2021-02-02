@@ -1,24 +1,24 @@
 from random import choice
 
-print("We are going to hear a story about a dragon!")
-name = input("What is the name of the dragon? ")
-print("Excellent, the dragon is called " + name)
-size = input("Is the dragon big or small? ")
-print("It was a " + size + " dragon")
-age = input("How old is the dragon? ")
-print("The dragon is " + age + " years old")
+print("We gaan een verhaal over een draak horen!")
+naam = input("Wat is de naam van de draak? ")
+print("Uitstekend, de draak heet " + naam)
+grootte = input("Is de draak groot of klein? ")
+print("Het was een " + grootte + " draak")
+leeftijd = input("Hoe oud is de draak? ")
+print("De draak is " + leeftijd + " jaar oud")
 
 print("")
 print("")
 
-if int(age) > 1000:
-    description = "old"
+if int(leeftijd) > 1000:
+    beschrijving = "oud"
 else:
-    description = "young"
+    beschrijving = "jong"
 
-things = ["slay", "cakes", "chocolate", "rocks", "kittens"]
-friends = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
-actions = ["slay", "kiss", "save", "marry", "rescue", "eat"]
+dingen = ["kam", "cakes", "chocolade", "rotsen", "kitten"]
+vrienden = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
+acties = ["doden", "kussen", "redden", "trouwen", "bevrijden", "eten"]
 places = ["Middle Earth", "Narnia", "Hogwarts", "Alderaan"]
 
 friend = choice(friends)
