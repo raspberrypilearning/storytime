@@ -1,16 +1,16 @@
-## Make your story interactive
+## Maak je verhaal interactief
 
 \--- task \---
 
-Open the starter project.
+Open het startproject.
 
-**Online**: open the Trinket starter project at [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"}.
+**Online**: open het Trinket-startproject op [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"}.
 
-**Offline**: download the [starter project](http://rpf.io/p/en/storytime-go){:target="_blank"} and open it in a text editor
+**Offline**: download het [startproject](http://rpf.io/p/en/storytime-go){:target="_ blank"} en open het in een teksteditor
 
-If you need to download and install Python, download it from [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"}.
+Als je Python moet downloaden en installeren, download deze van [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"}.
 
-In the starter project, you should see a single line of code:
+In het startproject zou je een enkele regel code moeten zien:
 
 ```python
 from random import choice
@@ -18,42 +18,42 @@ from random import choice
 
 \--- /task \---
 
-The purpose of the story time program is to generate a story, and print the story to the screen so that you can read it. So first, learn how to use the Python `print` function.
+Het doel van het verhaaltijdprogramma is om een verhaal te genereren en het verhaal af te drukken op het scherm, zodat je het kunt lezen. Leer dus eerst hoe je de Python `print` functie gebruikt.
 
 \--- task \---
 
-In your `storytime.py` file, type the following code on a new line:
+Typ in je `storytime.py` bestand de volgende code op een nieuwe regel:
 
 ```python
-print("We are going to hear a story about a dragon!")
+print("We gaan een verhaal over een draak horen!")
 ``` <iframe src="https://trinket.io/embed/python/3b593eb9e4" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Run the program to see what happens. You should see the words “We are going to hear a story about a dragon!” appear in the output display.
+Voer het programma uit om te zien wat er gebeurt. Je zou de woorden "We gaan een verhaal over een draak horen!" moeten zien verschijnen in het uitvoerscherm.
 
 \--- /task \---
 
-Now that you can print to the screen, you're ready to ask the user for input, to learn more about the dragon.
+Nu je op het scherm kunt afdrukken, ben je klaar om de gebruiker om invoer te vragen, om meer over de draak te leren.
 
 \--- task \---
 
-Create a new variable called `name`. Use the `input` function to ask the user for the dragon's name. Store the input name in the new `name` variable. <iframe src="https://trinket.io/embed/python/0de60dee6d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+Maak een nieuwe variabele met de naam `naam`. Gebruik de `input` functie om de gebruiker te vragen naar de naam van de draak. Sla de invoernaam op in de nieuwe variabele `naam`. <iframe src="https://trinket.io/embed/python/0de60dee6d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Run your code again to test whether the program asks for input.
+Voer je code opnieuw uit om te testen of het programma om invoer vraagt.
 
 \--- /task \---
 
-Now that you have the name of the dragon, use the `name` variable to print the name to the screen. In Python, you can use the `+` operator to join strings together.
+Nu je de naam van de draak hebt, gebruik de `naam` variabele om de naam op het scherm af te drukken. In Python kun je de `+` operator gebruiken om strings samen te voegen.
 
 \--- task \---
 
-Add another line of code to print the name of the dragon to the screen. Then run your code. <iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+Voeg nog een regel code toe om de naam van de draak af te drukken op het scherm. Voer daarna je code uit. <iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
