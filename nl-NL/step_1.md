@@ -1,63 +1,63 @@
-## Introduction
+## Inleiding
 
-## What you will make
+## Wat ga je maken
 
-You will use Python to create a program that generates a random story, based on what the user types in.
+Je gebruikt Python om een programma te maken dat een willekeurig verhaal genereert, gebaseerd op wat de gebruiker typt.
 
 \--- no-print \---
 
-Type in the name of your dragon to begin the story. <iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+Typ de naam van je draak om het verhaal te beginnen. <iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![complete project](images/storytime-final.png)
+![voltooid project](images/storytime-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Wat heb je nodig
 
 ### Hardware
 
-- A computer that is connected to the internet
+- Een computer die verbonden is met het internet
 
-OR
+OF
 
-- A computer that runs Python 3
+- Een computer waarop Python 3 draait
 
 ### Software
 
-- [Python 3](https://www.python.org/downloads/){:target="_blank"}, or [Trinket online](https://trinket.io/){:target="_blank"}
+- [Python 3](https://www.python.org/downloads/){:target="_blank"}, of [Trinket online](https://trinket.io/){:target="_blank"}
 
 ### Downloads
 
-Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_blank"}.
+Vind [het startproject hier](https://trinket.io/python/a0aaa62eab){:target="_blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Wat ga je leren
 
-- How to receive user input in Python
-- Why and when you need to convert strings to integers
-- How to use Python code to select random items from a list
+- Gebruikersinvoer ontvangen in Python
+- Waarom en wanneer je tekenreeksen moet converteren naar gehele getallen
+- Python-code gebruiken om willekeurige items uit een lijst te selecteren
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Aanvullende informatie voor docenten
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can [find the solution for this project here](https://rpf.io/p/en/storytime){:target="_blank"}.
+Hier is een link [naar de oplossing](https://rpf.io/p/en/storytime){:target="_blank"} voor dit project.
 
 \--- /collapse \---
