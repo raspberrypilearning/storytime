@@ -19,13 +19,13 @@ else:
 dingen = ["kam", "cakes", "chocolade", "rotsen", "kitten"]
 vrienden = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
 acties = ["doden", "kussen", "redden", "trouwen", "bevrijden", "eten"]
-places = ["Middle Earth", "Narnia", "Hogwarts", "Alderaan"]
+plaatsen = ["Midden Aarde", "Narnia", "Zweinstein", "Alderaan"]
 
-friend = choice(friends)
-thing = choice(things)
-action = choice(actions)
-place = choice(places)
+vriend = choice(vrienden)
+ding = choice(dingen)
+actie = choice(acties)
+plaats = choice(plaatsen)
 
-story = "Once upon a time, there was a dragon called " + name + ". The dragon was a very " + description + " creature, and it was very " + size + ". It liked nothing better than to " +  action + " " + thing + ". Sadly, the dragon was so great at this that it ran out of " + thing + " to " + action + " in " + place + ". The dragon became very bored. Luckily the dragon had a friend called " + friend + ". " + friend + " knew where the dragon could find lots of " + thing + " and the two of them travelled far away from " + place + " and found a land filled with lots of lovely " + thing + " to " + action + ". " + name + " and " + friend + " lived happily ever, with all the " + thing + " they wanted."
+verhaal = "Er was eens een draak genaamd" + naam + ". De draak was een heel " + beschrijving + " beest, en het was heel " + grootte + ". Het vond niets leuker dan " + actie + " " + ding + ". Helaas was de draak hier zo goed in dat hij geen " + ding + " naar " + actie + " in " + plaats + " had. De draak verveelde zich erg. Gelukkig had de draak een vriend genaamd " + vriend + ". " + vriend + " wist waar de draak veel " + ding + " kon vinden en de twee reisden ver weg van " + plaats + " en vonden een land vol met veel mooie " + ding + " om te " + actie + ". " + naam + " en "+ vriend + " leefden nog lang en gelukkig, met al het " + ding + " dat ze wilden."
 
-print(story)
+print(verhaal)
