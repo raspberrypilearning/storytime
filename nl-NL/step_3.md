@@ -28,7 +28,7 @@ Doe nu hetzelfde voor de leeftijd van de draak.
 --- /hint --- --- hint ---
 
 Hier is de volledige code die je nodig hebt om de grootte en leeftijd van de draak op te vragen. 
-<iframe src="https://trinket.io/embed/python/3f9399e144" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/82558e0072" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /hint ------ /hints --- --- /task ---
 
@@ -39,7 +39,7 @@ Je kunt **voorwaardelijke selectie** gebruiken om uit te vinden of de draak jong
 --- task ---
 
 Voeg wat code toe om erachter te komen of de draak jong of oud is. Je moet het **type converteren** van de `leeftijd` variabele, zodat de computer weet dat het een **getal** is en geen **tekenreeks**. Dit is belangrijk omdat voor de Python taal er is een groot verschil is tussen de **tekens** `1` `0` `0` en het **getal** `100`. 
-<iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/9d743b900f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
 

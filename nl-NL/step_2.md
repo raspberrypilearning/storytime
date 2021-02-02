@@ -27,7 +27,7 @@ Typ in je `storytime.py` bestand de volgende code op een nieuwe regel:
 ```python
 print("We gaan een verhaal over een draak horen!")
 ``` 
-<iframe src="https://trinket.io/embed/python/3b593eb9e4" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/eb95f553ec" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
 
@@ -42,7 +42,7 @@ Nu je op het scherm kunt afdrukken, ben je klaar om de gebruiker om invoer te vr
 --- task ---
 
 Maak een nieuwe variabele met de naam `naam`. Gebruik de `input` functie om de gebruiker te vragen naar de naam van de draak. Sla de invoernaam op in de nieuwe variabele `naam`. 
-<iframe src="https://trinket.io/embed/python/0de60dee6d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/1503495439" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
 
@@ -57,6 +57,6 @@ Nu je de naam van de draak hebt, gebruik de `naam` variabele om de naam op het s
 --- task ---
 
 Voeg nog een regel code toe om de naam van de draak af te drukken op het scherm. Voer daarna je code uit. 
-<iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/63396d4316" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
