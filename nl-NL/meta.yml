@@ -1,0 +1,28 @@
+---
+title: Verhaaltijd
+hero_image: images/banner.png
+description: Maak interactieve sprookjes en andere verhalen met eenvoudig Python
+original_url: https://raspberrypi.org/learning/storytime
+theme: yellow
+duration: 1
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+interests: ''
+technologies: raspberry-pi, electronic-components, python
+site_areas: projects
+hardware: raspberry-pi, electronic-components
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Inleiding
+  - title: Maak je verhaal interactief
+  - title: Groot of klein, oud of jong
+  - title: Lijst met details
+  - title: Kies je verhaaldetails
+  - title: Vertel je verhaal
+  - title: "Uitdaging: voeg meer details toe"
+    challenge: true
+  - title: Wat kun je verder nog doen?
