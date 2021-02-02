@@ -15,6 +15,6 @@ Gebruik nu alle variabelen die je hebt om zelf een fantasierijk verhaal te maken
 --- task ---
 
 Schrijf je verhaal door de variabelen samen te gebruiken. Druk vervolgens op de laatste regel van je programma het verhaal af op het scherm. 
-<iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/13effbaf24" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---

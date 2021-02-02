@@ -7,7 +7,7 @@ Lijsten kunnen op dezelfde manier worden benoemd als variabelen. Bijvoorbeeld, o
 --- task ---
 
 Laat onder de laatste regel code in je programma een regel leeg en maak vervolgens een lijst met dingen waarmee de draak kan communiceren. Gebruik dezelfde lijst die hier wordt weergegeven, of voeg andere items toe aan de lijst. 
-<iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/95f877f199" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
 
@@ -43,6 +43,6 @@ vrienden = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
 --- /hint --- --- hint ---
 
 Hier is hoe je voltooide code eruit zou moeten zien: 
-<iframe src="https://trinket.io/embed/python/5e264dd3e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/56a434c180" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /hint ------ /hints --- --- /task ---
