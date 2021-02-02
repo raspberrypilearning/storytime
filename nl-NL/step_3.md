@@ -1,47 +1,47 @@
-## Big or small, old or young
+## Groot of klein, oud of jong
 
-It's time to get some more information about the dragon.
+Het is tijd om wat meer informatie over de draak te krijgen.
 
 \--- task \---
 
-Add `input` and `print` functions to find out:
+Voeg `input` en `print` functies toe om erachter te komen:
 
-1. Whether the dragon is **big** or **small**
-2. How old the dragon is
+1. Of de draak **groot** of **klein** is
+2. Hoe oud de draak is
 
 \--- hints \--- \--- hint \---
 
-Use `input` to ask if the dragon is big or small. Then, use a `print` function to tell the user the size of the dragon.
+Gebruik `input` om te vragen of de draak groot of klein is. Gebruik vervolgens een `print` functie om de gebruiker de grootte van de draak te vertellen.
 
 \--- /hint \--- \--- hint \---
 
-Here is some code that asks for the dragon's size and then print it.
+Hier is wat code die om de grootte van de draak vraagt en deze vervolgens afdrukt.
 
 ```python
-size = input("Is the dragon big or small? ")
-print("It was a " + size + " dragon")
+grootte = input("Is de draak groot of klein? ")
+print("Het was een " + grootte + " draak")
 ```
 
-Now do the same for the dragon's age.
+Doe nu hetzelfde voor de leeftijd van de draak.
 
 \--- /hint \--- \--- hint \---
 
-Here's the full code that you need to ask for the dragon's size and age. <iframe src="https://trinket.io/embed/python/3f9399e144" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+Hier is de volledige code die je nodig hebt om de grootte en leeftijd van de draak op te vragen. <iframe src="https://trinket.io/embed/python/3f9399e144" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
 
-Now that you know the age of the dragon, you can work out whether it is young or old. Dragons live for a long time, so they are only considered old if they are older than 1000.
+Nu je de leeftijd van de draak kent, kun je uitzoeken of hij jong of oud is. Draken leven lang, dus ze worden pas als oud beschouwd als ze ouder zijn dan 1000 jaar.
 
-You can use **conditional selection** to work out whether the dragon is young or old. With the`if` and `else` statements, you can make decisions in your Python program. With the **greater than** operator (`>`), you can test whether a number is larger than another number.
+Je kunt **voorwaardelijke selectie** gebruiken om uit te vinden of de draak jong of oud is. Met de `if` en `else` instructies kun je beslissingen nemen in je Python-programma. Met de **groter dan** operator (`>`) kun je testen of een getal groter is dan een ander getal.
 
 \--- task \---
 
-Add some code to work out whether the dragon is young or old. You need to **type cast** the `age` variable so that the computer knows it is a **number** and not a **character string**. This is important because for the Python language, there is a big difference between the **characters** `1` `0` `0` and the **number** `100`. <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+Voeg wat code toe om erachter te komen of de draak jong of oud is. Je moet het **type converteren** van de `leeftijd` variabele, zodat de computer weet dat het een **getal** is en geen **tekenreeks**. Dit is belangrijk omdat voor de Python taal er is een groot verschil is tussen de **tekens** `1` `0` `0` en het **getal** `100`. <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Add another `print` statement to tell the user whether the dragon is young or old. Then add two more `print` statements to create a break before the story begins. <iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+Voeg nog een `print` instructie toe om de gebruiker te vertellen of de draak jong of oud is. Voeg vervolgens twee `print` instructies toe om wat lege regels te maken voordat het verhaal begint. <iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
