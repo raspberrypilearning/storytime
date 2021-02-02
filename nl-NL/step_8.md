@@ -1,5 +1,5 @@
-## What next?
+## Wat kun je verder nog doen?
 
-We have lots of Python projects for you to try. Go choose one of [these Python projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=python&curriculum%5B%5D=%201){:target="_blank"} now!
+We hebben veel Python-projecten voor je om uit te proberen. Kies nu een van [deze Python projecten](https://projects.raspberrypi.org/en/projects?software%5B%5D=python&curriculum%5B%5D=%201){:target="_blank"}!
 
-You could also recreate your story in Scratch, and add some graphics and animations to it.
+Je kunt je verhaal ook opnieuw maken in Scratch en er wat afbeeldingen en animaties aan toevoegen.
