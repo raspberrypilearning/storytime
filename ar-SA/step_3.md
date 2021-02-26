@@ -6,12 +6,12 @@
 
 Add `input` and `print` functions to find out:
 
-1. Whether the dragon is **big** or **small**
-2. How old the dragon is
+1. سواء كان التنين **كبير** أو **صغير**
+2. كم عمر التنين
 
 \--- hints \--- \--- hint \---
 
-Use `input` to ask if the dragon is big or small. Then, use a `print` function to tell the user the size of the dragon.
+استخدم `input` للسؤال عما إذا كان التنين ضخماً أم صغيرًا. Then, use a `print` function to tell the user the size of the dragon.
 
 \--- /hint \--- \--- hint \---
 
