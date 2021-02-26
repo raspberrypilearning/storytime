@@ -1,63 +1,63 @@
-## Introduction
+## المقدمة
 
-## What you will make
+## ما الذي ستصنعه
 
-You will use Python to create a program that generates a random story, based on what the user types in.
+ستستخدم لغة البايثون لإنشاء برنامج يولد قصة عشوائية ، بناءً على ما يكتبه المستخدم.
 
 \--- no-print \---
 
-Type in the name of your dragon to begin the story. <iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+اكتب اسم التنين الخاص بك لبدء القصة. <iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![complete project](images/storytime-final.png)
+![المشروع كامل](images/storytime-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: ما ستحتاج إليه
 
-### Hardware
+### الأجهزة
 
-- A computer that is connected to the internet
+- جهاز كمبيوتر متصل بالإنترنت
 
-OR
+أو
 
-- A computer that runs Python 3
+- كمبيوتر يقوم بتشغيل Python 3
 
-### Software
+### البرمجيات
 
-- [Python 3](https://www.python.org/downloads/){:target="_blank"}, or [Trinket online](https://trinket.io/){:target="_blank"}
+- [Python 3](https://www.python.org/downloads/){: target = "_ blank"} أو [Trinket online](https://trinket.io/){: target = "_ blank"}
 
-### Downloads
+### للتحميل
 
-Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_blank"}.
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- How to receive user input in Python
-- Why and when you need to convert strings to integers
-- How to use Python code to select random items from a list
+ابحث عن [المشروع المبدئي هنا](https://trinket.io/python/a0aaa62eab){:target="_blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: ما الذي ستتعلمه
+
+- كيفية تلقي مدخلات المستخدم في Python
+- لماذا ومتى تحتاج إلى تحويل المقاطع إلى عدد صحيح
+- كيفية استخدام تعليمات Python لتحديد عناصر عشوائية من القائمة
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: معلومات إضافية للمعلمين
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can [find the solution for this project here](https://rpf.io/p/en/storytime){:target="_blank"}.
+يمكنك [الحصول على المشروع كاملاً من هنا](https://rpf.io/p/en/storytime){:target="_blank"}.
 
 \--- /collapse \---
