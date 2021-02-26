@@ -11,32 +11,32 @@ Add `input` and `print` functions to find out:
 
 \--- hints \--- \--- hint \---
 
-استخدم `input` للسؤال عما إذا كان التنين ضخماً أم صغيرًا. Then, use a `print` function to tell the user the size of the dragon.
+استخدم `input` للسؤال عما إذا كان التنين ضخماً أم صغيرًا. ثم استخدم دالة الطباعة `print` لإخبار المستخدم بحجم التنين.
 
 \--- /hint \--- \--- hint \---
 
-Here is some code that asks for the dragon's size and then print it.
+إليك بعض الكود الذي يطلب حجم التنين وثم تطبعه.
 
 ```python
-size = input("Is the dragon big or small? ")
-print("It was a " + size + " dragon")
+size = input("هل التنين ضخم أم صغير؟ ")
+print (" لقد كان "+ size +" تنين ")
 ```
 
-Now do the same for the dragon's age.
+الآن افعل الشيء نفسه بالنسبة لعمر التنين.
 
 \--- /hint \--- \--- hint \---
 
-Here's the full code that you need to ask for the dragon's size and age. <iframe src="https://trinket.io/embed/python/3f9399e144" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+إليك هنا الكود الكامل الذي تحتاجه للسؤال عن حجم التنين وعمره. <iframe src="https://trinket.io/embed/python/3f9399e144" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
 
-Now that you know the age of the dragon, you can work out whether it is young or old. Dragons live for a long time, so they are only considered old if they are older than 1000.
+الآن بعد أن عرفت عمر التنين، يمكنك معرفة ما إذا كان صغيرًا أم كبيرًا. تعيش التنانين لفترة طويلة، لذا فهي تعتبر قديمة فقط إذا كان عمرها أكبر من 1000.
 
-You can use **conditional selection** to work out whether the dragon is young or old. With the`if` and `else` statements, you can make decisions in your Python program. With the **greater than** operator (`>`), you can test whether a number is larger than another number.
+يمكنك استخدام **التحديد الشرطي** لمعرفة ما إذا كان التنين صغيرًا أم كبيرًا. باستخدام عبارات `if` و `else` يمكنك اتخاذ القرارات في برنامج Python الخاص بك. مع العملية المنطقية **أكبر من** (`>`) ، يمكنك اختبار ما إذا كان الرقم أكبر من الرقم الآخر.
 
 \--- task \---
 
-Add some code to work out whether the dragon is young or old. You need to **type cast** the `age` variable so that the computer knows it is a **number** and not a **character string**. This is important because for the Python language, there is a big difference between the **characters** `1` `0` `0` and the **number** `100`. <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+أضف بعض التعليمات البرمجية لمعرفة ما إذا كان التنين صغيرًا أم كبيرًا. You need to **type cast** the `age` variable so that the computer knows it is a **number** and not a **character string**. This is important because for the Python language, there is a big difference between the **characters** `1` `0` `0` and the **number** `100`. <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
