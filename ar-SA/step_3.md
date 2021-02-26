@@ -1,6 +1,6 @@
-## Big or small, old or young
+## كبير أو صغير ، كبير السن أو صغير السن
 
-It's time to get some more information about the dragon.
+حان الوقت للحصول على مزيد من المعلومات حول التنين.
 
 \--- task \---
 
