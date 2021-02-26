@@ -1,7 +1,7 @@
 ---
-title: Story time
+title: وقت القصة
 hero_image: images/banner.png
-description: Create interactive fairy tales and other stories with basic Python
+description: قم بإنشاء حكايات خرافية تفاعلية وقصص أخرى باستخدام لغة بايثون الأساسية
 original_url: https://raspberrypi.org/learning/storytime
 theme: yellow
 duration: 1
@@ -18,19 +18,19 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Make your story interactive
+    title: اجعل قصتك تفاعلية
   - 
-    title: Big or small, old or young
+    title: كبير أو صغير ، كبير السن أو صغير السن
   - 
-    title: Lists of details
+    title: قوائم التفاصيل
   - 
-    title: Choose your story details
+    title: اختر تفاصيل قصتك
   - 
-    title: Tell your story
+    title: اروي قصتك
   - 
-    title: "Challenge: add more details"
+    title: "التحدي: إضافة المزيد من التفاصيل"
     challenge: true
   - 
-    title: What next?
+    title: ما التالي؟
