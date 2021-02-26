@@ -1,16 +1,16 @@
-## Make your story interactive
+## اجعل قصتك تفاعلية
 
 \--- task \---
 
-Open the starter project.
+افتح مشروع البداية.
 
-**Online**: open the Trinket starter project at [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"}.
+**بالاتصال بالانترنت**: افتح المشروع المبدئي من هنا [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"}.
 
-**Offline**: download the [starter project](http://rpf.io/p/en/storytime-go){:target="_blank"} and open it in a text editor
+**دون اتصال بالانترنت**: افتح [المشروع المبدئي](http://rpf.io/p/en/storytime-go){:target="_blank"} عبر المحرر الموجود على جهازك
 
-If you need to download and install Python, download it from [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"}.
+إذا كنت بحاجة إلى تحميل وتثبيت Python، قم بتحميله من [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"}.
 
-In the starter project, you should see a single line of code:
+في مشروع البداية ، يجب أن ترى سطرًا واحدًا من التعليمات البرمجية:
 
 ```python
 from random import choice
@@ -18,11 +18,11 @@ from random import choice
 
 \--- /task \---
 
-The purpose of the story time program is to generate a story, and print the story to the screen so that you can read it. So first, learn how to use the Python `print` function.
+الغرض من برنامج وقت القصة هو إنشاء قصة، وطباعة القصة على الشاشة حتى تتمكن من قراءتها. إذن أولاً، تعلم كيفية استخدام دالة الطباعة `print` في Python.
 
 \--- task \---
 
-In your `storytime.py` file, type the following code on a new line:
+في الملف `storytime.py`، اكتب الكود التالي في سطر جديد:
 
 ```python
 print("We are going to hear a story about a dragon!")
