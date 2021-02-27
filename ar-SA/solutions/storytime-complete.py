@@ -1,9 +1,9 @@
 from random import choice
 
-print("We are going to hear a story about a dragon!")
-name = input("What is the name of the dragon? ")
-print("Excellent, the dragon is called " + name)
-size = input("Is the dragon big or small? ")
+print("سنسمع قصة عن تنين!")
+name = input("ماهو اسم التنين؟ ")
+print("ممتاز، التنين يسمى " + name)
+size = input("هل التنين ضخم أو صغير؟ ")
 print("It was a " + size + " dragon")
 age = input("How old is the dragon? ")
 print("The dragon is " + age + " years old")
