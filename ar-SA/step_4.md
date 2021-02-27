@@ -18,7 +18,7 @@
 
 \--- task \---
 
-Make three more lists that have the names `friends`, `actions`, and `places`.
+قم بعمل ثلاث قوائم أخرى تحتوي على أسماء ` friends `و ` actions `و ` places `.
 
 \--- hints \--- \--- hint \---
 
@@ -32,7 +32,7 @@ places  = []
 
 \--- /hint \--- \--- hint \---
 
-Add strings as list items to all the lists, such as these strings for `friends`.
+أضف نصوص كعناصر قائمة إلى جميع القوائم، مثل هذه النصوص لـ ` friends `.
 
 ```python
 friends = ["ليلى", "نايومي", "نويل", "ادريس", "جون", "آري"]
