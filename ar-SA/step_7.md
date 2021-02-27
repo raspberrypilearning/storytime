@@ -1,7 +1,7 @@
-## Challenge: add more details
+## التحدي: إضافة أنماط أخرى
 
-Make your story even more interesting by adding some more lists with items that your program can pick from.
+اجعل قصتك أكثر إثارة بإضافة المزيد من القوائم بالعناصر التي يمكن لبرنامجك الاختيار من بينها.
 
-For example, you could create a list of `enemies` or `heroes`. Or give the dragon more detail: you could create a list called `colours` that decides what colour skin the dragon's scales are, or a list called `breath` that determines whether the dragon breathes fire, steam, or frost.
+على سبيل المثال ، يمكنك إنشاء قائمة من `الأعداء` أو `الأبطال`. أو إعطاء التنين مزيدًا من التفاصيل: يمكنك إنشاء قائمة تسمى `الألوان` تحدد لون قشور التنين ، أو قائمة تسمى `الأنفاس` تحدد ما إذا كان التنين يتنفس النار أو البخار أو الصقيع.
 
-Your story can be as long as you like, and the only limit is your imagination!
+يمكن أن تكون قصتك طويلة كما تريد، والحد الوحيد هو خيالك!
