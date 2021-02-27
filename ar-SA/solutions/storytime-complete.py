@@ -4,17 +4,17 @@ print("سنسمع قصة عن تنين!")
 name = input("ماهو اسم التنين؟ ")
 print("ممتاز، التنين يسمى " + name)
 size = input("هل التنين ضخم أو صغير؟ ")
-print("It was a " + size + " dragon")
+print (" لقد كان "+ size +" تنين ")
 age = input("How old is the dragon? ")
-print("The dragon is " + age + " years old")
+print("التنين هو " + age + " سنة")
 
 print("")
 print("")
 
 if int(age) > 1000:
-    description = "old"
+    description = "كبير العمر"
 else:
-    description = "young"
+    description = "صغير العمر"
 
 things = ["slay", "cakes", "chocolate", "rocks", "kittens"]
 friends = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
