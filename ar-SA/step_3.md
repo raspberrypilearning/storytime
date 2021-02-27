@@ -4,7 +4,7 @@
 
 \--- task \---
 
-Add `input` and `print` functions to find out:
+أضف دوال `input` و `print` لمعرفة:
 
 1. سواء كان التنين **كبير** أو **صغير**
 2. كم عمر التنين
@@ -42,6 +42,6 @@ print (" لقد كان "+ size +" تنين ")
 
 \--- task \---
 
-أضف عبارة أخرى `print` لإخبار المستخدم ما إذا كان التنين صغير الحجم أم كبيرًا. Then add two more `print` statements to create a break before the story begins. <iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+أضف عبارة أخرى `print` لإخبار المستخدم ما إذا كان التنين صغير الحجم أم كبيرًا. ثم أضف عبارتين إضافيتين `print` لإنشاء فاصل قبل أن تبدأ القصة. <iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
