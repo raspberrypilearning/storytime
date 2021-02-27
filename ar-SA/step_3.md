@@ -36,12 +36,12 @@ print (" لقد كان "+ size +" تنين ")
 
 \--- task \---
 
-أضف بعض التعليمات البرمجية لمعرفة ما إذا كان التنين صغيرًا أم كبيرًا. You need to **type cast** the `age` variable so that the computer knows it is a **number** and not a **character string**. This is important because for the Python language, there is a big difference between the **characters** `1` `0` `0` and the **number** `100`. <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+أضف بعض التعليمات البرمجية لمعرفة ما إذا كان التنين صغيرًا أم كبيرًا. تحتاج إلى **تعيين قيمة** للمتغير `age` حتى يعرف الكمبيوتر أنه **رقم** وليس نص مكون من **أحرف**. هذا أمر مهم لأن في لغة Python، هناك فرق كبير بين **الحروف** `1` `0` `0` و **الرقم** `100`. <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Add another `print` statement to tell the user whether the dragon is young or old. Then add two more `print` statements to create a break before the story begins. <iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+أضف عبارة أخرى `print` لإخبار المستخدم ما إذا كان التنين صغير الحجم أم كبيرًا. Then add two more `print` statements to create a break before the story begins. <iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
