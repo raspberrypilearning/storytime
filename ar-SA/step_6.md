@@ -1,19 +1,19 @@
-## Tell your story
+## اروي قصتك
 
-Now you can have some fun with creating your story! Be as imaginative and creative as you like.
+الآن يمكنك الاستمتاع ببعض المرح في إنشاء قصتك! كن مميزاً ومبدعًا كما تريد.
 
-Write this part of the program all on one line.
+اكتب هذا الجزء من البرنامج كله في سطر واحد.
 
 \--- task \---
 
-First, type `story =` to create a variable to store your story in.
+أولا ، اكتب ` story =` لإنشاء متغير لتخزين قصتك فيه.
 
 \--- /task \---
 
-Now use all the variables you have to make an imaginative story of your own. There is an example provided below, but you can make any story you like.
+الآن استخدم جميع المتغيرات التي لديك لإنشاء قصة خيالية خاصة بك. يوجد مثال موضح أدناه، ولكن يمكنك كتابة أي قصة تعجبك.
 
 \--- task \---
 
-Write your story putting the variables together. Then on the last line of your program, print the story to the screen. <iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+اكتب قصتك مع وضع المتغيرات معًا. ثم في السطر الأخير من برنامجك، اطبع القصة على الشاشة. <iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
