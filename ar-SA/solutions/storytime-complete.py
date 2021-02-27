@@ -5,27 +5,27 @@ name = input("ماهو اسم التنين؟ ")
 print("ممتاز، التنين يسمى " + name)
 size = input("هل التنين ضخم أو صغير؟ ")
 print (" لقد كان "+ size +" تنين ")
-age = input("How old is the dragon? ")
+age = input("ماهو عمر التنين؟ ")
 print("التنين هو " + age + " سنة")
 
 print("")
 print("")
 
 if int(age) > 1000:
-    description = "كبير العمر"
+      description = "كبير العمر"
 else:
-    description = "صغير العمر"
+      description = "صغير العمر"
 
-things = ["slay", "cakes", "chocolate", "rocks", "kittens"]
-friends = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
-actions = ["slay", "kiss", "save", "marry", "rescue", "eat"]
-places = ["Middle Earth", "Narnia", "Hogwarts", "Alderaan"]
+things = ["يقاتل", "كيك", "شوكولاتة", "صخور", "قطط صغيرة"]
+friends = ["ليلى", "نايومي", "نويل", "ادريس", "جون", "آري"]
+actions = ["ذبح", "يقبل", "ينقذ", "يتزوج", "يتنقذ", "يأكل"]
+places = ["الارض الوسطى", "نارنيا", "هاكوارت", "الديران"]
 
 friend = choice(friends)
 thing = choice(things)
 action = choice(actions)
 place = choice(places)
 
-story = "Once upon a time, there was a dragon called " + name + ". The dragon was a very " + description + " creature, and it was very " + size + ". It liked nothing better than to " +  action + " " + thing + ". Sadly, the dragon was so great at this that it ran out of " + thing + " to " + action + " in " + place + ". The dragon became very bored. Luckily the dragon had a friend called " + friend + ". " + friend + " knew where the dragon could find lots of " + thing + " and the two of them travelled far away from " + place + " and found a land filled with lots of lovely " + thing + " to " + action + ". " + name + " and " + friend + " lived happily ever, with all the " + thing + " they wanted."
+story = "ذات مرة، كان هناك تنين يسمى " + name + ". كان التنين مخلوق "+ description +" للغاية، وكان "+ size +" للغاية. لم يحب شيء أفضل من " +  action + " " + thing + ". للأسف، كان التنين رائعًا جدًا في هذا الأمر لدرجة أنه نفد من "+ thing +" إلى "+ action +" في "+ place +". أصبح التنين يشعر بالملل الشديد. لحسن الحظ كان للتنين صديق يسمى "+ friend +". " + friend + " كان يعرف أين يمكن أن يجد التنين الكثير من " + thing + " وقد سافر الاثنان بعيدا عن " + place + " ووجدا أرضا مليئة بالكثير من " + thing + " الجميلة" + " إلى " + action + ". " + name + " و " + friend + " عاشوا بسعادة مطلقة، مع كل " + thing + " الذي يريدونه."
 
 print(story)
