@@ -1,7 +1,7 @@
-## Challenge: add more details
+## Défi : ajoute plus de détails
 
-Make your story even more interesting by adding some more lists with items that your program can pick from.
+Rends ton histoire encore plus intéressante en ajoutant d'autres listes avec des éléments parmi lesquels ton programme peut choisir.
 
-For example, you could create a list of `enemies` or `heroes`. Or give the dragon more detail: you could create a list called `colours` that decides what colour skin the dragon's scales are, or a list called `breath` that determines whether the dragon breathes fire, steam, or frost.
+Par exemple, tu peux créer une liste d' `ennemis` ou de `héros`. Ou donne plus de détails au dragon : tu peux créer une liste appelée `couleurs` qui décide de la couleur de peau des écailles du dragon, ou une liste appelée `souffle` qui détermine si le dragon crache du feu, de la vapeur ou du givre.
 
-Your story can be as long as you like, and the only limit is your imagination!
+Ton histoire peut être aussi longue que tu le souhaites, et la seule limite est ton imagination !
