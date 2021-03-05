@@ -1,28 +1,28 @@
-## Lists of details
+## Listes de détails
 
-Your story time program will generate a lot of the story at random. That's part of the fun! You need to create some lists to store different and funny words that the final program can choose random items from for the story.
+Ton programme « L'Heure des Contes » générera une grande partie de l'histoire au hasard. Ça fait partie du fun ! Tu dois créer des listes pour stocker des mots différents et drôles. Le programme final pourra choisir aléatoirement des éléments de ces listes pour l'histoire.
 
-Lists can be named in the same way as variables. For example, to create a list called `numbers` with four items in it, you could use the line `numbers = ["zero", "one", "two", "three"]`.
+Les listes peuvent être nommées de la même manière que les variables. Par exemple, pour créer une liste appelée `nombres` avec quatre éléments dedans, tu peux utiliser la ligne `nombres = ["zéro", "un", "deux", "trois"]`.
 
 \--- task \---
 
-Underneath the last line of code in your program, leave a line blank and then create a list of things that the dragon can interact with. Either use the same list that is shown here, or add different items to the list. <iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+Sous la dernière ligne de code de ton programme, laisse une ligne vide et crée ensuite une liste de choses avec lesquelles le dragon peut interagir. Utilise la même liste que celle affichée ici, ou ajoute des éléments différents à ta liste. <iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
-Now you need some more lists:
+Maintenant tu as besoin de plus de listes :
 
-- A list for the names of the dragon's `friends`
-- A list for `actions` such as "kiss", "throw", and "steal"
-- A list for `places` such as "Middle Earth" and "Narnia"
+- Une liste avec les noms des `amis` du dragon
+- Une liste pour les `actions` telles que "manger", "lancer" et "voler"
+- Une liste pour les `lieux` tels que "la Terre du Milieu" et "Narnia"
 
 \--- task \---
 
-Make three more lists that have the names `friends`, `actions`, and `places`.
+Crée trois autres listes avec les noms `amis`, `actions` et `lieux`.
 
 \--- hints \--- \--- hint \---
 
-To make the lists, you need to give each list a name.
+Pour créer les listes, tu dois donner un nom à chaque liste.
 
 ```python
 friends = []
