@@ -1,5 +1,5 @@
 ---
-title: L'Heure des Contes
+title: L'heure des histoires
 hero_image: images/banner.png
 description: Créer des contes de fées interactifs et d'autres histoires avec les bases de Python
 original_url: https://raspberrypi.org/learning/storytime
@@ -33,4 +33,4 @@ steps:
     title: "Défi : ajoute plus de détails"
     challenge: true
   - 
-    title: Que faire ensuite ?
+    title: Et ensuite ?
