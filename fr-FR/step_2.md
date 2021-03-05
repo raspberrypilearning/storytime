@@ -6,11 +6,11 @@ Ouvre le projet de démarrage.
 
 **En ligne** : ouvre le projet de démarrage en ligne à [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"}.
 
-**Offline**: download the [starter project](http://rpf.io/p/en/storytime-go){:target="_blank"} and open it in a text editor
+**Hors ligne** : télécharge le [projet de démarrage](http://rpf.io/p/en/storytime-go){:target="_blank"} et ouvre-le dans un éditeur de texte
 
-If you need to download and install Python, download it from [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"}.
+Si tu as besoin de télécharger et d'installer Python, télécharge-le depuis [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"}.
 
-In the starter project, you should see a single line of code:
+Dans le projet de démarrage, tu devrais voir une seule ligne de code :
 
 ```python
 from random import choice
@@ -18,42 +18,42 @@ from random import choice
 
 \--- /task \---
 
-The purpose of the story time program is to generate a story, and print the story to the screen so that you can read it. So first, learn how to use the Python `print` function.
+Le but du programme « L'Heure des Contes » est de générer une histoire et d'afficher l'histoire à l'écran pour que tu puisses la lire. Tout d'abord, apprends à utiliser la fonction `print` de Python.
 
 \--- task \---
 
-In your `storytime.py` file, type the following code on a new line:
+Dans ton ficher `storytime.py` , tape le code suivant sur une nouvelle ligne :
 
 ```python
-print("We are going to hear a story about a dragon!")
+print("Nous allons entendre une histoire sur un dragon !")
 ``` <iframe src="https://trinket.io/embed/python/3b593eb9e4" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Run the program to see what happens. You should see the words “We are going to hear a story about a dragon!” appear in the output display.
+Exécute le programme pour voir ce qui se passe. Tu devrais voir les mots “Nous allons entendre une histoire sur un dragon !” apparaître dans l’affichage de sortie.
 
 \--- /task \---
 
-Now that you can print to the screen, you're ready to ask the user for input, to learn more about the dragon.
+Maintenant que tu peux afficher à l'écran, tu es prêt à demander la saisie de l'utilisateur, pour en savoir plus sur le dragon.
 
 \--- task \---
 
-Create a new variable called `name`. Use the `input` function to ask the user for the dragon's name. Store the input name in the new `name` variable. <iframe src="https://trinket.io/embed/python/0de60dee6d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+Crée une nouvelle variable appelée `nom`. Utilise la fonction `input` pour demander à l'utilisateur le nom du dragon. Stocke le nom d'entrée dans la nouvelle variable `nom`. <iframe src="https://trinket.io/embed/python/0de60dee6d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
 \--- task \---
 
-Run your code again to test whether the program asks for input.
+Exécute à nouveau ton code pour tester si le programme demande des entrées.
 
 \--- /task \---
 
-Now that you have the name of the dragon, use the `name` variable to print the name to the screen. In Python, you can use the `+` operator to join strings together.
+Maintenant que tu as le nom du dragon, utilise la variable `nom` pour afficher le nom à l'écran. En Python, tu peux utiliser l'opérateur `+` pour joindre des chaînes de caractères.
 
 \--- task \---
 
-Add another line of code to print the name of the dragon to the screen. Then run your code. <iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+Ajoute une autre ligne de code pour afficher le nom du dragon à l'écran. Teste ton code. <iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
