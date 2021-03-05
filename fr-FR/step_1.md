@@ -1,63 +1,63 @@
 ## Introduction
 
-## What you will make
+## Ce que tu feras
 
-You will use Python to create a program that generates a random story, based on what the user types in.
+Tu vas utiliser Python pour créer un programme qui génère une histoire aléatoire, basée sur ce que l'utilisateur saisit.
 
 \--- no-print \---
 
-Type in the name of your dragon to begin the story. <iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+Tape le nom de ton dragon pour commencer l'histoire. <iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /no-print \---
 
 \--- print-only \---
 
-![complete project](images/storytime-final.png)
+![projet terminé](images/storytime-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Ce dont tu auras besoin
 
-### Hardware
+### Matériel informatique
 
-- A computer that is connected to the internet
+- Un ordinateur connecté à Internet
 
-OR
+OU
 
-- A computer that runs Python 3
+- Un ordinateur avec Python 3 installé
 
-### Software
+### Logiciel
 
-- [Python 3](https://www.python.org/downloads/){:target="_blank"}, or [Trinket online](https://trinket.io/){:target="_blank"}
+- [Python 3](https://www.python.org/downloads/){:target="_ blank"} ou [Trinket en ligne](https://trinket.io/){:target="_ blank"}
 
-### Downloads
+### Téléchargements
 
-Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_blank"}.
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- How to receive user input in Python
-- Why and when you need to convert strings to integers
-- How to use Python code to select random items from a list
+Trouve [le projet de démarrage ici](https://trinket.io/python/a0aaa62eab){:target="_blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Ce que tu vas apprendre
+
+- Comment recevoir les entrées de l'utilisateur en Python
+- Pourquoi et quand tu as besoin de convertir des chaînes en nombres entiers
+- Comment utiliser le code Python pour sélectionner aléatoirement des éléments dans une liste
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Informations supplémentaires pour les éducateurs
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"}.
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can [find the solution for this project here](https://rpf.io/p/en/storytime){:target="_blank"}.
+Vous pouvez [trouver la solution pour ce projet ici](https://rpf.io/p/en/storytime){:target="_blank"}.
 
 \--- /collapse \---
