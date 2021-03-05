@@ -7,7 +7,7 @@
 --- task ---
 
 تحت آخر سطر من التعليمات البرمجية في برنامجك، اترك سطرًا فارغًا ثم أنشئ قائمة بالأشياء التي يمكن أن يتفاعل معها التنين. إما أن تستخدم نفس القائمة التي تظهر هنا ، أو أن تضيف عناصر مختلفة إلى القائمة. 
-<iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/6ea3101a55" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
 
@@ -43,6 +43,6 @@ friends = ["ليلى", "نايومي", "نويل", "ادريس", "جون", "آر
 --- /hint --- --- hint ---
 
 هذا ما يجب أن يبدو عليه الرمز البرمجي الجديد: 
-<iframe src="https://trinket.io/embed/python/5e264dd3e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/45557c15e5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /hint ------ /hints --- --- /task ---

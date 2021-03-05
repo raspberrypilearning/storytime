@@ -15,6 +15,6 @@
 --- task ---
 
 اكتب قصتك مع وضع المتغيرات معًا. ثم في السطر الأخير من برنامجك، اطبع القصة على الشاشة. 
-<iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/eacc6f8da8" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---

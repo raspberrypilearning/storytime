@@ -46,6 +46,6 @@ print (" لقد كان "+ size +" تنين ")
 --- task ---
 
 أضف عبارة أخرى `print` لإخبار المستخدم ما إذا كان التنين صغير الحجم أم كبيرًا. ثم أضف عبارتين إضافيتين `print` لإنشاء فاصل قبل أن تبدأ القصة. 
-<iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/4459bdff2c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
