@@ -1,12 +1,12 @@
 from random import choice
 
-print("We are going to hear a story about a dragon!")
-name = input("What is the name of the dragon? ")
-print("Excellent, the dragon is called " + name)
-size = input("Is the dragon big or small? ")
-print("It was a " + size + " dragon")
-age = input("How old is the dragon? ")
-print("The dragon is " + age + " years old")
+print("Nous allons entendre une histoire sur un dragon !")
+nom = input("Quel est le nom du dragon ?") ")
+print("Excellent, le dragon s'appelle " + nom)
+taille = input("Le dragon est-il grand ou petit ?") ")
+print("C'était un " + taille + " dragon")
+age = input("Quel est l'âge du dragon ?) ")
+print("Le dragon a " + age + " ans")
 
 print("")
 print("")
