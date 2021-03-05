@@ -5,27 +5,27 @@ nom = input("Quel est le nom du dragon ?") ")
 print("Excellent, le dragon s'appelle " + nom)
 taille = input("Le dragon est-il grand ou petit ?") ")
 print("C'était un " + taille + " dragon")
-age = input("Quel est l'âge du dragon ?) ")
+age = input("Quel est l'âge du dragon ?") ")
 print("Le dragon a " + age + " ans")
 
 print("")
 print("")
 
 if int(age) > 1000:
-    description = "old"
+    description = "ancien"
 else:
-    description = "young"
+    description = "jeune"
 
-things = ["slay", "cakes", "chocolate", "rocks", "kittens"]
-friends = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
-actions = ["slay", "kiss", "save", "marry", "rescue", "eat"]
-places = ["Middle Earth", "Narnia", "Hogwarts", "Alderaan"]
+choses = ["gobelins", "gâteaux", "chocolats", "rochers", "chatons"]
+amis = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
+actions = ["tuer", "embrasser", "sauver", "épouser", "sauver", "manger"]
+lieux = ["la Terre du Milieu", "Narnia", "Poudlard", "Alderaan"]
 
-friend = choice(friends)
-thing = choice(things)
+ami = choice(amis)
+chose = choice(choses)
 action = choice(actions)
-place = choice(places)
+lieu = choice(lieux)
 
-story = "Once upon a time, there was a dragon called " + name + ". The dragon was a very " + description + " creature, and it was very " + size + ". It liked nothing better than to " +  action + " " + thing + ". Sadly, the dragon was so great at this that it ran out of " + thing + " to " + action + " in " + place + ". The dragon became very bored. Luckily the dragon had a friend called " + friend + ". " + friend + " knew where the dragon could find lots of " + thing + " and the two of them travelled far away from " + place + " and found a land filled with lots of lovely " + thing + " to " + action + ". " + name + " and " + friend + " lived happily ever, with all the " + thing + " they wanted."
+histoire = "Il était une fois un dragon appelé " + nom + ". Le dragon était une très " + description + " créature, et il était très " + taille + ". Il n'aimait rien de mieux que de " + action + " des  " + chose + ". Malheureusement, le dragon était si génial dans ce domaine qu'il manquait de " + chose + " à " + action + " dans " + lieu + ". Le dragon s'ennuyait beaucoup. Heureusement, le dragon avait un ami appelé " + ami + ". " + ami + " savait où le dragon pouvait trouver beaucoup de " + chose + " et les deux ont voyagé loin de " + lieu + " et ont trouvé une terre remplie de beaucoup de beaux " + chose + " à " + action + ". " + nom + " et " + ami + " vécurent heureux à tout jamais, avec tous les " + chose + " qu'ils voulaient."
 
-print(story)
+print(histoire)
