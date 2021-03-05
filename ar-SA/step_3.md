@@ -28,7 +28,7 @@ print (" لقد كان "+ size +" تنين ")
 --- /hint --- --- hint ---
 
 إليك هنا الكود الكامل الذي تحتاجه للسؤال عن حجم التنين وعمره. 
-<iframe src="https://trinket.io/embed/python/3f9399e144" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/9b8143dd08" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /hint ------ /hints --- --- /task ---
 
@@ -39,7 +39,7 @@ print (" لقد كان "+ size +" تنين ")
 --- task ---
 
 أضف بعض التعليمات البرمجية لمعرفة ما إذا كان التنين صغيرًا أم كبيرًا. تحتاج إلى **تعيين قيمة** للمتغير `age` حتى يعرف الكمبيوتر أنه **رقم** وليس نص مكون من **أحرف**. هذا أمر مهم لأن في لغة Python، هناك فرق كبير بين **الحروف** `1` `0` `0` و **الرقم** `100`. 
-<iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/fff9a9d7bc" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
 

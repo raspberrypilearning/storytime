@@ -28,7 +28,7 @@ from random import choice
 print("سنسمع قصة عن تنين!")
 ```
 
-<iframe src="https://trinket.io/embed/python/3b593eb9e4" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/e78a640889" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
 
@@ -43,7 +43,7 @@ print("سنسمع قصة عن تنين!")
 --- task ---
 
 قم بإنشاء متغير جديد يسمى `name`. استخدم دالة `input` لتسأل المستخدم عن اسم التنين. قم بتخزين الاسم المدخل في المتغير الجديد `name`. 
-<iframe src="https://trinket.io/embed/python/0de60dee6d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/7c553e7a9f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
 
@@ -58,6 +58,6 @@ print("سنسمع قصة عن تنين!")
 --- task ---
 
 أضف سطر آخر من التعليمات البرمجية لطباعة إسم التنين إلى الشاشة. ثم اختبر الرمز الخاص بك. 
-<iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/f6a2365c94" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
