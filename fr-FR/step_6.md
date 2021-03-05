@@ -1,19 +1,19 @@
-## Tell your story
+## Raconter ton histoire
 
-Now you can have some fun with creating your story! Be as imaginative and creative as you like.
+Tu peux maintenant t'amuser à créer ton histoire ! Sois aussi imaginatif et créatif que tu le souhaites.
 
-Write this part of the program all on one line.
+Écris cette partie du programme sur une seule ligne.
 
 \--- task \---
 
-First, type `story =` to create a variable to store your story in.
+Tout d'abord, tape `histoire =` pour créer une variable dans laquelle stocker ton histoire.
 
 \--- /task \---
 
-Now use all the variables you have to make an imaginative story of your own. There is an example provided below, but you can make any story you like.
+Maintenant, utilise toutes les variables dont tu disposes pour créer ta propre histoire imaginative. Il y a un exemple fourni ci-dessous, mais tu peux faire n'importe quelle histoire que tu aimes.
 
 \--- task \---
 
-Write your story putting the variables together. Then on the last line of your program, print the story to the screen. <iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+Écris ton histoire en réunissant les variables. Puis sur la dernière ligne de ton programme, affiche l'histoire à l'écran. <iframe src="https://trinket.io/embed/python/904db1ae15" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
