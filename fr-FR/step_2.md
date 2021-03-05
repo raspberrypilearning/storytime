@@ -1,10 +1,10 @@
-## Make your story interactive
+## Rendre ton histoire interactive
 
 \--- task \---
 
-Open the starter project.
+Ouvre le projet de démarrage.
 
-**Online**: open the Trinket starter project at [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"}.
+**En ligne** : ouvre le projet de démarrage en ligne à [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"}.
 
 **Offline**: download the [starter project](http://rpf.io/p/en/storytime-go){:target="_blank"} and open it in a text editor
 
