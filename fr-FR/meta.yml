@@ -1,7 +1,7 @@
 ---
-title: Story time
+title: L'Heure des Contes
 hero_image: images/banner.png
-description: Create interactive fairy tales and other stories with basic Python
+description: Créer des contes de fées interactifs et d'autres histoires avec les bases de Python
 original_url: https://raspberrypi.org/learning/storytime
 theme: yellow
 duration: 1
@@ -20,17 +20,17 @@ steps:
   - 
     title: Introduction
   - 
-    title: Make your story interactive
+    title: Rendre ton histoire interactive
   - 
-    title: Big or small, old or young
+    title: Grand ou petit, ancien ou jeune
   - 
-    title: Lists of details
+    title: Listes de détails
   - 
-    title: Choose your story details
+    title: Choisir les détails de ton histoire
   - 
-    title: Tell your story
+    title: Raconter ton histoire
   - 
-    title: "Challenge: add more details"
+    title: "Défi : ajoute plus de détails"
     challenge: true
   - 
-    title: What next?
+    title: Que faire ensuite ?
