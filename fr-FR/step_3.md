@@ -35,7 +35,7 @@ Tu peux utiliser **la sélection conditionnelle** pour déterminer si le dragon 
 
 \--- task \---
 
-Ajoute du code pour déterminer si le dragon est jeune ou vieux. Tu dois **convertir** la variable d'âge `` pour que l'ordinateur sache que c'est un **numéro** et non une **chaîne de caractères**. Ceci est important car pour le langage Python, il y a une grande différence entre les **caractères** `1` `0` `0` et le **nombre** `100`. <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+Ajoute du code pour déterminer si le dragon est jeune ou vieux. Tu dois **convertir** la variable d'âge `` pour que l'ordinateur sache que c'est un **nombre** et non une **chaîne de caractères**. Ceci est important car pour le langage Python, il y a une grande différence entre les **caractères** `1` `0` `0` et le **nombre** `100`. <iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 \--- /task \---
 
