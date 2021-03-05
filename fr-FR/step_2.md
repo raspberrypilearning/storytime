@@ -18,7 +18,7 @@ from random import choice
 
 \--- /task \---
 
-Le but du programme « L'Heure des Contes » est de générer une histoire et d'afficher l'histoire à l'écran pour que tu puisses la lire. Tout d'abord, apprends à utiliser la fonction `print` de Python.
+Le but du programme « L'heure des histoires » est de générer une histoire et d'afficher l'histoire à l'écran pour que tu puisses la lire. Tout d'abord, apprends à utiliser la fonction `print` de Python.
 
 \--- task \---
 
