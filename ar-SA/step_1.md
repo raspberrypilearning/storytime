@@ -6,7 +6,8 @@
 
 --- no-print ---
 
-اكتب اسم التنين الخاص بك لبدء القصة. <iframe src="https://trinket.io/embed/python/e2ba1d9213?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+اكتب اسم التنين الخاص بك لبدء القصة. 
+<iframe src="https://trinket.io/embed/python/e2ba1d9213?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /no-print ---
 
