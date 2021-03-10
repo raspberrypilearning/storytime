@@ -1,11 +1,11 @@
 from random import choice
 
 print("Nous allons entendre une histoire sur un dragon !")
-nom = input("Quel est le nom du dragon ?") ")
+nom = input("Quel est le nom du dragon ?")
 print("Excellent, le dragon s'appelle " + nom)
-taille = input("Le dragon est-il grand ou petit ?") ")
+taille = input("Le dragon est-il grand ou petit ?")
 print("C'était un " + taille + " dragon")
-age = input("Quel est l'âge du dragon ?") ")
+age = input("Quel est l'âge du dragon ?")
 print("Le dragon a " + age + " ans")
 
 print("")

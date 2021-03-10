@@ -8,7 +8,7 @@ Tu vas utiliser Python pour créer un programme qui génère une histoire aléat
 
 Tape le nom de ton dragon pour commencer l'histoire. 
 
-<iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/22d50dd17a?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /no-print ---
 

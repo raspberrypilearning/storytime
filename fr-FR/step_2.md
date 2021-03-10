@@ -28,7 +28,7 @@ Dans ton ficher `storytime.py`, tape le code suivant sur une nouvelle ligne :
 print("Nous allons entendre une histoire sur un dragon !")
 ``` 
 
-<iframe src="https://trinket.io/embed/python/3b593eb9e4" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/19ce3f5d77" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
 
@@ -43,7 +43,7 @@ Maintenant que tu peux afficher à l'écran, tu es prêt à demander la saisie d
 --- task ---
 
 Crée une nouvelle variable appelée `nom`. Utilise la fonction `input` pour demander à l'utilisateur le nom du dragon. Stocke le nom d'entrée dans la nouvelle variable `nom`. 
-<iframe src="https://trinket.io/embed/python/0de60dee6d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/548e108641" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
 
@@ -58,6 +58,6 @@ Maintenant que tu as le nom du dragon, utilise la variable `nom` pour afficher l
 --- task ---
 
 Ajoute une autre ligne de code pour afficher le nom du dragon à l'écran. Teste ton code. 
-<iframe src="https://trinket.io/embed/python/e651eca8ca" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/2e47bc2401" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---

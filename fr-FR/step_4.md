@@ -7,7 +7,7 @@ Les listes peuvent être nommées de la même manière que les variables. Par ex
 --- task ---
 
 Sous la dernière ligne de code de ton programme, laisse une ligne vide et crée ensuite une liste de choses avec lesquelles le dragon peut interagir. Utilise la même liste que celle affichée ici, ou ajoute des éléments différents à ta liste. 
-<iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/d28bb6d620" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
 
@@ -43,6 +43,6 @@ amis = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
 --- /hint --- --- hint ---
 
 Voici à quoi devrait ressembler ton nouveau code : 
-<iframe src="https://trinket.io/embed/python/5e264dd3e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/6a3539d3a3" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /hint ------ /hints --- --- /task ---

@@ -27,7 +27,7 @@ Maintenant, fais la même chose pour l'âge du dragon.
 --- /hint --- --- hint ---
 
 Voici le code complet dont tu as besoin pour demander la taille et l'âge du dragon. 
-<iframe src="https://trinket.io/embed/python/3f9399e144" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/0a34f07113" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /hint ------ /hints --- --- /task ---
 
@@ -38,13 +38,13 @@ Tu peux utiliser **la sélection conditionnelle** pour déterminer si le dragon 
 --- task ---
 
 Ajoute du code pour déterminer si le dragon est jeune ou vieux. Tu dois **convertir** la variable `d'âge` pour que l'ordinateur sache que c'est un **nombre** et non une **chaîne de caractères**. Ceci est important car pour le langage Python, il y a une grande différence entre les **caractères** `1` `0` `0` et le **nombre** `100`. 
-<iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/704358eb80" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
 
 --- task ---
 
 Ajoute une autre instruction `print` pour indiquer à l'utilisateur si le dragon est jeune ou vieux. Ajoute ensuite deux autres instructions `print` pour créer une pause avant le début de l'histoire. 
-<iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe src="https://trinket.io/embed/python/963b7be09d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 --- /task ---
