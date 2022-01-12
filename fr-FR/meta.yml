@@ -19,6 +19,7 @@ last_tested: 2017-01-01
 steps:
   - 
     title: Introduction
+    completion: engaged
   - 
     title: Rendre ton histoire interactive
   - 
@@ -27,10 +28,11 @@ steps:
     title: Listes de détails
   - 
     title: Choisir les détails de ton histoire
+    completion: internal
   - 
     title: Raconter ton histoire
   - 
-    title: "Défi : ajoute plus de détails"
+    title: 'Défi : ajoute plus de détails'
     challenge: true
   - 
     title: Et ensuite ?
