@@ -1,7 +1,8 @@
 ---
 title: कहानी का समय
 hero_image: images/banner.png
-description: बुनियादी Python के साथ संवादात्मक परियों की कहानियां और अन्य कहानियां बनाएं
+description: बुनियादी Python के साथ संवादात्मक परियों की कहानियां और अन्य कहानियां
+  बनाएं
 original_url: https://raspberrypi.org/learning/storytime
 theme: yellow
 duration: 1
@@ -17,12 +18,14 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: भूमिका
-  - title: अपनी कहानी को संवादात्मक बनाएं
-  - title: बड़ा या छोटा, बूढ़ा या जवान
-  - title: विवरण की सूची
-  - title: अपनी कहानी का विवरण चुनें
-  - title: अपनी कहानी सुनाएं
-  - title: "चुनौती: अधिक विवरण जोड़ें"
-    challenge: true
-  - title: आगे क्या?
+- title: भूमिका
+  completion: engaged
+- title: अपनी कहानी को संवादात्मक बनाएं
+- title: बड़ा या छोटा, बूढ़ा या जवान
+- title: विवरण की सूची
+- title: अपनी कहानी का विवरण चुनें
+  completion: internal
+- title: अपनी कहानी सुनाएं
+- title: 'चुनौती: अधिक विवरण जोड़ें'
+  challenge: true
+- title: आगे क्या?
