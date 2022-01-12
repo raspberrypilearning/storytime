@@ -19,6 +19,7 @@ last_tested: 2017-01-01
 steps:
   - 
     title: ಪರಿಚಯ
+    completion: engaged
   - 
     title: ನಿಮ್ಮ ಕಥೆಯನ್ನು ಸಂವಾದಾತ್ಮಕಗೊಳಿಸಿ
   - 
@@ -27,10 +28,11 @@ steps:
     title: ವಿವರಗಳ ಪಟ್ಟಿಗಳು
   - 
     title: ನಿಮ್ಮ ಕಥೆಯ ವಿವರಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ
+    completion: internal
   - 
     title: ನಿಮ್ಮ ಕಥೆಯನ್ನು ಹೇಳಿ
   - 
-    title: "ಸವಾಲು: ಹೆಚ್ಚಿನ ವಿವರಗಳನ್ನು ಸೇರಿಸಿ"
+    title: 'ಸವಾಲು: ಹೆಚ್ಚಿನ ವಿವರಗಳನ್ನು ಸೇರಿಸಿ'
     challenge: true
   - 
     title: ಮುಂದೆ ಏನು?
