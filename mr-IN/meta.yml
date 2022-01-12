@@ -19,6 +19,7 @@ last_tested: 2017-01-01
 steps:
   - 
     title: परिचय
+    completion: engaged
   - 
     title: आपली कथा संवादी करा
   - 
@@ -27,10 +28,11 @@ steps:
     title: तपशीच्या याद्या
   - 
     title: आपल्या कथेचा तपशील निवडा
+    completion: internal
   - 
     title: आपली कथा सांगा
   - 
-    title: "आव्हान: अधिक तपशील जोडा"
+    title: 'आव्हान: अधिक तपशील जोडा'
     challenge: true
   - 
     title: पुढे काय?
