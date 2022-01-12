@@ -19,6 +19,7 @@ last_tested: 2017-01-01
 steps:
   - 
     title: भूमिका
+    completion: engaged
   - 
     title: अपनी कहानी को संवादात्मक बनाएं
   - 
@@ -27,10 +28,11 @@ steps:
     title: विवरण की सूची
   - 
     title: अपनी कहानी का विवरण चुनें
+    completion: internal
   - 
     title: अपनी कहानी सुनाएं
   - 
-    title: "चुनौती: अधिक विवरण जोड़ें"
+    title: 'चुनौती: अधिक विवरण जोड़ें'
     challenge: true
   - 
     title: आगे क्या?
