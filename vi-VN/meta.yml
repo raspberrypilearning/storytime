@@ -19,6 +19,7 @@ last_tested: 2017-01-01
 steps:
   - 
     title: Introduction
+    completion: engaged
   - 
     title: Make your story interactive
   - 
@@ -27,10 +28,11 @@ steps:
     title: Lists of details
   - 
     title: Choose your story details
+    completion: internal
   - 
     title: Tell your story
   - 
-    title: "Challenge: add more details"
+    title: 'Challenge: add more details'
     challenge: true
   - 
     title: What next?
