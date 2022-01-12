@@ -19,6 +19,7 @@ last_tested: 2017-01-01
 steps:
   - 
     title: المقدمة
+    completion: engaged
   - 
     title: اجعل قصتك تفاعلية
   - 
@@ -27,10 +28,11 @@ steps:
     title: قوائم التفاصيل
   - 
     title: اختر تفاصيل قصتك
+    completion: internal
   - 
     title: اروي قصتك
   - 
-    title: "التحدي: إضافة المزيد من التفاصيل"
+    title: 'التحدي: إضافة المزيد من التفاصيل'
     challenge: true
   - 
     title: ما التالي؟
