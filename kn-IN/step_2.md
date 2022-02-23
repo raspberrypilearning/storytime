@@ -4,11 +4,11 @@
 
 ಸ್ಟಾರ್ಟರ್ ಪ್ರಾಜೆಕ್ಟ್ ತೆರೆಯಿರಿ.
 
-**ಆನ್‌ಲೈನ್**:Trinket ಸ್ಟಾರ್ಟರ್ ಪ್ರಾಜೆಕ್ಟ್ ತೆರೆಯಲು [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"} ಬಳಸಿ.
+**ಆನ್‌ಲೈನ್**:Trinket ಸ್ಟಾರ್ಟರ್ ಪ್ರಾಜೆಕ್ಟ್ ತೆರೆಯಲು [rpf.io/storytimeon](https://rpf.io/storytimeon){:target="_blank"} ಬಳಸಿ.
 
-**ಆಫ್‌ಲೈನ್**:[ಸ್ಟಾರ್ಟರ್ ಪ್ರಾಜೆಕ್ಟ್](http://rpf.io/p/kn-IN/storytime-go){:target="_blank"} ಡೌನ್ಲೋಡ್ ಮಾಡಿ ನಂತರ ಅದನ್ನು ಟೆಕ್ಸ್ಟ್ ಎಡಿಟರ್ ನಲ್ಲಿ ತೆರೆಯಿರಿ
+**ಆಫ್‌ಲೈನ್**:[ಸ್ಟಾರ್ಟರ್ ಪ್ರಾಜೆಕ್ಟ್](https://rpf.io/p/kn-IN/storytime-go){:target="_blank"} ಡೌನ್ಲೋಡ್ ಮಾಡಿ ನಂತರ ಅದನ್ನು ಟೆಕ್ಸ್ಟ್ ಎಡಿಟರ್ ನಲ್ಲಿ ತೆರೆಯಿರಿ
 
-[rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"},ಇದರಿಂದ ನೀವು Python ಡೌನ್ಲೋಡ್ ಮತ್ತು ಇನ್ಸ್ಟಾಲ್ ಮಾಡಬಹುದು.
+[rpf.io/pythonoff](https://rpf.io/pythonoff){:target="_blank"},ಇದರಿಂದ ನೀವು Python ಡೌನ್ಲೋಡ್ ಮತ್ತು ಇನ್ಸ್ಟಾಲ್ ಮಾಡಬಹುದು.
 
 ಸ್ಟಾರ್ಟರ್ ಪ್ರಾಜೆಕ್ಟಿನಲ್ಲಿ ನೀವು ಒಂದೇ ಸಾಲಿನ ಕೋಡನ್ನು ನೋಡಬಹುದು:
 

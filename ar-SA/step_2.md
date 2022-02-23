@@ -4,11 +4,11 @@
 
 افتح مشروع البداية.
 
-**بالاتصال بالانترنت**: افتح المشروع المبدئي من هنا [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"}.
+**بالاتصال بالانترنت**: افتح المشروع المبدئي من هنا [rpf.io/storytimeon](https://rpf.io/storytimeon){:target="_blank"}.
 
-**دون اتصال بالانترنت**: افتح [المشروع المبدئي](http://rpf.io/p/ar-SA/storytime-go){:target="_blank"} عبر المحرر الموجود على جهازك
+**دون اتصال بالانترنت**: افتح [المشروع المبدئي](https://rpf.io/p/ar-SA/storytime-go){:target="_blank"} عبر المحرر الموجود على جهازك
 
-إذا كنت بحاجة إلى تحميل وتثبيت Python، قم بتحميله من [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"}.
+إذا كنت بحاجة إلى تحميل وتثبيت Python، قم بتحميله من [rpf.io/pythonoff](https://rpf.io/pythonoff){:target="_blank"}.
 
 في مشروع البداية ، يجب أن ترى سطرًا واحدًا من التعليمات البرمجية:
 
