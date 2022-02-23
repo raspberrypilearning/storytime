@@ -4,11 +4,11 @@
 
 प्रारंभिक प्रोजेक्ट उघडा.
 
-**ऑनलाइन**: [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"} वर Trinket प्रारंभिक प्रोजेक्ट उघडा.
+**Online**: open the Trinket starter project at [rpf.io/storytimeon](https://rpf.io/storytimeon){:target="_blank"}.
 
-**ऑफलाइन**: [प्रारंभिक प्रोजेक्ट](http://rpf.io/p/en/storytime-go){:target="_blank"} डाउनलोड करा आणि तेक्स्ट एडिटर मधे उघडा
+**Offline**: download the [starter project](https://rpf.io/p/en/storytime-go){:target="_blank"} and open it in a text editor
 
-जर आपल्याला Python डाउनलोड आणि स्थापित करायचा असेल तर [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"} वरून डाउनलोड करा.
+If you need to download and install Python, download it from [rpf.io/pythonoff](https://rpf.io/pythonoff){:target="_blank"}.
 
 प्रारंभिक प्रोजेक्ट मध्ये, आपल्याला कोडची ही ओळ दिसायला पाहिजे:
 
