@@ -4,11 +4,11 @@
 
 افتح مشروع البداية.
 
-**بالاتصال بالانترنت**: افتح المشروع المبدئي من هنا [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"}.
+**Online**: open the Trinket starter project at [rpf.io/storytimeon](https://rpf.io/storytimeon){:target="_blank"}.
 
-**دون اتصال بالانترنت**: افتح [المشروع المبدئي](http://rpf.io/p/en/storytime-go){:target="_blank"} عبر المحرر الموجود على جهازك
+**Offline**: download the [starter project](https://rpf.io/p/en/storytime-go){:target="_blank"} and open it in a text editor
 
-إذا كنت بحاجة إلى تحميل وتثبيت Python، قم بتحميله من [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"}.
+If you need to download and install Python, download it from [rpf.io/pythonoff](https://rpf.io/pythonoff){:target="_blank"}.
 
 في مشروع البداية ، يجب أن ترى سطرًا واحدًا من التعليمات البرمجية:
 
