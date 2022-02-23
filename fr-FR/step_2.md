@@ -4,11 +4,11 @@
 
 Ouvre le projet de démarrage.
 
-**En ligne** : ouvre le projet de démarrage en ligne à [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"}.
+**En ligne** : ouvre le projet de démarrage en ligne à [rpf.io/storytimeon](https://rpf.io/storytimeon){:target="_blank"}.
 
-**Hors ligne** : télécharge le [projet de démarrage](http://rpf.io/p/fr-FR/storytime-go){:target="_blank"} et ouvre-le dans un éditeur de texte
+**Hors ligne** : télécharge le [projet de démarrage](https://rpf.io/p/fr-FR/storytime-go){:target="_blank"} et ouvre-le dans un éditeur de texte
 
-Si tu as besoin de télécharger et d'installer Python, télécharge-le depuis [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"}.
+Si tu as besoin de télécharger et d'installer Python, télécharge-le depuis [rpf.io/pythonoff](https://rpf.io/pythonoff){:target="_blank"}.
 
 Dans le projet de démarrage, tu devrais voir une seule ligne de code :
 

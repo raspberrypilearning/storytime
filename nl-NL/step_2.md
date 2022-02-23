@@ -4,11 +4,11 @@
 
 Open het startproject.
 
-**Online**: open het Trinket-startproject op [rpf.io/storytimeon](http://rpf.io/storytimeon){:target="_blank"}.
+**Online**: open het Trinket-startproject op [rpf.io/storytimeon](https://rpf.io/storytimeon){:target="_blank"}.
 
-**Offline**: download het [startproject](http://rpf.io/p/nl-NL/storytime-go){:target="_blank"} en open het in een teksteditor
+**Offline**: download het [startproject](https://rpf.io/p/nl-NL/storytime-go){:target="_blank"} en open het in een teksteditor
 
-Als je Python moet downloaden en installeren, download deze van [rpf.io/pythonoff](http://rpf.io/pythonoff){:target="_blank"}.
+Als je Python moet downloaden en installeren, download deze van [rpf.io/pythonoff](https://rpf.io/pythonoff){:target="_blank"}.
 
 In het startproject zou je een enkele regel code moeten zien:
 
