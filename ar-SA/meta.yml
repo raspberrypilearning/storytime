@@ -17,12 +17,16 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: المقدمة
-  - title: اجعل قصتك تفاعلية
-  - title: كبير أو صغير ، كبير السن أو صغير السن
-  - title: قوائم التفاصيل
-  - title: اختر تفاصيل قصتك
-  - title: اروي قصتك
-  - title: "التحدي: إضافة المزيد من التفاصيل"
-    challenge: true
-  - title: ما التالي؟
+- title: المقدمة
+- title: اجعل قصتك تفاعلية
+- title: كبير أو صغير ، كبير السن أو صغير السن
+  completion:
+  - engaged
+- title: قوائم التفاصيل
+- title: اختر تفاصيل قصتك
+- title: اروي قصتك
+  completion:
+  - internal
+- title: 'التحدي: إضافة المزيد من التفاصيل'
+  challenge: true
+- title: ما التالي؟

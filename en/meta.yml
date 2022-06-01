@@ -16,13 +16,17 @@ hardware: raspberry-pi, electronic-components
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: Make your story interactive
 - title: Big or small, old or young
+  completion:
+  - engaged
 - title: Lists of details
 - title: Choose your story details
 - title: Tell your story
-- title: "Challenge: add more details"
+  completion:
+  - internal
+- title: 'Challenge: add more details'
   challenge: true
 - title: What next?

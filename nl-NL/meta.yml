@@ -17,12 +17,16 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Inleiding
-  - title: Maak je verhaal interactief
-  - title: Groot of klein, oud of jong
-  - title: Lijst met details
-  - title: Kies je verhaaldetails
-  - title: Vertel je verhaal
-  - title: "Uitdaging: voeg meer details toe"
-    challenge: true
-  - title: Wat kun je verder nog doen?
+- title: Inleiding
+- title: Maak je verhaal interactief
+- title: Groot of klein, oud of jong
+  completion:
+  - engaged
+- title: Lijst met details
+- title: Kies je verhaaldetails
+- title: Vertel je verhaal
+  completion:
+  - internal
+- title: 'Uitdaging: voeg meer details toe'
+  challenge: true
+- title: Wat kun je verder nog doen?
