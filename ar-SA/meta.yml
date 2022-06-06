@@ -18,13 +18,15 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: المقدمة
-  completion: engaged
 - title: اجعل قصتك تفاعلية
 - title: كبير أو صغير ، كبير السن أو صغير السن
+  completion:
+  - engaged
 - title: قوائم التفاصيل
 - title: اختر تفاصيل قصتك
-  completion: internal
 - title: اروي قصتك
+  completion:
+  - internal
 - title: 'التحدي: إضافة المزيد من التفاصيل'
   challenge: true
 - title: ما التالي؟

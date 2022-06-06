@@ -19,13 +19,15 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Rendre ton histoire interactive
 - title: Grand ou petit, ancien ou jeune
+  completion:
+  - engaged
 - title: Listes de détails
 - title: Choisir les détails de ton histoire
-  completion: internal
 - title: Raconter ton histoire
+  completion:
+  - internal
 - title: 'Défi : ajoute plus de détails'
   challenge: true
 - title: Et ensuite ?

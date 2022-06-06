@@ -18,13 +18,15 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: परिचय
-  completion: engaged
 - title: आपली कथा संवादी करा
 - title: मोठे किंवा लहान, म्हातारे किंवा तरूण
+  completion:
+  - engaged
 - title: तपशीच्या याद्या
 - title: आपल्या कथेचा तपशील निवडा
-  completion: internal
 - title: आपली कथा सांगा
+  completion:
+  - internal
 - title: 'आव्हान: अधिक तपशील जोडा'
   challenge: true
 - title: पुढे काय?

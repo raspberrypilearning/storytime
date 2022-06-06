@@ -18,13 +18,15 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Make your story interactive
 - title: Big or small, old or young
+  completion:
+  - engaged
 - title: Lists of details
 - title: Choose your story details
-  completion: internal
 - title: Tell your story
+  completion:
+  - internal
 - title: 'Challenge: add more details'
   challenge: true
 - title: What next?

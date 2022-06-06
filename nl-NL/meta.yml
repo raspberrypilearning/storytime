@@ -18,13 +18,15 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Maak je verhaal interactief
 - title: Groot of klein, oud of jong
+  completion:
+  - engaged
 - title: Lijst met details
 - title: Kies je verhaaldetails
-  completion: internal
 - title: Vertel je verhaal
+  completion:
+  - internal
 - title: 'Uitdaging: voeg meer details toe'
   challenge: true
 - title: Wat kun je verder nog doen?
