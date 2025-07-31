@@ -1,27 +1,65 @@
-## Choose your story details
+## Choose random details
 
-Now that you have lists of actions, places, things, and friends, write some code that randomly picks one item from each list. This will help generate your story, and should make it quirky!
+Randomly pick one item from each list. 
+
+This will help generate your story, and should make it fun!
 
 --- task ---
 
-Add in another line of code to create a variable called `friend`. Then assign the new variable a random item from the `friends` list.
+Create a variable called `friend`. 
 
-<iframe src="https://trinket.io/embed/python/b3668ceb66" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+Assign the new variable a random item from the `friends` list and use the `friend` variable in a `print` function.
+
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 21
+line_highlights: 26-27
+---
+things = ["goblins", "cakes", "chocolate", "rocks", "trees"]
+friends = ["Amilyn", "Lila", "Nuala", "Idris", "Jonah", "Ari"]
+actions = ["slay", "kiss", "save", "marry", "rescue", "eat"]
+places = ["Middle Earth", "Narnia", "Hogwarts", "Alderaan"]
+
+friend = choice(friends)
+print("The friend is " + friend)
+
+--- /code ---
 
 --- /task ---
 
 --- task ---
 
-Now use the `friend` variable in a `print` function. Each time you run the code, the variable should be randomly assigned a new item from the `friends` list.
-
-<iframe src="https://trinket.io/embed/python/cf0dfd81da" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
+**Test**: Run your code and check the output.
+Each time you run the code, the variable should be randomly assigned a new item from the `friends` list.
 --- /task ---
 
 --- task ---
 
-Create three more variables called `action`, `place`, and `thing`. Assign them random items from the `actions`, `places`, and `things` lists.
+**Delete** the print line.
 
-<iframe src="https://trinket.io/embed/python/e6410121dd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+Create three more variables called `action`, `place`, and `thing`. 
+
+Assign them random items from the `actions`, `places`, and `things` lists.
+
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 21
+line_highlights: 27-29
+---
+things = ["goblins", "cakes", "chocolate", "rocks", "trees"]
+friends = ["Amilyn", "Lila", "Nuala", "Idris", "Jonah", "Ari"]
+actions = ["slay", "kiss", "save", "marry", "rescue", "eat"]
+places = ["Middle Earth", "Narnia", "Hogwarts", "Alderaan"]
+
+friend = choice(friends)
+thing = choice(things)
+action = choice(actions)
+place = choice(places)
+
+--- /code ---
 
 --- /task ---

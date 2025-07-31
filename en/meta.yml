@@ -19,11 +19,11 @@ last_tested: 2017-01-01
 steps:
 - title: Introduction
 - title: Get the dragon's name
-- title: Big or small, old or young
+- title: Size and age of the dragon
   completion:
   - engaged
-- title: Lists of details
-- title: Choose your story details
+- title: Add some random details
+- title: Choose random details
 - title: Tell your story
   completion:
   - internal

@@ -1,18 +1,53 @@
-## Lists of details
+## Add some random details
 
-Your story time program will generate a lot of the story at random. That's part of the fun! You need to create some lists to store different and funny words that the final program can choose random items from for the story. 
+Your program will generate a lot of the story at random. 
+
+You need to create some lists to store different and funny words that the program can choose from.
 
 Lists can be named in the same way as variables. For example, to create a list called `numbers` with four items in it, you could use the line `numbers = ["zero", "one", "two", "three"]`.
 
 --- task ---
 
-Underneath the last line of code in your program, leave a line blank and then create a list of things that the dragon can interact with. Either use the same list that is shown here, or add different items to the list.
+Create a list of things that the dragon can interact with. 
 
-<iframe src="https://trinket.io/embed/python/234f6ed347" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+Use the list of items we use here, or add your own items!
+
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 1
+line_highlights: 21
+---
+from random import choice
+
+print("We are going to hear a story about a dragon!")
+
+name = input("What is the name of the dragon? ")
+print("Excellent. The dragon is called " + name)
+
+size = input("Is the dragon big or small? ")
+print("It was a " + size + " dragon")
+
+age = input("How old is the dragon? ")
+print("The dragon is " + age + " years old")
+
+if int(age) > 1000:
+    description = "an old"
+else:
+    description = "a young"
+
+print("It was an " + description + " dragon.")
+
+things = ["goblins", "cakes", "chocolate", "rocks", "trees"]
+
+--- /code ---
 
 --- /task ---
 
-Now you need some more lists:
+### Add MORE random details!
+
+Add some more lists:
 - A list for the names of the dragon's `friends`
 - A list for `actions` such as "kiss", "throw", and "steal"
 - A list for `places` such as "Middle Earth" and "Narnia"
@@ -21,35 +56,20 @@ Now you need some more lists:
 
 Make three more lists that have the names `friends`, `actions`, and `places`.
 
---- hints --- 
---- hint ---
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 19
+line_highlights: 22-24
+---
+print("It was an " + description + " dragon.")
 
-To make the lists, you need to give each list a name.
+things = ["goblins", "cakes", "chocolate", "rocks", "trees"]
+friends = ["Amilyn", "Lila", "Nuala", "Idris", "Jonah", "Ari"]
+actions = ["slay", "kiss", "save", "marry", "rescue", "eat"]
+places = ["Middle Earth", "Narnia", "Hogwarts", "Alderaan"]
 
-```python
-friends = []
-actions = []
-places  = []
-```
+--- /code ---
 
---- /hint --- 
---- hint ---
-
-Add strings as list items to all the lists, such as these strings for `friends`.
-
-```python
-friends = ["Lila", "Naomi", "Noelle", "Idris", "Jonah", "Ari"]
-```
-
---- /hint --- 
---- hint ---
-
-Here is what your completed code should look like:
-<iframe src="https://trinket.io/embed/python/5e264dd3e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
---- /hint --- 
---- /hints ---
 --- /task ---
-
-	
-		

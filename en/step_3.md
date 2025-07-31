@@ -1,57 +1,93 @@
-## Big or small, old or young
+## Size and age of the dragon
 
 It's time to get some more information about the dragon.
 
 --- task ---
 
-Add `input` and `print` functions to find out:
-1. Whether the dragon is **big** or **small**
-1. How old the dragon is
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 1
+line_highlights: 8-12
+---
+from random import choice
 
---- hints --- 
---- hint ---
+print("We are going to hear a story about a dragon!")
 
-Use `input` to ask if the dragon is big or small. Then, use a `print` function to tell the user the size of the dragon.
+name = input("What is the name of the dragon? ")
+print("Excellent. The dragon is called " + name)
 
---- /hint --- 
---- hint ---
-
-Here is some code that asks for the dragon's size and then print it.
-
-```python
 size = input("Is the dragon big or small? ")
 print("It was a " + size + " dragon")
-```
 
-Now do the same for the dragon's age.
+age = input("How old is the dragon? ")
+print("The dragon is " + age + " years old")
 
---- /hint --- 
---- hint ---
-
-Here's the full code that you need to ask for the dragon's size and age.
-<iframe src="https://trinket.io/embed/python/3f9399e144" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
---- /hint --- 
---- /hints ---
---- /task ---
-
-Now that you know the age of the dragon, you can work out whether it is young or old. Dragons live for a long time, so they are only considered old if they are older than 1000.
-
-You can use **conditional selection** to work out whether the dragon is young or old. With the`if` and `else` statements, you can make decisions in your Python program. With the **greater than** operator (`>`), you can test whether a number is larger than another number.
-
---- task ---
-
-Add some code to work out whether the dragon is young or old. You need to **type cast** the `age` variable so that the computer knows it is a **number** and not a **character string**. This is important because for the Python language, there is a big difference between the **characters** `1` `0` `0` and the **number** `100`.
-
-<iframe src="https://trinket.io/embed/python/a3e3d4568c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+--- /code ---
 
 --- /task ---
 
 --- task ---
 
-Add another `print` statement to tell the user whether the dragon is young or old. Then add two more `print` statements to create a break before the story begins.
+**Test**: Run your code again and check the output.
 
-<iframe src="https://trinket.io/embed/python/c747445ac5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+--- /task ---
+
+Dragons live for a long time. 
+
+They are only old if their age is more than 1000 years!
+
+--- task ---
+
+Use **conditional selection** to set the description to 'young' or 'old'. 
+
+With `if` and `else` statements, you can make decisions in your Python program. 
+
+With the **greater than** operator (`>`), you can test whether a number is larger than another number.
+
+**Notice**: You must **type cast** the `age` variable, so the computer uses it as a **number** and not a **character string**. In Python, there is a big difference between the **characters** `1` `0` `0` and the **number** `100`.
+
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 1
+line_highlights: 14-19
+---
+from random import choice
+
+print("We are going to hear a story about a dragon!")
+
+name = input("What is the name of the dragon? ")
+print("Excellent. The dragon is called " + name)
+
+size = input("Is the dragon big or small? ")
+print("It was a " + size + " dragon")
+
+age = input("How old is the dragon? ")
+print("The dragon is " + age + " years old")
+
+if int(age) > 1000:
+    description = "an old"
+else:
+    description = "a young"
+
+print("It was an " + description + " dragon.")
+
+--- /code ---
+
+--- /task ---
+
+--- task ---
+
+**Test**: Run your code again and check the output.
+
+If you enter an age less than 1000, you should see the dragon is young.
+
+If you enter an age more than 1000, you should see the dragon is old.
+
+What happens if you enter an age of exactly 1000?
 
 --- /task ---
 
