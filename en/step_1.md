@@ -1,68 +1,22 @@
-## Introduction
-
 ## What you will make
 
 You will use Python to create a program that generates a random story, based on what the user types in.
 
---- no-print ---
+### Play ▶️
 
-Type in the name of your dragon to begin the story.
+--- task ---
 
-<iframe src="https://trinket.io/embed/python/904db1ae15?outputOnly=true&runOption=console&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
+Click on the <strong>Run</strong> button and read the output.
 
---- /no-print ---
+  Type in the name of your dragon and tap <kbd>Enter</kbd> to begin the story.
 
---- print-only ---
+</div>
+<div class="trinket">
+  <iframe src="https://editor.raspberrypi.org/en/embed/viewer/storytime-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+</div>
+</div>
 
-![complete project](images/storytime-final.png)
-
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-
-### Hardware
-
-- A computer that is connected to the internet
-
-OR 
-
-- A computer that runs Python 3
-
-### Software
-
-- [Python 3](https://www.python.org/downloads/){:target="_blank"}, or [Trinket online](https://trinket.io/){:target="_blank"}
-
-### Downloads
-
-Find [the starter project here](https://trinket.io/python/a0aaa62eab){:target="_blank"}.
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-- How to receive user input in Python
-- Why and when you need to convert strings to integers
-- How to use Python code to select random items from a list
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
---- no-print ---
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/storytime/print){:target="_blank"}.
-
---- /no-print ---
-
-You can [find the solution for this project here](https://rpf.io/p/en/storytime){:target="_blank"}.
-
---- /collapse ---
+--- /task ---
