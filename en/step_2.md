@@ -1,4 +1,4 @@
-## Get the dragon's name
+## Get the dragon's name
 
 The story time program generates a story and prints it to the screen so that you can read it. 
 
